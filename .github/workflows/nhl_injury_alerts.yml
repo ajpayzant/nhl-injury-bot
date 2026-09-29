@@ -1,0 +1,100 @@
+name: NHL Injury News Alerts
+
+on:
+  schedule:
+    # Backup only. GitHub throttles scheduled runs heavily (observed ~every 3h),
+    # so the real 5-minute cadence comes from an external scheduler
+    # (cron-job.org) calling the workflow_dispatch API with mode=check.
+    - cron: "*/5 * * * *"
+
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode"
+        required: true
+        default: "check"
+        type: choice
+        options:
+          - check
+          - preview
+          - test-slack
+          - scrape-only
+          - send-latest
+
+      send_backfill_on_first_run:
+        description: "Send current items if the seen file is empty? Usually keep false."
+        required: true
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nhl-injury-alerts
+  cancel-in-progress: false
+
+jobs:
+  run-injury-alert-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # The Daily Faceoff scraper, headline parser and CBS injury data.
+      - name: Checkout NHL Injury Database
+        uses: actions/checkout@v4
+        with:
+          repository: ajpayzant/NHL-Injury-Tool
+          path: injury-db
+          sparse-checkout: |
+            nhl_injuries
+            data/injuries.csv
+            data/nhl/players.csv
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run NHL injury news bot
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          INJURY_DB_DIR: injury-db
+          INJURY_APP_URL: ${{ vars.INJURY_APP_URL }}
+          TEAMS: ${{ vars.TEAMS }}
+          MAX_NEW_ALERTS_PER_RUN: "15"
+          REQUEST_SLEEP_SECONDS: "0.75"
+        run: |
+          MODE="${{ github.event.inputs.mode || 'check' }}"
+          SEND_BACKFILL="${{ github.event.inputs.send_backfill_on_first_run || 'false' }}"
+          echo "Mode: $MODE"
+          python injury_news_alert.py --mode "$MODE" --send-backfill-on-first-run "$SEND_BACKFILL"
+
+      - name: Commit updated seen items and alert log
+        # always(): commit whatever was sent even if the bot step errored, so it is never re-sent.
+        if: always() && (github.event.inputs.mode || 'check') == 'check'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for f in seen_injury_news.json injury_news_alert_log.csv; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "No storage changes to commit."
+          else
+            git commit -m "Update NHL injury alert state [skip ci]"
+            # Rebase in case someone pushed code while this run was going.
+            git pull --rebase origin main
+            git push
+          fi
