@@ -254,5 +254,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Domi (lower-body) has been added to LTIR."
+  },
+  "144464": {
+    "published_at": "2026-09-30T19:38:25Z",
+    "updated_at": "2026-09-30T19:38:25Z",
+    "status": "Out",
+    "timeline": "re-evaluated in 6 weeks",
+    "surgery": true,
+    "headline": "Tucker underwent a successful arthroscopic procedure on his right knee and will be re-evaluated in six weeks."
+  },
+  "144465": {
+    "published_at": "2026-09-30T19:50:44Z",
+    "updated_at": "2026-09-30T19:50:44Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Nedeljkovic (illness) missed practice on Wednesday but is expected to be available for Thursday."
+  },
+  "144468": {
+    "published_at": "2026-09-30T20:23:53Z",
+    "updated_at": "2026-09-30T20:23:53Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Penguins have activated Blake Lizotte (upper-body) from IR."
+  },
+  "144469": {
+    "published_at": "2026-09-30T22:04:43Z",
+    "updated_at": "2026-09-30T22:04:43Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Stars have placed Matt Duchene (lower-body) on IR."
   }
 }
