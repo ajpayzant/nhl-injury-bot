@@ -286,5 +286,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "The Stars have placed Matt Duchene (lower-body) on IR."
+  },
+  "144476": {
+    "published_at": "2026-10-01T14:13:41Z",
+    "updated_at": "2026-10-01T14:46:07Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Nugent-Hopkins (lower-body) has been placed on IR."
+  },
+  "144477": {
+    "published_at": "2026-10-01T14:14:19Z",
+    "updated_at": "2026-10-01T14:47:36Z",
+    "status": "LTIR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Savoie (undisclosed) has been placed on LTIR."
+  },
+  "144478": {
+    "published_at": "2026-10-01T14:14:49Z",
+    "updated_at": "2026-10-01T14:49:17Z",
+    "status": "LTIR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Regula (undisclosed) has been placed on LTIR."
   }
 }
