@@ -398,5 +398,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Samoskevich (upper-body) returned to Seattle's practice on Thursday in a non-contact jersey."
+  },
+  "144524": {
+    "published_at": "2026-10-02T11:09:28Z",
+    "updated_at": "2026-10-02T11:09:28Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Barkov left Thursday's game with a lower-body injury and did not return."
+  },
+  "144525": {
+    "published_at": "2026-10-02T11:12:35Z",
+    "updated_at": "2026-10-02T11:12:35Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Forsling is day-to-day with an upper-body injury and could play Sunday in Anaheim."
   }
 }
