@@ -414,5 +414,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Forsling is day-to-day with an upper-body injury and could play Sunday in Anaheim."
+  },
+  "144533": {
+    "published_at": "2026-10-02T16:06:50Z",
+    "updated_at": "2026-10-02T16:40:30Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foegele (undisclosed) will play in the Senators season opener on Saturday."
+  },
+  "144534": {
+    "published_at": "2026-10-02T16:07:32Z",
+    "updated_at": "2026-10-02T16:43:20Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sanderson (undisclosed) practiced on Friday but remains questionable to play Saturday."
+  },
+  "144543": {
+    "published_at": "2026-10-02T17:31:48Z",
+    "updated_at": "2026-10-02T18:00:47Z",
+    "status": "Out",
+    "timeline": "8-10 weeks",
+    "surgery": true,
+    "headline": "Casey underwent knee surgery and is expected to be out for 8-to-10 weeks."
+  },
+  "144544": {
+    "published_at": "2026-10-02T17:32:36Z",
+    "updated_at": "2026-10-02T18:22:15Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zellweger (concussion) has been cleared to make his Sabres debut on Saturday."
   }
 }
