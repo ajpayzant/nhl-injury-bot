@@ -470,5 +470,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Greer (upper-body) will play Friday in Vegas."
+  },
+  "144639": {
+    "published_at": "2026-10-04T01:05:08Z",
+    "updated_at": "2026-10-04T01:05:08Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower body) left Saturday's game and will not return."
+  },
+  "144640": {
+    "published_at": "2026-10-04T01:21:31Z",
+    "updated_at": "2026-10-04T01:21:31Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ristolainen (undisclosed) left Saturday's game and will not return."
+  },
+  "144642": {
+    "published_at": "2026-10-04T01:32:41Z",
+    "updated_at": "2026-10-04T01:32:41Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carrier (undisclosed) left Saturday's game and will not return."
+  },
+  "144644": {
+    "published_at": "2026-10-04T01:38:51Z",
+    "updated_at": "2026-10-04T01:38:51Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Trouba (illness) is on the ice for warmups and is expected to play on Saturday."
   }
 }
