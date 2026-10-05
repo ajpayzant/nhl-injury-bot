@@ -630,5 +630,69 @@
     "timeline": "",
     "surgery": false,
     "headline": "Lilleberg (undisclosed) left Saturday's game vs. Washington and is being further evaluated."
+  },
+  "144651": {
+    "published_at": "2026-10-04T17:55:19Z",
+    "updated_at": "2026-10-04T17:57:37Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "O'Connor (lower-body) practiced in a regular jersey on Sunday."
+  },
+  "144652": {
+    "published_at": "2026-10-04T18:04:55Z",
+    "updated_at": "2026-10-04T18:06:26Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "L'Heureux (lower-body) was a full participant in Colorado's practice on Sunday."
+  },
+  "144654": {
+    "published_at": "2026-10-04T19:08:24Z",
+    "updated_at": "2026-10-04T19:11:03Z",
+    "status": "Out",
+    "timeline": "re-evaluated in 6 weeks",
+    "surgery": false,
+    "headline": "Toropchenko will be re-evaluated in six weeks for an upper-body injury."
+  },
+  "144657": {
+    "published_at": "2026-10-04T21:38:23Z",
+    "updated_at": "2026-10-04T21:45:33Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchand (undisclosed) will return to Florida's lineup on Sunday in Anaheim."
+  },
+  "144660": {
+    "published_at": "2026-10-04T23:12:39Z",
+    "updated_at": "2026-10-04T23:12:39Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Veleno (lower-body) left Sunday's game vs. Utah and will not return."
+  },
+  "144667": {
+    "published_at": "2026-10-04T23:33:06Z",
+    "updated_at": "2026-10-05T00:53:19Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ekblad (undisclosed) is out vs. Anaheim on Sunday."
+  },
+  "144670": {
+    "published_at": "2026-10-04T23:36:37Z",
+    "updated_at": "2026-10-05T00:51:34Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Forsling (upper-body) is expected to return in Anaheim on Sunday."
+  },
+  "144672": {
+    "published_at": "2026-10-04T23:46:15Z",
+    "updated_at": "2026-10-05T00:55:58Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hanley will be a healthy scratch vs. Seattle on Sunday."
   }
 }
