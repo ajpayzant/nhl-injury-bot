@@ -1,20 +1,4 @@
 {
-  "144438": {
-    "published_at": "2026-09-29T21:21:20Z",
-    "updated_at": "2026-09-29T21:21:20Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "DeBrusk (lower-body) will play in the Canucks season opener on Tuesday."
-  },
-  "144439": {
-    "published_at": "2026-09-29T22:49:38Z",
-    "updated_at": "2026-09-29T22:49:38Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Demidov (foot) will play in Montreal's season opener."
-  },
   "144443": {
     "published_at": "2026-09-30T13:35:23Z",
     "updated_at": "2026-09-30T13:35:23Z",
@@ -686,5 +670,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Ullmark (undisclosed) did not return to the crease for the third period."
+  },
+  "144787": {
+    "published_at": "2026-10-06T22:50:33Z",
+    "updated_at": "2026-10-06T22:50:33Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carrier (undisclosed) will play vs. Carolina on Tuesday after originally being a game-time decision."
+  },
+  "144788": {
+    "published_at": "2026-10-06T22:54:38Z",
+    "updated_at": "2026-10-06T22:54:38Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Yurov (upper-body) will play in Buffalo on Tuesday after originally being a game-time decision."
   }
 }
