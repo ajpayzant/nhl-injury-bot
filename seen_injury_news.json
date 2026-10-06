@@ -1,60 +1,4 @@
 {
-  "144392": {
-    "published_at": "2026-09-28T18:31:29Z",
-    "updated_at": "2026-09-28T18:31:29Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Rust (upper body) has been placed on IR and is out week-to-week."
-  },
-  "144393": {
-    "published_at": "2026-09-28T20:27:20Z",
-    "updated_at": "2026-09-28T20:27:20Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Edmundson (undisclosed) is day-to-day."
-  },
-  "144394": {
-    "published_at": "2026-09-28T20:37:37Z",
-    "updated_at": "2026-09-28T22:00:03Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Timmins (lower body) has been placed on IR."
-  },
-  "144395": {
-    "published_at": "2026-09-28T21:00:30Z",
-    "updated_at": "2026-09-28T22:20:07Z",
-    "status": "Out",
-    "timeline": "4-6 months",
-    "surgery": true,
-    "headline": "Lamoureux underwent successful shoulder surgery and is expected to miss the next 4-6 months."
-  },
-  "144396": {
-    "published_at": "2026-09-28T21:06:52Z",
-    "updated_at": "2026-09-28T21:06:52Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Faber (upper body) has been placed on IR."
-  },
-  "144406": {
-    "published_at": "2026-09-28T21:29:52Z",
-    "updated_at": "2026-09-28T22:01:46Z",
-    "status": "Injured non-roster",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Foegele (undisclosed) will begin the season as an injured/non-roster player."
-  },
-  "144407": {
-    "published_at": "2026-09-28T21:31:11Z",
-    "updated_at": "2026-09-28T22:03:45Z",
-    "status": "Injured non-roster",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kurtis MacDermid (upper-body) will begin the 2026-27 season as an injured/non-roster player."
-  },
   "144409": {
     "published_at": "2026-09-29T12:13:49Z",
     "updated_at": "2026-09-29T12:13:49Z",
@@ -694,5 +638,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Hanley will be a healthy scratch vs. Seattle on Sunday."
+  },
+  "144720": {
+    "published_at": "2026-10-05T22:35:09Z",
+    "updated_at": "2026-10-05T22:35:09Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ristolainen (undisclosed) is not on the ice for warmups and will not play Monday in Tampa."
+  },
+  "144725": {
+    "published_at": "2026-10-06T00:07:23Z",
+    "updated_at": "2026-10-06T00:07:23Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Celebrini was a late scratch on Monday due to a lower-body injury."
   }
 }
