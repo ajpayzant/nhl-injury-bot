@@ -1,20 +1,4 @@
 {
-  "144409": {
-    "published_at": "2026-09-29T12:13:49Z",
-    "updated_at": "2026-09-29T12:13:49Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Marchenko (work visa) is questionable for Tuesday's game vs. Montreal."
-  },
-  "144410": {
-    "published_at": "2026-09-29T14:47:03Z",
-    "updated_at": "2026-09-29T14:47:03Z",
-    "status": "Out",
-    "timeline": "3-5 months",
-    "surgery": false,
-    "headline": "Merzlikins (shoulder) is expected to be out for another 3-to-5 months."
-  },
   "144412": {
     "published_at": "2026-09-29T15:22:59Z",
     "updated_at": "2026-09-29T15:22:59Z",
@@ -751,6 +735,14 @@
     "surgery": false,
     "headline": "Barkey (lower-body) will make his season debut in Tampa Bay on Monday."
   },
+  "144718": {
+    "published_at": "2026-10-05T21:01:12Z",
+    "updated_at": "2026-10-05T21:12:31Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Grebenkin (upper-body) has been placed on injured reserve."
+  },
   "144720": {
     "published_at": "2026-10-05T22:35:09Z",
     "updated_at": "2026-10-05T22:35:09Z",
@@ -766,5 +758,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Celebrini was a late scratch on Monday due to a lower-body injury."
+  },
+  "144728": {
+    "published_at": "2026-10-06T01:43:07Z",
+    "updated_at": "2026-10-06T01:43:07Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ullmark (undisclosed) did not return to the crease for the third period."
   }
 }
