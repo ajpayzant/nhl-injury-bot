@@ -1,52 +1,4 @@
 {
-  "144443": {
-    "published_at": "2026-09-30T13:35:23Z",
-    "updated_at": "2026-09-30T13:35:23Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Mangiapane (lower-body) is not expected to play on the remainder of Chicago\u2019s road trip."
-  },
-  "144448": {
-    "published_at": "2026-09-30T15:48:09Z",
-    "updated_at": "2026-09-30T18:15:37Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Helleson (lower-body) has been placed on IR."
-  },
-  "144449": {
-    "published_at": "2026-09-30T15:48:52Z",
-    "updated_at": "2026-09-30T18:13:14Z",
-    "status": "LTIR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Terry (hip) has been placed to LTIR."
-  },
-  "144450": {
-    "published_at": "2026-09-30T15:51:45Z",
-    "updated_at": "2026-09-30T16:05:31Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Zellweger (concussion) will be out for Buffalo's season opener vs. Columbus on Thursday and is considered day-to-day."
-  },
-  "144451": {
-    "published_at": "2026-09-30T15:52:30Z",
-    "updated_at": "2026-09-30T18:08:59Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Samuelsson (lower-body) has a chance to play in Buffalo's season opener vs. Columbus on Thursday."
-  },
-  "144454": {
-    "published_at": "2026-09-30T16:42:50Z",
-    "updated_at": "2026-09-30T18:06:21Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sanderson (undisclosed) skated on Wednesday and is hopeful to return on Saturday vs. Toronto."
-  },
   "144456": {
     "published_at": "2026-09-30T16:44:48Z",
     "updated_at": "2026-09-30T18:04:24Z",
@@ -775,6 +727,14 @@
     "surgery": false,
     "headline": "Celebrini (lower-body) is considered day-to-day but is still being evaluated."
   },
+  "144784": {
+    "published_at": "2026-10-06T22:38:16Z",
+    "updated_at": "2026-10-06T22:38:16Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Larkin (upper-body) is expected to return and make his season debut vs. Ottawa on Tuesday."
+  },
   "144787": {
     "published_at": "2026-10-06T22:50:33Z",
     "updated_at": "2026-10-06T22:50:33Z",
@@ -790,5 +750,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Yurov (upper-body) will play in Buffalo on Tuesday after originally being a game-time decision."
+  },
+  "144793": {
+    "published_at": "2026-10-07T02:05:58Z",
+    "updated_at": "2026-10-07T02:05:58Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sergachev left Tuesday's game with an upper-body injury and did not return."
+  },
+  "144794": {
+    "published_at": "2026-10-07T03:01:36Z",
+    "updated_at": "2026-10-07T03:01:36Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Siegenthaler left Tuesday\u2019s game vs. Utah with an undisclosed injury and did not return."
+  },
+  "144795": {
+    "published_at": "2026-10-07T04:19:01Z",
+    "updated_at": "2026-10-07T04:19:01Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Lindgren left Tuesday\u2019s game vs. Vegas with an upper-body injury and will not return."
+  },
+  "144796": {
+    "published_at": "2026-10-07T04:20:02Z",
+    "updated_at": "2026-10-07T14:40:02Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchand (lower-body) left Tuesday\u2019s game vs. Los Angeles."
   }
 }
