@@ -1,68 +1,4 @@
 {
-  "144456": {
-    "published_at": "2026-09-30T16:44:48Z",
-    "updated_at": "2026-09-30T18:04:24Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Burakovsky (upper-body) is not expected to play in Ottawa's upcoming game this weekend."
-  },
-  "144457": {
-    "published_at": "2026-09-30T17:29:14Z",
-    "updated_at": "2026-09-30T18:02:18Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Brown (lower-body) will miss New Jersey's first two games of the season."
-  },
-  "144458": {
-    "published_at": "2026-09-30T17:36:34Z",
-    "updated_at": "2026-09-30T18:00:02Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Duchene (upper-body) is doubtful for Dallas' season opener vs. St. Louis on Friday."
-  },
-  "144460": {
-    "published_at": "2026-09-30T18:16:47Z",
-    "updated_at": "2026-09-30T18:18:42Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Edmundson (undisclosed) will play in Los Angeles' season opener vs. Colorado on Wednesday."
-  },
-  "144462": {
-    "published_at": "2026-09-30T18:43:47Z",
-    "updated_at": "2026-09-30T18:43:47Z",
-    "status": "LTIR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Domi (lower-body) has been added to LTIR."
-  },
-  "144464": {
-    "published_at": "2026-09-30T19:38:25Z",
-    "updated_at": "2026-09-30T19:38:25Z",
-    "status": "Out",
-    "timeline": "re-evaluated in 6 weeks",
-    "surgery": true,
-    "headline": "Tucker underwent a successful arthroscopic procedure on his right knee and will be re-evaluated in six weeks."
-  },
-  "144465": {
-    "published_at": "2026-09-30T19:50:44Z",
-    "updated_at": "2026-09-30T19:50:44Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Nedeljkovic (illness) missed practice on Wednesday but is expected to be available for Thursday."
-  },
-  "144468": {
-    "published_at": "2026-09-30T20:23:53Z",
-    "updated_at": "2026-09-30T20:23:53Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Penguins have activated Blake Lizotte (upper-body) from IR."
-  },
   "144469": {
     "published_at": "2026-09-30T22:04:43Z",
     "updated_at": "2026-09-30T22:04:43Z",
@@ -782,5 +718,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Marchand (lower-body) left Tuesday\u2019s game vs. Los Angeles."
+  },
+  "144797": {
+    "published_at": "2026-10-07T05:05:37Z",
+    "updated_at": "2026-10-07T14:43:07Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olofsson left Tuesday\u2019s game vs. Seattle with an undisclosed injury and did not return."
   }
 }
