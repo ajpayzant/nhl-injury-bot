@@ -718,5 +718,101 @@
     "timeline": "",
     "surgery": false,
     "headline": "Olofsson left Tuesday\u2019s game vs. Seattle with an undisclosed injury and did not return."
+  },
+  "144798": {
+    "published_at": "2026-10-07T14:14:18Z",
+    "updated_at": "2026-10-07T14:48:18Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Teravainen (lower-body) is out vs. the Islanders on Thursday."
+  },
+  "144800": {
+    "published_at": "2026-10-07T14:36:15Z",
+    "updated_at": "2026-10-07T14:50:31Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "L'Heureux (lower-body) will make his Avalanche debut on Wednesday vs. Winnipeg."
+  },
+  "144804": {
+    "published_at": "2026-10-07T14:46:56Z",
+    "updated_at": "2026-10-07T15:06:16Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Doan is dealing with a lower-body injury after being limited in Tuesday's game vs. Minnesota."
+  },
+  "144809": {
+    "published_at": "2026-10-07T15:10:24Z",
+    "updated_at": "2026-10-07T15:42:48Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "James (hand) is expected to return on Thursday vs. Minnesota."
+  },
+  "144810": {
+    "published_at": "2026-10-07T15:19:57Z",
+    "updated_at": "2026-10-07T15:43:19Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower-body) is out vs. Pittsburgh and is considered day-to-day."
+  },
+  "144811": {
+    "published_at": "2026-10-07T15:41:03Z",
+    "updated_at": "2026-10-07T15:45:45Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Romanov missed practice on Wednesday after exiting Tuesday's game with an undisclosed injury."
+  },
+  "144816": {
+    "published_at": "2026-10-07T15:58:48Z",
+    "updated_at": "2026-10-07T16:17:27Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rust (upper-body) will be a game-time decision vs. Washington on Wednesday."
+  },
+  "144818": {
+    "published_at": "2026-10-07T16:29:06Z",
+    "updated_at": "2026-10-07T16:39:11Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kiviranta (lower-body) is expected to miss the remainder of Dallas' road trip."
+  },
+  "144819": {
+    "published_at": "2026-10-07T16:39:27Z",
+    "updated_at": "2026-10-07T18:19:01Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Montembeault left Wednesday's practice with a lower-body injury and did not return."
+  },
+  "144820": {
+    "published_at": "2026-10-07T17:33:10Z",
+    "updated_at": "2026-10-07T18:12:08Z",
+    "status": "Out",
+    "timeline": "6-8 months",
+    "surgery": true,
+    "headline": "Romanov will undergo surgery to repair an ACL tear and miss 6-8 months."
+  },
+  "144822": {
+    "published_at": "2026-10-07T18:07:28Z",
+    "updated_at": "2026-10-07T18:20:50Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dickinson (undisclosed) will make his season debut in Anaheim on Wednesday."
+  },
+  "144825": {
+    "published_at": "2026-10-07T19:03:50Z",
+    "updated_at": "2026-10-07T19:37:33Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foligno (upper-body) left Tuesday's game vs. Buffalo and did not return."
   }
 }
