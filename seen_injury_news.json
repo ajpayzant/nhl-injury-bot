@@ -1,28 +1,4 @@
 {
-  "144476": {
-    "published_at": "2026-10-01T14:13:41Z",
-    "updated_at": "2026-10-01T14:46:07Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Nugent-Hopkins (lower-body) has been placed on IR."
-  },
-  "144477": {
-    "published_at": "2026-10-01T14:14:19Z",
-    "updated_at": "2026-10-01T14:47:36Z",
-    "status": "LTIR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Savoie (undisclosed) has been placed on LTIR."
-  },
-  "144478": {
-    "published_at": "2026-10-01T14:14:49Z",
-    "updated_at": "2026-10-01T14:49:17Z",
-    "status": "LTIR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Regula (undisclosed) has been placed on LTIR."
-  },
   "144485": {
     "published_at": "2026-10-01T15:03:19Z",
     "updated_at": "2026-10-01T15:16:08Z",
@@ -814,5 +790,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Foligno (upper-body) left Tuesday's game vs. Buffalo and did not return."
+  },
+  "144827": {
+    "published_at": "2026-10-07T20:57:50Z",
+    "updated_at": "2026-10-07T20:57:56Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dach (undisclosed) has been placed on IR."
+  },
+  "144830": {
+    "published_at": "2026-10-07T23:02:12Z",
+    "updated_at": "2026-10-07T23:02:12Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rust (upper-body) will make his season debut on Wednesday."
+  },
+  "144832": {
+    "published_at": "2026-10-08T01:44:58Z",
+    "updated_at": "2026-10-08T14:50:44Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Morrissey left Wednesday's game with an upper-body injury and will not return."
   }
 }
