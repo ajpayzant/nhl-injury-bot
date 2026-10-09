@@ -1,20 +1,4 @@
 {
-  "144524": {
-    "published_at": "2026-10-02T11:09:28Z",
-    "updated_at": "2026-10-02T11:09:28Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Barkov left Thursday's game with a lower-body injury and did not return."
-  },
-  "144525": {
-    "published_at": "2026-10-02T11:12:35Z",
-    "updated_at": "2026-10-02T11:12:35Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Forsling is day-to-day with an upper-body injury and could play Sunday in Anaheim."
-  },
   "144533": {
     "published_at": "2026-10-02T16:06:50Z",
     "updated_at": "2026-10-02T16:40:30Z",
@@ -822,6 +806,30 @@
     "timeline": "",
     "surgery": false,
     "headline": "Bernard-Docker (upper-body) has been activated from IR."
+  },
+  "144890": {
+    "published_at": "2026-10-08T18:52:38Z",
+    "updated_at": "2026-10-08T19:20:32Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olofsson (undisclosed) is considered week-to-week."
+  },
+  "144892": {
+    "published_at": "2026-10-08T20:27:56Z",
+    "updated_at": "2026-10-08T20:35:24Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchand (lower-body) is reportedly expected to miss a \"few weeks.\""
+  },
+  "144899": {
+    "published_at": "2026-10-08T22:34:15Z",
+    "updated_at": "2026-10-08T22:34:15Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Maatta (lower-body) is out vs. Tampa Bay on Thursday."
   },
   "144902": {
     "published_at": "2026-10-08T22:40:52Z",
