@@ -1,20 +1,4 @@
 {
-  "144550": {
-    "published_at": "2026-10-02T22:02:47Z",
-    "updated_at": "2026-10-02T22:02:47Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Red Wings have placed Dylan Larkin (upper-body) on IR."
-  },
-  "144551": {
-    "published_at": "2026-10-02T22:04:48Z",
-    "updated_at": "2026-10-02T22:04:48Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Red Wings have activated Andreas Englund from the immigration non-roster list."
-  },
   "144553": {
     "published_at": "2026-10-03T01:40:24Z",
     "updated_at": "2026-10-03T01:40:24Z",
@@ -822,5 +806,61 @@
     "timeline": "",
     "surgery": false,
     "headline": "Eklund suffered a lower-body injury and had to be helped off the ice vs. Philadelphia."
+  },
+  "144948": {
+    "published_at": "2026-10-09T19:50:50Z",
+    "updated_at": "2026-10-09T19:58:08Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman (upper-body) returned to Oilers\u2019 practice on Friday."
+  },
+  "144949": {
+    "published_at": "2026-10-09T20:05:44Z",
+    "updated_at": "2026-10-09T20:24:47Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carcone (undisclosed) is a game-time decision for Saturday vs. Buffalo."
+  },
+  "144950": {
+    "published_at": "2026-10-09T20:21:07Z",
+    "updated_at": "2026-10-09T20:26:40Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zuccarello (upper-body) is considered week-to-week."
+  },
+  "144951": {
+    "published_at": "2026-10-09T20:22:54Z",
+    "updated_at": "2026-10-09T20:27:57Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Turcotte (undisclosed) missed practice on Friday and is considered day-to-day."
+  },
+  "144952": {
+    "published_at": "2026-10-09T20:53:07Z",
+    "updated_at": "2026-10-09T21:02:43Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Celebrini (lower-body) is a game-time decision on Saturday vs. Edmonton."
+  },
+  "144953": {
+    "published_at": "2026-10-09T21:03:46Z",
+    "updated_at": "2026-10-09T21:14:11Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sherwood (upper-body) will be a game-time decision vs. Edmonton on Saturday."
+  },
+  "144965": {
+    "published_at": "2026-10-09T22:50:35Z",
+    "updated_at": "2026-10-09T22:50:35Z",
+    "status": "LTIR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Devils have placed Nick Bjugstad (pectoral) on LTIR."
   }
 }
