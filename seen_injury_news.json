@@ -726,5 +726,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Morrissey left Wednesday's game with an upper-body injury and will not return."
+  },
+  "144902": {
+    "published_at": "2026-10-08T22:40:52Z",
+    "updated_at": "2026-10-08T22:40:52Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Doan (lower-body) will play vs. Dallas on Thursday."
+  },
+  "144906": {
+    "published_at": "2026-10-08T23:28:41Z",
+    "updated_at": "2026-10-08T23:28:41Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Celebrini (lower-body) is not on the ice for warmups; will not play Thursday in St. Louis."
+  },
+  "144907": {
+    "published_at": "2026-10-08T23:32:23Z",
+    "updated_at": "2026-10-08T23:32:23Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Eklund suffered a lower-body injury and had to be helped off the ice vs. Philadelphia."
   }
 }
