@@ -1,92 +1,4 @@
 {
-  "144558": {
-    "published_at": "2026-10-03T15:24:53Z",
-    "updated_at": "2026-10-03T15:24:53Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Barzal (knee) is hopeful to begin skating before the end of next week."
-  },
-  "144563": {
-    "published_at": "2026-10-03T15:41:34Z",
-    "updated_at": "2026-10-03T15:41:34Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Samoskevich (upper body) has been activated from IR."
-  },
-  "144564": {
-    "published_at": "2026-10-03T15:42:00Z",
-    "updated_at": "2026-10-03T15:42:00Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Melanson (upper body) is week-to-week and has been placed on IR."
-  },
-  "144568": {
-    "published_at": "2026-10-03T15:47:06Z",
-    "updated_at": "2026-10-03T15:47:06Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sanderson (undisclosed) is expected to play in Toronto on Saturday."
-  },
-  "144573": {
-    "published_at": "2026-10-03T16:15:14Z",
-    "updated_at": "2026-10-03T16:15:14Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Samoskevich (upper body) will make his season debut on Saturday."
-  },
-  "144574": {
-    "published_at": "2026-10-03T16:16:25Z",
-    "updated_at": "2026-10-03T16:16:25Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kasper (upper body) will not play on Sunday."
-  },
-  "144576": {
-    "published_at": "2026-10-03T16:20:51Z",
-    "updated_at": "2026-10-03T16:20:51Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byram (personal) will not play on Saturday."
-  },
-  "144581": {
-    "published_at": "2026-10-03T16:54:24Z",
-    "updated_at": "2026-10-03T16:54:24Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kindel (lower body) has been activated from IR."
-  },
-  "144587": {
-    "published_at": "2026-10-03T18:02:08Z",
-    "updated_at": "2026-10-03T18:13:03Z",
-    "status": "LTIR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Barkov (lower body) has been placed on LTIR."
-  },
-  "144588": {
-    "published_at": "2026-10-03T18:10:42Z",
-    "updated_at": "2026-10-03T18:10:42Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Trouba (illness) will be a game-time decision on Saturday."
-  },
-  "144591": {
-    "published_at": "2026-10-03T18:18:54Z",
-    "updated_at": "2026-10-03T18:18:54Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "DeBrusk (illness) will not play on Saturday."
-  },
   "144606": {
     "published_at": "2026-10-03T21:25:39Z",
     "updated_at": "2026-10-03T21:25:39Z",
@@ -950,5 +862,77 @@
     "timeline": "",
     "surgery": false,
     "headline": "Shesterkin left Friday's game with a lower-body injury and will not return."
+  },
+  "144972": {
+    "published_at": "2026-10-10T02:46:37Z",
+    "updated_at": "2026-10-10T02:46:37Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bourque (upper-body) is not expected to play Saturday in Ottawa."
+  },
+  "145011": {
+    "published_at": "2026-10-10T17:00:47Z",
+    "updated_at": "2026-10-10T17:00:47Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Yamamoto will make his season debut on Saturday."
+  },
+  "145014": {
+    "published_at": "2026-10-10T17:33:35Z",
+    "updated_at": "2026-10-10T17:33:35Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Devils have activated Johnathan Kovacevic (knee) from IR."
+  },
+  "145016": {
+    "published_at": "2026-10-10T18:05:46Z",
+    "updated_at": "2026-10-10T18:05:46Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Kings have placed Mats Zuccarello (undisclosed) on IR."
+  },
+  "145017": {
+    "published_at": "2026-10-10T18:05:58Z",
+    "updated_at": "2026-10-10T18:05:58Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Kings have placed Alex Turcotte (undisclosed) on IR."
+  },
+  "145019": {
+    "published_at": "2026-10-10T18:06:25Z",
+    "updated_at": "2026-10-10T18:06:25Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Sharks have activated Adam Gaudette (upper-body) from IR."
+  },
+  "145020": {
+    "published_at": "2026-10-10T18:06:39Z",
+    "updated_at": "2026-10-10T18:06:39Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Honzek (undisclosed) willl not play Saturday vs. the Ducks."
+  },
+  "145022": {
+    "published_at": "2026-10-10T18:50:03Z",
+    "updated_at": "2026-10-10T18:50:03Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mukhamadulkin will be back in the Sharks lineup on Saturday."
+  },
+  "145023": {
+    "published_at": "2026-10-10T18:50:16Z",
+    "updated_at": "2026-10-10T18:50:16Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Walman (undisclosed) will not play Saturday in San Jose."
   }
 }
