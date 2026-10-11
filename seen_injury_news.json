@@ -870,5 +870,93 @@
     "timeline": "",
     "surgery": false,
     "headline": "Walman (undisclosed) will not play Saturday in San Jose."
+  },
+  "145032": {
+    "published_at": "2026-10-10T19:15:56Z",
+    "updated_at": "2026-10-10T19:15:56Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Siegenthaler (undisclosed) will play vs. Vancouver on Saturday."
+  },
+  "145034": {
+    "published_at": "2026-10-10T19:32:30Z",
+    "updated_at": "2026-10-10T19:34:20Z",
+    "status": "Out indefinitely",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Melanson will be out indefinitely after suffering an upper-body injury."
+  },
+  "145035": {
+    "published_at": "2026-10-10T19:39:28Z",
+    "updated_at": "2026-10-10T19:39:28Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Celebrini (lower-body) is expected to play vs. Edmonton on Saturday."
+  },
+  "145036": {
+    "published_at": "2026-10-10T19:40:02Z",
+    "updated_at": "2026-10-10T19:40:02Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sherwood (upper-body) will play vs. Edmonton after originally being a game-time decision."
+  },
+  "145038": {
+    "published_at": "2026-10-10T19:41:37Z",
+    "updated_at": "2026-10-10T19:41:37Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gaudette (upper-body) will not return on Saturday vs. Edmonton."
+  },
+  "145045": {
+    "published_at": "2026-10-10T21:33:52Z",
+    "updated_at": "2026-10-10T21:33:52Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bogosian (undisclosed) is out vs. Florida on Saturday."
+  },
+  "145047": {
+    "published_at": "2026-10-10T21:35:19Z",
+    "updated_at": "2026-10-10T21:35:19Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foligno (undisclosed) is out vs. Florida on Saturday."
+  },
+  "145051": {
+    "published_at": "2026-10-10T22:32:11Z",
+    "updated_at": "2026-10-10T22:32:11Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carcone (upper-body) will be out Saturday vs. Buffalo and is considered week-to-week."
+  },
+  "145057": {
+    "published_at": "2026-10-10T22:50:41Z",
+    "updated_at": "2026-10-10T22:50:41Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Lilleberg (undisclosed) has potential to return vs. New York on Tuesday."
+  },
+  "145065": {
+    "published_at": "2026-10-11T00:16:40Z",
+    "updated_at": "2026-10-11T00:16:40Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tanev (upper-body) left Saturday's game vs. Colorado and will not return."
+  },
+  "145066": {
+    "published_at": "2026-10-11T00:19:53Z",
+    "updated_at": "2026-10-11T00:19:53Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ekman-Larsson (undisclosed) will play vs. Colorado on Saturday."
   }
 }
