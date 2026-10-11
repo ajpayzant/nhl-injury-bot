@@ -1,28 +1,4 @@
 {
-  "144650": {
-    "published_at": "2026-10-04T17:10:04Z",
-    "updated_at": "2026-10-04T17:10:04Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Lilleberg (undisclosed) left Saturday's game vs. Washington and is being further evaluated."
-  },
-  "144651": {
-    "published_at": "2026-10-04T17:55:19Z",
-    "updated_at": "2026-10-04T17:57:37Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "O'Connor (lower-body) practiced in a regular jersey on Sunday."
-  },
-  "144652": {
-    "published_at": "2026-10-04T18:04:55Z",
-    "updated_at": "2026-10-04T18:06:26Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "L'Heureux (lower-body) was a full participant in Colorado's practice on Sunday."
-  },
   "144654": {
     "published_at": "2026-10-04T19:08:24Z",
     "updated_at": "2026-10-04T19:11:03Z",
@@ -958,5 +934,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Ekman-Larsson (undisclosed) will play vs. Colorado on Saturday."
+  },
+  "145074": {
+    "published_at": "2026-10-11T03:28:22Z",
+    "updated_at": "2026-10-11T03:28:22Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gauthier (upper-body) left Saturday\u2019s game vs. Calgary and will not return."
   }
 }
