@@ -894,5 +894,61 @@
     "timeline": "",
     "surgery": false,
     "headline": "Gauthier (upper-body) left Saturday\u2019s game vs. Calgary and will not return."
+  },
+  "145079": {
+    "published_at": "2026-10-11T15:53:45Z",
+    "updated_at": "2026-10-11T15:53:45Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Crotty (undisclosed) has been placed on IR."
+  },
+  "145080": {
+    "published_at": "2026-10-11T16:01:26Z",
+    "updated_at": "2026-10-11T16:01:26Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bedard (shoulder) was a full participant in Chicago's practice on Sunday."
+  },
+  "145081": {
+    "published_at": "2026-10-11T16:15:22Z",
+    "updated_at": "2026-10-11T16:15:22Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Poehling (lower-body) left Saturday's game vs. Calgary and did not return."
+  },
+  "145083": {
+    "published_at": "2026-10-11T18:04:11Z",
+    "updated_at": "2026-10-11T18:04:11Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Flyers have placed Travis Konecny (lower-body) on IR."
+  },
+  "145086": {
+    "published_at": "2026-10-11T18:30:28Z",
+    "updated_at": "2026-10-11T18:30:28Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Golden Knights have placed Victor Olofsson (undisclosed) on IR."
+  },
+  "145088": {
+    "published_at": "2026-10-11T18:49:59Z",
+    "updated_at": "2026-10-11T18:49:59Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dubois (illness) will be a game-time decision on Sunday."
+  },
+  "145089": {
+    "published_at": "2026-10-11T19:17:04Z",
+    "updated_at": "2026-10-11T19:17:04Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman (upper-body) is expected to return on Tuesday in Los Angeles."
   }
 }
