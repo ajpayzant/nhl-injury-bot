@@ -1,36 +1,4 @@
 {
-  "144712": {
-    "published_at": "2026-10-05T17:42:32Z",
-    "updated_at": "2026-10-05T19:17:47Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Mangiapane (lower-body) is considered week-to-week."
-  },
-  "144717": {
-    "published_at": "2026-10-05T19:30:07Z",
-    "updated_at": "2026-10-05T19:57:43Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Barkey (lower-body) will make his season debut in Tampa Bay on Monday."
-  },
-  "144718": {
-    "published_at": "2026-10-05T21:01:12Z",
-    "updated_at": "2026-10-05T21:12:31Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Grebenkin (upper-body) has been placed on injured reserve."
-  },
-  "144720": {
-    "published_at": "2026-10-05T22:35:09Z",
-    "updated_at": "2026-10-05T22:35:09Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ristolainen (undisclosed) is not on the ice for warmups and will not play Monday in Tampa."
-  },
   "144725": {
     "published_at": "2026-10-06T00:07:23Z",
     "updated_at": "2026-10-06T00:07:23Z",
@@ -870,5 +838,61 @@
     "timeline": "",
     "surgery": false,
     "headline": "Staal (lower-body) will not play Sunday in Philadelphia."
+  },
+  "145134": {
+    "published_at": "2026-10-12T18:31:07Z",
+    "updated_at": "2026-10-12T18:39:21Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dahlin (upper-body) left Monday's game vs. Florida and will not return."
+  },
+  "145135": {
+    "published_at": "2026-10-12T18:31:42Z",
+    "updated_at": "2026-10-12T18:41:59Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tanev (upper-body) has been placed on IR retroactive to October 10th."
+  },
+  "145138": {
+    "published_at": "2026-10-12T18:50:55Z",
+    "updated_at": "2026-10-12T19:15:53Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bezeau (undisclosed) has been activated off the Injured/Non-Roster list and loaned to Cleveland (AHL)."
+  },
+  "145140": {
+    "published_at": "2026-10-12T19:25:56Z",
+    "updated_at": "2026-10-12T19:27:56Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Goodrow (illness) missed practice on Monday."
+  },
+  "145142": {
+    "published_at": "2026-10-12T20:06:51Z",
+    "updated_at": "2026-10-12T20:18:59Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dahlin left Monday\u2019s game vs. Florida with a lower-body injury and is considered day-to-day."
+  },
+  "145150": {
+    "published_at": "2026-10-12T22:35:54Z",
+    "updated_at": "2026-10-12T22:35:54Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Evangelista (illness) is on the ice for warmups and is expected to play Monday."
+  },
+  "145151": {
+    "published_at": "2026-10-12T23:20:52Z",
+    "updated_at": "2026-10-12T23:20:52Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wotherspoon will be out week-to-week with an upper-body injury."
   }
 }
