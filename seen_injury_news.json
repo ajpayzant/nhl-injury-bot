@@ -1,44 +1,4 @@
 {
-  "144770": {
-    "published_at": "2026-10-06T18:29:14Z",
-    "updated_at": "2026-10-06T18:54:27Z",
-    "status": "Out",
-    "timeline": "6-8 weeks",
-    "surgery": false,
-    "headline": "Barkov (lower body) is expected to miss six to eight weeks."
-  },
-  "144777": {
-    "published_at": "2026-10-06T21:08:34Z",
-    "updated_at": "2026-10-06T21:17:16Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Celebrini (lower-body) is considered day-to-day but is still being evaluated."
-  },
-  "144784": {
-    "published_at": "2026-10-06T22:38:16Z",
-    "updated_at": "2026-10-06T22:38:16Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Larkin (upper-body) is expected to return and make his season debut vs. Ottawa on Tuesday."
-  },
-  "144787": {
-    "published_at": "2026-10-06T22:50:33Z",
-    "updated_at": "2026-10-06T22:50:33Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Carrier (undisclosed) will play vs. Carolina on Tuesday after originally being a game-time decision."
-  },
-  "144788": {
-    "published_at": "2026-10-06T22:54:38Z",
-    "updated_at": "2026-10-06T22:54:38Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Yurov (upper-body) will play in Buffalo on Tuesday after originally being a game-time decision."
-  },
   "144793": {
     "published_at": "2026-10-07T02:05:58Z",
     "updated_at": "2026-10-07T02:05:58Z",
@@ -894,5 +854,61 @@
     "timeline": "",
     "surgery": false,
     "headline": "Sturm (upper-body) left Monday\u2019s game vs. Vegas and will not return."
+  },
+  "145230": {
+    "published_at": "2026-10-13T19:56:54Z",
+    "updated_at": "2026-10-13T20:30:09Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Markstrom (undisclosed) will be out vs. Columbus on Tuesday and is considered day-to-day."
+  },
+  "145231": {
+    "published_at": "2026-10-13T19:57:30Z",
+    "updated_at": "2026-10-13T20:31:35Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gudas (undisclosed) is out vs. Columbus on Tuesday and considered day-to-day."
+  },
+  "145233": {
+    "published_at": "2026-10-13T19:59:21Z",
+    "updated_at": "2026-10-13T20:33:57Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kovacevic (knee) will make his season debut on Tuesday in Detroit."
+  },
+  "145234": {
+    "published_at": "2026-10-13T20:00:05Z",
+    "updated_at": "2026-10-13T20:35:45Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Evangelista (illness) is out vs. Detroit on Tuesday."
+  },
+  "145238": {
+    "published_at": "2026-10-13T21:28:49Z",
+    "updated_at": "2026-10-13T21:28:49Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Matinpalo (upper-body) is out vs. St. Louis on Tuesday."
+  },
+  "145240": {
+    "published_at": "2026-10-13T21:46:32Z",
+    "updated_at": "2026-10-13T21:46:32Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Garland (illness) is on the ice for warmups; he's expected to play vs. the Panthers."
+  },
+  "145248": {
+    "published_at": "2026-10-13T22:18:10Z",
+    "updated_at": "2026-10-13T22:18:10Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tuch (undisclosed) is on the ice for warmups; he's expected to play Tuesday."
   }
 }
