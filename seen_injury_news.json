@@ -823,6 +823,94 @@
     "surgery": false,
     "headline": "Staal (lower-body) will not play Sunday in Philadelphia."
   },
+  "145115": {
+    "published_at": "2026-10-12T15:59:58Z",
+    "updated_at": "2026-10-12T16:06:37Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Evangelista (illness) will be a game-time decision vs. Ottawa on Monday."
+  },
+  "145118": {
+    "published_at": "2026-10-12T16:08:02Z",
+    "updated_at": "2026-10-12T16:16:51Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bogosian (undisclosed) will return vs. Vegas on Monday."
+  },
+  "145119": {
+    "published_at": "2026-10-12T16:08:35Z",
+    "updated_at": "2026-10-12T16:24:47Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foligno (lower-body) will remain out vs. Vegas and is considered day-to-day."
+  },
+  "145121": {
+    "published_at": "2026-10-12T16:19:41Z",
+    "updated_at": "2026-10-12T16:32:47Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dubois (illness) will not travel with Washington to Carolina."
+  },
+  "145123": {
+    "published_at": "2026-10-12T16:28:41Z",
+    "updated_at": "2026-10-12T16:41:02Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Compher (undisclosed) practiced on Monday and has a chance to return vs. New Jersey on Tuesday."
+  },
+  "145124": {
+    "published_at": "2026-10-12T16:33:22Z",
+    "updated_at": "2026-10-12T16:43:27Z",
+    "status": "Out",
+    "timeline": "3 months",
+    "surgery": true,
+    "headline": "Duchene underwent successful surgery to repair a core injury and is expected to miss the next 3 months."
+  },
+  "145125": {
+    "published_at": "2026-10-12T16:34:34Z",
+    "updated_at": "2026-10-12T16:44:45Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Honzek (lower-body) is considered week-to-week."
+  },
+  "145130": {
+    "published_at": "2026-10-12T17:19:54Z",
+    "updated_at": "2026-10-12T17:32:16Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kiviranta (lower-body) is expected to return vs. Colorado on Tuesday."
+  },
+  "145131": {
+    "published_at": "2026-10-12T17:29:37Z",
+    "updated_at": "2026-10-12T17:34:39Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bedard (shoulder) is a game-time decision vs. Pittsburgh on Tuesday."
+  },
+  "145132": {
+    "published_at": "2026-10-12T17:34:46Z",
+    "updated_at": "2026-10-12T18:29:42Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gauthier (upper-body) practiced, but did not take part in line rushes on Monday."
+  },
+  "145133": {
+    "published_at": "2026-10-12T17:55:04Z",
+    "updated_at": "2026-10-12T18:30:25Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "van Riemsdyk (lower-body) has been placed on IR."
+  },
   "145134": {
     "published_at": "2026-10-12T18:31:07Z",
     "updated_at": "2026-10-12T18:39:21Z",
