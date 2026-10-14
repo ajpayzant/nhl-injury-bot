@@ -1,44 +1,4 @@
 {
-  "144793": {
-    "published_at": "2026-10-07T02:05:58Z",
-    "updated_at": "2026-10-07T02:05:58Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sergachev left Tuesday's game with an upper-body injury and did not return."
-  },
-  "144794": {
-    "published_at": "2026-10-07T03:01:36Z",
-    "updated_at": "2026-10-07T03:01:36Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Siegenthaler left Tuesday\u2019s game vs. Utah with an undisclosed injury and did not return."
-  },
-  "144795": {
-    "published_at": "2026-10-07T04:19:01Z",
-    "updated_at": "2026-10-07T04:19:01Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Lindgren left Tuesday\u2019s game vs. Vegas with an upper-body injury and will not return."
-  },
-  "144796": {
-    "published_at": "2026-10-07T04:20:02Z",
-    "updated_at": "2026-10-07T14:40:02Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Marchand (lower-body) left Tuesday\u2019s game vs. Los Angeles."
-  },
-  "144797": {
-    "published_at": "2026-10-07T05:05:37Z",
-    "updated_at": "2026-10-07T14:43:07Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Olofsson left Tuesday\u2019s game vs. Seattle with an undisclosed injury and did not return."
-  },
   "144798": {
     "published_at": "2026-10-07T14:14:18Z",
     "updated_at": "2026-10-07T14:48:18Z",
@@ -854,6 +814,54 @@
     "timeline": "",
     "surgery": false,
     "headline": "Sturm (upper-body) left Monday\u2019s game vs. Vegas and will not return."
+  },
+  "145212": {
+    "published_at": "2026-10-13T17:29:56Z",
+    "updated_at": "2026-10-13T17:42:46Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dahlin (lower-body) did not travel to Montreal and will be out Tuesday."
+  },
+  "145215": {
+    "published_at": "2026-10-13T17:36:48Z",
+    "updated_at": "2026-10-13T17:52:46Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tuch (undisclosed) will be a game-time decision in Carolina on Tuesday."
+  },
+  "145216": {
+    "published_at": "2026-10-13T17:46:51Z",
+    "updated_at": "2026-10-13T17:51:03Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gauthier (upper-body) will be out on Tuesday and is considered day-to-day."
+  },
+  "145223": {
+    "published_at": "2026-10-13T18:15:54Z",
+    "updated_at": "2026-10-13T18:34:07Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Goodrow (illness) is expected to play on Tuesday vs. Boston."
+  },
+  "145225": {
+    "published_at": "2026-10-13T18:24:07Z",
+    "updated_at": "2026-10-13T18:40:25Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman (upper-body) will not return on Tuesday vs. Los Angeles."
+  },
+  "145226": {
+    "published_at": "2026-10-13T18:40:45Z",
+    "updated_at": "2026-10-13T18:55:44Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Helleson (lower-body) has been activated off IR and will make his season debut on Tuesday."
   },
   "145230": {
     "published_at": "2026-10-13T19:56:54Z",
