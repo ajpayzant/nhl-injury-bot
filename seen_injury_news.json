@@ -918,5 +918,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Tuch (undisclosed) is on the ice for warmups; he's expected to play Tuesday."
+  },
+  "145255": {
+    "published_at": "2026-10-13T23:45:28Z",
+    "updated_at": "2026-10-13T23:45:28Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Spurgeon (upper-body) will not play Tuesday in Winnipeg."
+  },
+  "145259": {
+    "published_at": "2026-10-14T00:18:47Z",
+    "updated_at": "2026-10-14T00:18:47Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johnston (illness) will not play Tuesday vs. the Avalanche."
+  },
+  "145260": {
+    "published_at": "2026-10-14T00:22:21Z",
+    "updated_at": "2026-10-14T00:22:21Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bourque (upper-body) remains day-to-day and will not play on Tuesday."
+  },
+  "145261": {
+    "published_at": "2026-10-14T00:22:50Z",
+    "updated_at": "2026-10-14T00:22:50Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hall suffered an upper-body injury vs. Washington and will not return."
+  },
+  "145262": {
+    "published_at": "2026-10-14T00:27:40Z",
+    "updated_at": "2026-10-14T00:27:46Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "L'Heureux (upper-body) will not play Tuesday in Dallas."
   }
 }
