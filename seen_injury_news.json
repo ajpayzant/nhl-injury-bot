@@ -854,5 +854,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Johnston (illness) will not travel to Colorado for Wednesday's game."
+  },
+  "145274": {
+    "published_at": "2026-10-14T14:32:21Z",
+    "updated_at": "2026-10-14T15:55:59Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Nurse (upper-body) left Tuesday's game vs. Boston and did not return."
+  },
+  "145277": {
+    "published_at": "2026-10-14T16:28:56Z",
+    "updated_at": "2026-10-14T17:14:04Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Matheson (lower-body) is out on Thursday and considered day-to-day."
+  },
+  "145280": {
+    "published_at": "2026-10-14T18:27:23Z",
+    "updated_at": "2026-10-14T18:53:12Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kiviranta (lower body) will play on Wednesday."
   }
 }
