@@ -878,5 +878,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Kiviranta (lower body) will play on Wednesday."
+  },
+  "145281": {
+    "published_at": "2026-10-14T18:52:34Z",
+    "updated_at": "2026-10-14T18:52:34Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johnston (illness) is hopeful to return to the lineup on Saturday."
+  },
+  "145285": {
+    "published_at": "2026-10-14T21:17:03Z",
+    "updated_at": "2026-10-14T21:50:50Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dahlin (lower-body) is doubtful for Thursday in Toronto."
+  },
+  "145286": {
+    "published_at": "2026-10-14T21:21:32Z",
+    "updated_at": "2026-10-14T21:27:15Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dubois (illness) will remain out vs. Montreal on Wednesday."
+  },
+  "145291": {
+    "published_at": "2026-10-15T00:04:07Z",
+    "updated_at": "2026-10-15T00:04:07Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower-body) will not play on Wednesday."
   }
 }
