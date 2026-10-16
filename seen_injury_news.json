@@ -878,5 +878,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Kulich (illness) was out on Thursday and is considered day-to-day."
+  },
+  "145376": {
+    "published_at": "2026-10-15T23:34:03Z",
+    "updated_at": "2026-10-15T23:34:03Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Nurse (upper-body) will not play on Thursday."
+  },
+  "145378": {
+    "published_at": "2026-10-15T23:36:58Z",
+    "updated_at": "2026-10-15T23:36:58Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Annunen (undisclosed) has been activated from IR and will backup on Thursday."
+  },
+  "145381": {
+    "published_at": "2026-10-16T00:34:18Z",
+    "updated_at": "2026-10-16T00:34:18Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dickinson (lower-body) will not play Thursday vs. the Mammoth."
+  },
+  "145382": {
+    "published_at": "2026-10-16T00:45:03Z",
+    "updated_at": "2026-10-16T00:45:03Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Montour left Thursday's game with lower-body injury and will not return."
+  },
+  "145383": {
+    "published_at": "2026-10-16T02:24:28Z",
+    "updated_at": "2026-10-16T02:26:31Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tavares (lower-body) left Thursday's game vs. Buffalo and did not return."
   }
 }
