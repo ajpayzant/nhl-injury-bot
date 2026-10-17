@@ -1,20 +1,4 @@
 {
-  "145011": {
-    "published_at": "2026-10-10T17:00:47Z",
-    "updated_at": "2026-10-10T17:00:47Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Yamamoto will make his season debut on Saturday."
-  },
-  "145014": {
-    "published_at": "2026-10-10T17:33:35Z",
-    "updated_at": "2026-10-10T17:33:35Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Devils have activated Johnathan Kovacevic (knee) from IR."
-  },
   "145016": {
     "published_at": "2026-10-10T18:05:46Z",
     "updated_at": "2026-10-10T18:05:46Z",
@@ -767,6 +751,30 @@
     "surgery": false,
     "headline": "Norris (concussion) left Buffalo\u2019s game on Thursday and did not return."
   },
+  "145387": {
+    "published_at": "2026-10-16T14:52:53Z",
+    "updated_at": "2026-10-16T15:44:08Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sourdif (illness) was absent from Friday's practice."
+  },
+  "145390": {
+    "published_at": "2026-10-16T14:55:09Z",
+    "updated_at": "2026-10-16T16:02:28Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower-body) practiced in a regular practice jersey on Friday and is questionable for Saturday."
+  },
+  "145392": {
+    "published_at": "2026-10-16T15:36:43Z",
+    "updated_at": "2026-10-16T15:56:06Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Back (upper-body) has been placed on IR retroactive to October 14th."
+  },
   "145393": {
     "published_at": "2026-10-16T15:41:55Z",
     "updated_at": "2026-10-16T15:57:38Z",
@@ -926,5 +934,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Chinakhov (lower-body) will not play Friday in Colorado."
+  },
+  "145472": {
+    "published_at": "2026-10-17T17:20:46Z",
+    "updated_at": "2026-10-17T17:20:46Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zuccarello (undisclosed) will not play on Saturday but will join LA on its upcoming road trip."
+  },
+  "145477": {
+    "published_at": "2026-10-17T17:48:49Z",
+    "updated_at": "2026-10-17T17:48:49Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Walman (undisclosed) will return to the lineup on Saturday."
+  },
+  "145478": {
+    "published_at": "2026-10-17T17:49:14Z",
+    "updated_at": "2026-10-17T17:49:14Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dach (undisclosed) will return to the lineup on Saturday."
+  },
+  "145479": {
+    "published_at": "2026-10-17T17:49:33Z",
+    "updated_at": "2026-10-17T17:49:33Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman (upper body) will return to the lineup on Saturday."
+  },
+  "145480": {
+    "published_at": "2026-10-17T17:52:10Z",
+    "updated_at": "2026-10-17T17:52:10Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Granlund (upper body) returned to practice on Saturday."
   }
 }
