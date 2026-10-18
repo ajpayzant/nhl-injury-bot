@@ -886,5 +886,53 @@
     "timeline": "",
     "surgery": false,
     "headline": "L'Heureux (upper-body) will miss at least two more games."
+  },
+  "145500": {
+    "published_at": "2026-10-17T21:32:00Z",
+    "updated_at": "2026-10-17T21:32:00Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Montour (lower body) will not play on Saturday and is day-to-day."
+  },
+  "145504": {
+    "published_at": "2026-10-17T22:38:40Z",
+    "updated_at": "2026-10-17T22:38:40Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tippett (upper-body) is out vs. Ottawa on Saturday."
+  },
+  "145506": {
+    "published_at": "2026-10-17T22:45:46Z",
+    "updated_at": "2026-10-17T22:45:46Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Norris (concussion) will play in Montreal on Saturday."
+  },
+  "145507": {
+    "published_at": "2026-10-17T22:49:33Z",
+    "updated_at": "2026-10-17T22:49:33Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Nurse (upper-body) will return in Detroit on Saturday."
+  },
+  "145516": {
+    "published_at": "2026-10-17T23:32:10Z",
+    "updated_at": "2026-10-17T23:32:10Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bourque (upper-body) will remain out vs. St. Louis on Saturday."
+  },
+  "145520": {
+    "published_at": "2026-10-18T00:40:53Z",
+    "updated_at": "2026-10-18T00:40:53Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zacha is out vs. Los Angeles with an upper-bobdy injury."
   }
 }
