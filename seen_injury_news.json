@@ -807,6 +807,22 @@
     "surgery": false,
     "headline": "Johnston (illness) will return to the lineup on Saturday."
   },
+  "145465": {
+    "published_at": "2026-10-17T16:40:28Z",
+    "updated_at": "2026-10-17T16:40:28Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Buchnevich (personal) will return to the lineup on Saturday."
+  },
+  "145466": {
+    "published_at": "2026-10-17T16:41:31Z",
+    "updated_at": "2026-10-17T16:41:31Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johnston (undisclosed) is not expected to play on Saturday."
+  },
   "145472": {
     "published_at": "2026-10-17T17:20:46Z",
     "updated_at": "2026-10-17T17:20:46Z",
@@ -846,5 +862,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Granlund (upper body) returned to practice on Saturday."
+  },
+  "145491": {
+    "published_at": "2026-10-17T19:43:48Z",
+    "updated_at": "2026-10-17T19:45:27Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rossi (illness) will not play on Saturday."
+  },
+  "145493": {
+    "published_at": "2026-10-17T19:57:59Z",
+    "updated_at": "2026-10-17T19:57:59Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower body) will miss at least two more games."
+  },
+  "145494": {
+    "published_at": "2026-10-17T19:58:23Z",
+    "updated_at": "2026-10-17T19:58:23Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "L'Heureux (upper-body) will miss at least two more games."
   }
 }
