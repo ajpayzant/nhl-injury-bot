@@ -1,28 +1,4 @@
 {
-  "145079": {
-    "published_at": "2026-10-11T15:53:45Z",
-    "updated_at": "2026-10-11T15:53:45Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Crotty (undisclosed) has been placed on IR."
-  },
-  "145080": {
-    "published_at": "2026-10-11T16:01:26Z",
-    "updated_at": "2026-10-11T16:01:26Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bedard (shoulder) was a full participant in Chicago's practice on Sunday."
-  },
-  "145081": {
-    "published_at": "2026-10-11T16:15:22Z",
-    "updated_at": "2026-10-11T16:15:22Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Poehling (lower-body) left Saturday's game vs. Calgary and did not return."
-  },
   "145083": {
     "published_at": "2026-10-11T18:04:11Z",
     "updated_at": "2026-10-11T18:04:11Z",
@@ -934,5 +910,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Zacha is out vs. Los Angeles with an upper-bobdy injury."
+  },
+  "145524": {
+    "published_at": "2026-10-18T01:24:51Z",
+    "updated_at": "2026-10-18T04:17:10Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chabot (upper-body) left Saturday's game vs. Philadelphia and will not return."
+  },
+  "145527": {
+    "published_at": "2026-10-18T04:16:39Z",
+    "updated_at": "2026-10-18T04:16:39Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Girard (undisclosed) left Saturday\u2019s game and will not return."
   }
 }
