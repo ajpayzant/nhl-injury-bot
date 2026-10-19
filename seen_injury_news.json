@@ -878,5 +878,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Girard (undisclosed) left Saturday\u2019s game and will not return."
+  },
+  "145532": {
+    "published_at": "2026-10-18T16:24:35Z",
+    "updated_at": "2026-10-18T16:24:35Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hintz left Saturday's game with an undisclosed injury and did not return."
+  },
+  "145536": {
+    "published_at": "2026-10-18T17:33:33Z",
+    "updated_at": "2026-10-18T17:33:33Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foerster (hand) will be a game-time decision on Monday."
+  },
+  "145537": {
+    "published_at": "2026-10-18T17:33:46Z",
+    "updated_at": "2026-10-18T17:33:46Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Couturier (undisclosed) will be a game-time decision on Monday."
+  },
+  "145538": {
+    "published_at": "2026-10-18T17:34:00Z",
+    "updated_at": "2026-10-18T17:34:00Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tippett (upper-body) will be a game-time decision on Monday."
+  },
+  "145540": {
+    "published_at": "2026-10-18T17:38:29Z",
+    "updated_at": "2026-10-18T17:41:39Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Wild have placed Jared Spurgeon (upper-body) on IR."
   }
 }
