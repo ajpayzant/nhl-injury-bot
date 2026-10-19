@@ -918,5 +918,61 @@
     "timeline": "",
     "surgery": false,
     "headline": "The Wild have placed Jared Spurgeon (upper-body) on IR."
+  },
+  "145543": {
+    "published_at": "2026-10-18T18:59:35Z",
+    "updated_at": "2026-10-18T18:59:35Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Terry (hip) is travelling on the Ducks' four-game road trip."
+  },
+  "145545": {
+    "published_at": "2026-10-18T19:44:08Z",
+    "updated_at": "2026-10-18T19:44:08Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Flyers have placed Cam York (upper-body) on IR."
+  },
+  "145546": {
+    "published_at": "2026-10-18T20:42:19Z",
+    "updated_at": "2026-10-18T20:42:19Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kaprizov (undisclosed) will play Sunday vs. the Blue Jackets."
+  },
+  "145550": {
+    "published_at": "2026-10-18T21:35:30Z",
+    "updated_at": "2026-10-18T21:35:30Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gustavsson (hip) is expected to be out for at least another month."
+  },
+  "145551": {
+    "published_at": "2026-10-18T23:31:10Z",
+    "updated_at": "2026-10-18T23:31:10Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Jankowski (lower-body) will not play Sunday in Calgary."
+  },
+  "145553": {
+    "published_at": "2026-10-19T00:07:06Z",
+    "updated_at": "2026-10-19T00:07:06Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Maccelli left Saturday's game with a lower-body injury and did not return."
+  },
+  "145554": {
+    "published_at": "2026-10-19T00:08:51Z",
+    "updated_at": "2026-10-19T00:08:51Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ritchie left Saturday's game with a lower-body injury and did not return."
   }
 }
