@@ -1,116 +1,4 @@
 {
-  "145115": {
-    "published_at": "2026-10-12T15:59:58Z",
-    "updated_at": "2026-10-12T16:06:37Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Evangelista (illness) will be a game-time decision vs. Ottawa on Monday."
-  },
-  "145118": {
-    "published_at": "2026-10-12T16:08:02Z",
-    "updated_at": "2026-10-12T16:16:51Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bogosian (undisclosed) will return vs. Vegas on Monday."
-  },
-  "145119": {
-    "published_at": "2026-10-12T16:08:35Z",
-    "updated_at": "2026-10-12T16:24:47Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Foligno (lower-body) will remain out vs. Vegas and is considered day-to-day."
-  },
-  "145121": {
-    "published_at": "2026-10-12T16:19:41Z",
-    "updated_at": "2026-10-12T16:32:47Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dubois (illness) will not travel with Washington to Carolina."
-  },
-  "145123": {
-    "published_at": "2026-10-12T16:28:41Z",
-    "updated_at": "2026-10-12T16:41:02Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Compher (undisclosed) practiced on Monday and has a chance to return vs. New Jersey on Tuesday."
-  },
-  "145124": {
-    "published_at": "2026-10-12T16:33:22Z",
-    "updated_at": "2026-10-12T16:43:27Z",
-    "status": "Out",
-    "timeline": "3 months",
-    "surgery": true,
-    "headline": "Duchene underwent successful surgery to repair a core injury and is expected to miss the next 3 months."
-  },
-  "145125": {
-    "published_at": "2026-10-12T16:34:34Z",
-    "updated_at": "2026-10-12T16:44:45Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Honzek (lower-body) is considered week-to-week."
-  },
-  "145130": {
-    "published_at": "2026-10-12T17:19:54Z",
-    "updated_at": "2026-10-12T17:32:16Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kiviranta (lower-body) is expected to return vs. Colorado on Tuesday."
-  },
-  "145131": {
-    "published_at": "2026-10-12T17:29:37Z",
-    "updated_at": "2026-10-12T17:34:39Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bedard (shoulder) is a game-time decision vs. Pittsburgh on Tuesday."
-  },
-  "145132": {
-    "published_at": "2026-10-12T17:34:46Z",
-    "updated_at": "2026-10-12T18:29:42Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gauthier (upper-body) practiced, but did not take part in line rushes on Monday."
-  },
-  "145133": {
-    "published_at": "2026-10-12T17:55:04Z",
-    "updated_at": "2026-10-12T18:30:25Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "van Riemsdyk (lower-body) has been placed on IR."
-  },
-  "145134": {
-    "published_at": "2026-10-12T18:31:07Z",
-    "updated_at": "2026-10-12T18:39:21Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dahlin (upper-body) left Monday's game vs. Florida and will not return."
-  },
-  "145135": {
-    "published_at": "2026-10-12T18:31:42Z",
-    "updated_at": "2026-10-12T18:41:59Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Tanev (upper-body) has been placed on IR retroactive to October 10th."
-  },
-  "145138": {
-    "published_at": "2026-10-12T18:50:55Z",
-    "updated_at": "2026-10-12T19:15:53Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bezeau (undisclosed) has been activated off the Injured/Non-Roster list and loaned to Cleveland (AHL)."
-  },
   "145140": {
     "published_at": "2026-10-12T19:25:56Z",
     "updated_at": "2026-10-12T19:27:56Z",
@@ -974,5 +862,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Ritchie left Saturday's game with a lower-body injury and did not return."
+  },
+  "145597": {
+    "published_at": "2026-10-19T17:31:40Z",
+    "updated_at": "2026-10-19T18:00:07Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Granlund (upper-body) will return in New York on Monday."
+  },
+  "145600": {
+    "published_at": "2026-10-19T17:33:32Z",
+    "updated_at": "2026-10-19T18:04:18Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Helleson (lower-body) is out vs. New York on Monday."
+  },
+  "145604": {
+    "published_at": "2026-10-19T17:51:38Z",
+    "updated_at": "2026-10-19T18:08:42Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Girard (undisclosed) will be a game-time decision in Utah on Monday."
+  },
+  "145605": {
+    "published_at": "2026-10-19T17:53:33Z",
+    "updated_at": "2026-10-19T18:07:34Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chinakhov (lower-body) will be a game-time decision in Utah on Monday."
+  },
+  "145606": {
+    "published_at": "2026-10-19T18:23:45Z",
+    "updated_at": "2026-10-19T18:27:40Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zuccarello (undisclosed) practiced on Monday and is trending toward returning on Tuesday vs. Washington."
   }
 }
