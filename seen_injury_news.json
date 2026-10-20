@@ -1,28 +1,4 @@
 {
-  "145238": {
-    "published_at": "2026-10-13T21:28:49Z",
-    "updated_at": "2026-10-13T21:28:49Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Matinpalo (upper-body) is out vs. St. Louis on Tuesday."
-  },
-  "145240": {
-    "published_at": "2026-10-13T21:46:32Z",
-    "updated_at": "2026-10-13T21:46:32Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Garland (illness) is on the ice for warmups; he's expected to play vs. the Panthers."
-  },
-  "145248": {
-    "published_at": "2026-10-13T22:18:10Z",
-    "updated_at": "2026-10-13T22:18:10Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Tuch (undisclosed) is on the ice for warmups; he's expected to play Tuesday."
-  },
   "145255": {
     "published_at": "2026-10-13T23:45:28Z",
     "updated_at": "2026-10-13T23:45:28Z",
@@ -894,5 +870,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Wennberg (upper-body) left Monday\u2019s game and is questionable for Tuesday in Montreal."
+  },
+  "145691": {
+    "published_at": "2026-10-20T20:49:46Z",
+    "updated_at": "2026-10-20T20:53:07Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wennberg (upper-body) is out vs. Montreal on Tuesday and considered day-to-day."
+  },
+  "145696": {
+    "published_at": "2026-10-20T21:07:59Z",
+    "updated_at": "2026-10-20T21:30:27Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carone (upper-body) has been placed on IR and remains week-to-week."
+  },
+  "145698": {
+    "published_at": "2026-10-20T22:35:41Z",
+    "updated_at": "2026-10-20T22:35:41Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Caulfield (personal) returned to Anaheim for the birth of his child and will not play Tuesday."
   }
 }
