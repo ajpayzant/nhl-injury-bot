@@ -1,52 +1,4 @@
 {
-  "145255": {
-    "published_at": "2026-10-13T23:45:28Z",
-    "updated_at": "2026-10-13T23:45:28Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Spurgeon (upper-body) will not play Tuesday in Winnipeg."
-  },
-  "145259": {
-    "published_at": "2026-10-14T00:18:47Z",
-    "updated_at": "2026-10-14T00:18:47Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Johnston (illness) will not play Tuesday vs. the Avalanche."
-  },
-  "145260": {
-    "published_at": "2026-10-14T00:22:21Z",
-    "updated_at": "2026-10-14T00:22:21Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bourque (upper-body) remains day-to-day and will not play on Tuesday."
-  },
-  "145261": {
-    "published_at": "2026-10-14T00:22:50Z",
-    "updated_at": "2026-10-14T00:22:50Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall suffered an upper-body injury vs. Washington and will not return."
-  },
-  "145262": {
-    "published_at": "2026-10-14T00:27:40Z",
-    "updated_at": "2026-10-14T00:27:46Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "L'Heureux (upper-body) will not play Tuesday in Dallas."
-  },
-  "145263": {
-    "published_at": "2026-10-14T00:28:55Z",
-    "updated_at": "2026-10-14T00:28:55Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Schaefer will be scratched Tuesday vs. the Golden Knights."
-  },
   "145268": {
     "published_at": "2026-10-14T03:56:41Z",
     "updated_at": "2026-10-14T15:43:01Z",
@@ -894,5 +846,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Caulfield (personal) returned to Anaheim for the birth of his child and will not play Tuesday."
+  },
+  "145708": {
+    "published_at": "2026-10-21T01:15:17Z",
+    "updated_at": "2026-10-21T01:15:17Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "McCabe left Tuesday's game with an undisclosed injury and will not return."
+  },
+  "145709": {
+    "published_at": "2026-10-21T01:15:49Z",
+    "updated_at": "2026-10-21T01:15:49Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Panthers placed Jacob Markstrom (upper-body) on IR."
   }
 }
