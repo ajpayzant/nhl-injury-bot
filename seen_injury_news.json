@@ -1,12 +1,4 @@
 {
-  "145268": {
-    "published_at": "2026-10-14T03:56:41Z",
-    "updated_at": "2026-10-14T15:43:01Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Johnston (illness) will not travel to Colorado for Wednesday's game."
-  },
   "145274": {
     "published_at": "2026-10-14T14:32:21Z",
     "updated_at": "2026-10-14T15:55:59Z",
@@ -822,6 +814,102 @@
     "timeline": "",
     "surgery": false,
     "headline": "Wennberg (upper-body) left Monday\u2019s game and is questionable for Tuesday in Montreal."
+  },
+  "145643": {
+    "published_at": "2026-10-20T15:21:30Z",
+    "updated_at": "2026-10-20T15:33:34Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower-body) will return vs. Los Angeles on Tuesday."
+  },
+  "145645": {
+    "published_at": "2026-10-20T15:41:02Z",
+    "updated_at": "2026-10-20T15:53:40Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Lindell (lower-body) will be out vs. Boston on Tuesday and is considered day-to-day."
+  },
+  "145647": {
+    "published_at": "2026-10-20T16:04:42Z",
+    "updated_at": "2026-10-20T16:43:17Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zuccarello (undisclosed) will return in Washington on Tuesday."
+  },
+  "145648": {
+    "published_at": "2026-10-20T16:05:39Z",
+    "updated_at": "2026-10-20T16:46:11Z",
+    "status": "Out",
+    "timeline": "2 weeks",
+    "surgery": false,
+    "headline": "Markstrom (undisclosed) is expected to be out for the next two weeks."
+  },
+  "145652": {
+    "published_at": "2026-10-20T16:10:55Z",
+    "updated_at": "2026-10-20T16:49:14Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gudas (undisclosed) will return vs. Ottawa on Tuesday."
+  },
+  "145658": {
+    "published_at": "2026-10-20T16:41:44Z",
+    "updated_at": "2026-10-20T17:17:48Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carrick (middle body) did not practice on Tuesday and is considered day-to-day."
+  },
+  "145659": {
+    "published_at": "2026-10-20T16:42:13Z",
+    "updated_at": "2026-10-20T17:18:41Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Danforth (upper-body) did not practice on Tuesday and is considered day-to-day."
+  },
+  "145662": {
+    "published_at": "2026-10-20T16:50:57Z",
+    "updated_at": "2026-10-20T17:23:32Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zacha (upper-body) will play in Dallas on Tuesday."
+  },
+  "145665": {
+    "published_at": "2026-10-20T17:03:51Z",
+    "updated_at": "2026-10-20T18:36:30Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Backlund (upper-body did not practice on Tuesday and is day-to-day."
+  },
+  "145668": {
+    "published_at": "2026-10-20T17:12:46Z",
+    "updated_at": "2026-10-20T17:49:23Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johnston has been placed on IR with a lower-body injury."
+  },
+  "145670": {
+    "published_at": "2026-10-20T17:25:49Z",
+    "updated_at": "2026-10-20T17:50:40Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Montour (lower-body) will be a game-time decision vs. Detroit on Tuesday."
+  },
+  "145671": {
+    "published_at": "2026-10-20T17:59:35Z",
+    "updated_at": "2026-10-20T19:50:00Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sturm (upper-body) will return to Minnesota's lineup in Edmonton on Tuesday."
   },
   "145691": {
     "published_at": "2026-10-20T20:49:46Z",
