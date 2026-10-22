@@ -918,5 +918,85 @@
     "timeline": "",
     "surgery": false,
     "headline": "The Panthers placed Jacob Markstrom (upper-body) on IR."
+  },
+  "145724": {
+    "published_at": "2026-10-21T14:41:23Z",
+    "updated_at": "2026-10-21T14:59:13Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Thompson is day-to-day with a lower-body injury."
+  },
+  "145726": {
+    "published_at": "2026-10-21T14:54:19Z",
+    "updated_at": "2026-10-21T15:02:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zucker (sports hernia) will make his season debut vs. Philadelphia on Wednesday."
+  },
+  "145727": {
+    "published_at": "2026-10-21T14:59:18Z",
+    "updated_at": "2026-10-21T15:56:40Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Danforth (lower-body) is out vs. Philadelphia and is considered day-to-day."
+  },
+  "145728": {
+    "published_at": "2026-10-21T14:59:54Z",
+    "updated_at": "2026-10-21T15:57:08Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carrick (mid-body) is out vs. Philadelphia on Wednesday and considered day-to-day."
+  },
+  "145729": {
+    "published_at": "2026-10-21T15:13:46Z",
+    "updated_at": "2026-10-21T15:59:05Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sanderson (lower-body) will return vs. Florida on Wednesday."
+  },
+  "145731": {
+    "published_at": "2026-10-21T15:35:48Z",
+    "updated_at": "2026-10-21T16:00:49Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bourque (upper-body) practice in full on Wednesday."
+  },
+  "145741": {
+    "published_at": "2026-10-21T17:53:27Z",
+    "updated_at": "2026-10-21T17:58:21Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Fabbro (hand) has a chance to return on Saturday vs. Vegas."
+  },
+  "145742": {
+    "published_at": "2026-10-21T17:59:35Z",
+    "updated_at": "2026-10-21T20:00:38Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Byfield (upper-body) is considered day-to-day."
+  },
+  "145745": {
+    "published_at": "2026-10-21T18:02:30Z",
+    "updated_at": "2026-10-21T20:05:03Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cirelli (undisclosed) left Tuesday's game vs. Vegas and did not return."
+  },
+  "145746": {
+    "published_at": "2026-10-21T18:35:03Z",
+    "updated_at": "2026-10-21T20:13:52Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rossi (illness) returned to Canucks' practice on Wednesday."
   }
 }
