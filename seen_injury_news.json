@@ -1,20 +1,4 @@
 {
-  "145356": {
-    "published_at": "2026-10-15T19:44:22Z",
-    "updated_at": "2026-10-15T20:48:15Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Nurse (upper-body) is a game-time decision in Nashville on Thursday."
-  },
-  "145357": {
-    "published_at": "2026-10-15T19:54:21Z",
-    "updated_at": "2026-10-15T20:49:27Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gauthier (upper-body) was a full participant in Anaheim's practice on Thursday."
-  },
   "145368": {
     "published_at": "2026-10-15T22:40:37Z",
     "updated_at": "2026-10-16T03:18:23Z",
@@ -958,5 +942,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Ullmark left Wednesday's game with a lower-body \"strain\" and will be evaluated on Thursday."
+  },
+  "145816": {
+    "published_at": "2026-10-22T18:31:12Z",
+    "updated_at": "2026-10-22T18:34:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bourque (upper-body) will return in Boston on Thursday."
+  },
+  "145819": {
+    "published_at": "2026-10-22T18:42:40Z",
+    "updated_at": "2026-10-22T19:07:40Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tarasov is day-to-day with an undisclosed injury."
+  },
+  "145820": {
+    "published_at": "2026-10-22T18:43:43Z",
+    "updated_at": "2026-10-22T19:08:55Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Compher (undisclosed) is expected to return in Vancouver on Thursday."
+  },
+  "145829": {
+    "published_at": "2026-10-22T20:51:51Z",
+    "updated_at": "2026-10-22T20:58:17Z",
+    "status": "Out",
+    "timeline": "1-2 weeks",
+    "surgery": false,
+    "headline": "Ullmark (lower-body) is expected to be out for 1-2 weeks."
   }
 }
