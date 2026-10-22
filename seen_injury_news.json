@@ -1,92 +1,4 @@
 {
-  "145318": {
-    "published_at": "2026-10-15T15:37:20Z",
-    "updated_at": "2026-10-15T15:49:44Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bourque (upper-body) will be a game-time decision vs. San Jose on Thursday."
-  },
-  "145319": {
-    "published_at": "2026-10-15T15:37:51Z",
-    "updated_at": "2026-10-15T15:50:44Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Annunen (undisclosed) will be a game-time decision vs. San Jose on Thursday."
-  },
-  "145322": {
-    "published_at": "2026-10-15T15:42:37Z",
-    "updated_at": "2026-10-15T15:56:54Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Maatta (upper-body) is out vs. St. Louis on Thursday."
-  },
-  "145326": {
-    "published_at": "2026-10-15T16:03:19Z",
-    "updated_at": "2026-10-15T16:06:41Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dahlin (lower-body) is out Thursday but has a chance to return on Saturday vs. Montreal."
-  },
-  "145333": {
-    "published_at": "2026-10-15T16:34:01Z",
-    "updated_at": "2026-10-15T16:44:38Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byram (upper-body) is out vs. Winnipeg and is considered day-to-day."
-  },
-  "145334": {
-    "published_at": "2026-10-15T16:37:52Z",
-    "updated_at": "2026-10-15T16:46:38Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Chytil (upper-body) will make his season debut in Florida on Thursday."
-  },
-  "145337": {
-    "published_at": "2026-10-15T16:47:25Z",
-    "updated_at": "2026-10-15T16:53:44Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Evangelista (illness) will remain out vs. New York on Thursday."
-  },
-  "145341": {
-    "published_at": "2026-10-15T17:05:15Z",
-    "updated_at": "2026-10-15T17:12:10Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Morrissey is now considered week-to-week with an upper-body injury."
-  },
-  "145343": {
-    "published_at": "2026-10-15T17:17:09Z",
-    "updated_at": "2026-10-15T17:36:22Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dickinson (lower-body) is a game-time decision vs. Utah."
-  },
-  "145344": {
-    "published_at": "2026-10-15T17:32:50Z",
-    "updated_at": "2026-10-15T17:37:37Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Namestnikov (undisclosed) will be a game-time decision in Chicago on Thursday."
-  },
-  "145346": {
-    "published_at": "2026-10-15T17:55:39Z",
-    "updated_at": "2026-10-15T18:25:59Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Granlund is day-to-day with an upper-body injury."
-  },
   "145356": {
     "published_at": "2026-10-15T19:44:22Z",
     "updated_at": "2026-10-15T20:48:15Z",
@@ -1038,5 +950,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Foerster (hand) is on the ice for warmups and is expected to play Wednesday."
+  },
+  "145762": {
+    "published_at": "2026-10-22T03:35:53Z",
+    "updated_at": "2026-10-22T03:35:53Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ullmark left Wednesday's game with a lower-body \"strain\" and will be evaluated on Thursday."
   }
 }
