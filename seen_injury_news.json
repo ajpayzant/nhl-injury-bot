@@ -983,6 +983,30 @@
     "surgery": false,
     "headline": "Ullmark (lower-body) is expected to be out for 1-2 weeks."
   },
+  "145833": {
+    "published_at": "2026-10-22T22:35:11Z",
+    "updated_at": "2026-10-22T22:35:11Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rifai (undisclosed) will not play Thursday vs. the Rangers."
+  },
+  "145836": {
+    "published_at": "2026-10-22T22:42:47Z",
+    "updated_at": "2026-10-22T22:57:50Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mintyukov is day-to-day with a lower-body injury."
+  },
+  "145844": {
+    "published_at": "2026-10-22T23:08:06Z",
+    "updated_at": "2026-10-22T23:08:06Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Byfield (upper-body) will not play Thursday."
+  },
   "145846": {
     "published_at": "2026-10-22T23:31:19Z",
     "updated_at": "2026-10-22T23:31:19Z",
@@ -990,5 +1014,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Marner (personal) will not play Thursday in St. Louis."
+  },
+  "145847": {
+    "published_at": "2026-10-23T00:32:05Z",
+    "updated_at": "2026-10-23T00:32:05Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Shabanov (upper-body) will not play Thursday in Calgary."
+  },
+  "145849": {
+    "published_at": "2026-10-23T00:38:15Z",
+    "updated_at": "2026-10-23T00:38:15Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Jarvis (shoulder) will make his season debut on Thursday."
   }
 }
