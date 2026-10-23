@@ -1,28 +1,4 @@
 {
-  "145368": {
-    "published_at": "2026-10-15T22:40:37Z",
-    "updated_at": "2026-10-16T03:18:23Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kulich (illness) was out on Thursday and is considered day-to-day."
-  },
-  "145376": {
-    "published_at": "2026-10-15T23:34:03Z",
-    "updated_at": "2026-10-15T23:34:03Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Nurse (upper-body) will not play on Thursday."
-  },
-  "145378": {
-    "published_at": "2026-10-15T23:36:58Z",
-    "updated_at": "2026-10-15T23:36:58Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Annunen (undisclosed) has been activated from IR and will backup on Thursday."
-  },
   "145381": {
     "published_at": "2026-10-16T00:34:18Z",
     "updated_at": "2026-10-16T00:34:18Z",
@@ -974,5 +950,13 @@
     "timeline": "1-2 weeks",
     "surgery": false,
     "headline": "Ullmark (lower-body) is expected to be out for 1-2 weeks."
+  },
+  "145846": {
+    "published_at": "2026-10-22T23:31:19Z",
+    "updated_at": "2026-10-22T23:31:19Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marner (personal) will not play Thursday in St. Louis."
   }
 }
