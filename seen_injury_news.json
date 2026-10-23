@@ -1,36 +1,4 @@
 {
-  "145381": {
-    "published_at": "2026-10-16T00:34:18Z",
-    "updated_at": "2026-10-16T00:34:18Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dickinson (lower-body) will not play Thursday vs. the Mammoth."
-  },
-  "145382": {
-    "published_at": "2026-10-16T00:45:03Z",
-    "updated_at": "2026-10-16T00:45:03Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Montour left Thursday's game with lower-body injury and will not return."
-  },
-  "145383": {
-    "published_at": "2026-10-16T02:24:28Z",
-    "updated_at": "2026-10-16T02:26:31Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Tavares (lower-body) left Thursday's game vs. Buffalo and did not return."
-  },
-  "145386": {
-    "published_at": "2026-10-16T04:28:58Z",
-    "updated_at": "2026-10-16T15:40:04Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Norris (concussion) left Buffalo\u2019s game on Thursday and did not return."
-  },
   "145387": {
     "published_at": "2026-10-16T14:52:53Z",
     "updated_at": "2026-10-16T15:44:08Z",
@@ -918,6 +886,30 @@
     "timeline": "",
     "surgery": false,
     "headline": "Ullmark left Wednesday's game with a lower-body \"strain\" and will be evaluated on Thursday."
+  },
+  "145785": {
+    "published_at": "2026-10-22T15:48:00Z",
+    "updated_at": "2026-10-22T15:49:08Z",
+    "status": "Out",
+    "timeline": "6 weeks",
+    "surgery": false,
+    "headline": "Rust (lower-body) is out and will be evaluated in six weeks."
+  },
+  "145790": {
+    "published_at": "2026-10-22T16:17:33Z",
+    "updated_at": "2026-10-22T16:26:01Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Byfield (upper-body) is a game-time decision on Long Island on Thursday."
+  },
+  "145792": {
+    "published_at": "2026-10-22T16:23:36Z",
+    "updated_at": "2026-10-22T16:30:48Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wennberg (upper-body) is considered week-to-week."
   },
   "145816": {
     "published_at": "2026-10-22T18:31:12Z",
