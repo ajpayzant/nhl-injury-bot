@@ -1,140 +1,4 @@
 {
-  "145387": {
-    "published_at": "2026-10-16T14:52:53Z",
-    "updated_at": "2026-10-16T15:44:08Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sourdif (illness) was absent from Friday's practice."
-  },
-  "145390": {
-    "published_at": "2026-10-16T14:55:09Z",
-    "updated_at": "2026-10-16T16:02:28Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Roy (lower-body) practiced in a regular practice jersey on Friday and is questionable for Saturday."
-  },
-  "145392": {
-    "published_at": "2026-10-16T15:36:43Z",
-    "updated_at": "2026-10-16T15:56:06Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Back (upper-body) has been placed on IR retroactive to October 14th."
-  },
-  "145393": {
-    "published_at": "2026-10-16T15:41:55Z",
-    "updated_at": "2026-10-16T15:57:38Z",
-    "status": "Out",
-    "timeline": "2 weeks",
-    "surgery": false,
-    "headline": "Xhekaj is expected to miss the next two weeks with a lower-body injruy."
-  },
-  "145394": {
-    "published_at": "2026-10-16T15:43:49Z",
-    "updated_at": "2026-10-16T16:01:34Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Jarvis (shoulder) is travelling with Carolina on their upcoming road trip."
-  },
-  "145395": {
-    "published_at": "2026-10-16T15:51:04Z",
-    "updated_at": "2026-10-16T16:00:39Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall (upper-body) is considered week-to-week."
-  },
-  "145396": {
-    "published_at": "2026-10-16T15:56:09Z",
-    "updated_at": "2026-10-16T17:04:21Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Evangelista (illness) returned to New Jersey's practice on Friday but will not travel."
-  },
-  "145398": {
-    "published_at": "2026-10-16T16:23:28Z",
-    "updated_at": "2026-10-16T16:23:28Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kapanen (lower-body) was a full participant in Friday's practice."
-  },
-  "145399": {
-    "published_at": "2026-10-16T16:24:57Z",
-    "updated_at": "2026-10-16T16:24:57Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Slafkovsky (maintenance) missed Friday's practice but will be available to play Saturday."
-  },
-  "145401": {
-    "published_at": "2026-10-16T16:56:13Z",
-    "updated_at": "2026-10-16T17:07:35Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Duehr (lower-body) returned to Winnipeg's practice in a regular jersey on Friday."
-  },
-  "145402": {
-    "published_at": "2026-10-16T16:57:45Z",
-    "updated_at": "2026-10-16T17:07:54Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sourdif (illness) is questionable for Saturday's game vs. New Jersey."
-  },
-  "145404": {
-    "published_at": "2026-10-16T17:41:44Z",
-    "updated_at": "2026-10-16T18:00:39Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dahlin (lower-body) will remain out on Saturday and will not travel to Montreal."
-  },
-  "145405": {
-    "published_at": "2026-10-16T17:44:15Z",
-    "updated_at": "2026-10-16T18:01:48Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kulich (lower-body) is hopeful to return in Montreal on Saturday."
-  },
-  "145408": {
-    "published_at": "2026-10-16T18:18:21Z",
-    "updated_at": "2026-10-16T18:49:48Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Granlund (upper-body) will not play Friday but will travel on the Ducks\u2019 upcoming 4-game road trip."
-  },
-  "145409": {
-    "published_at": "2026-10-16T18:19:01Z",
-    "updated_at": "2026-10-16T18:50:45Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Namestnikov (undisclosed) is out week-to-week."
-  },
-  "145411": {
-    "published_at": "2026-10-16T18:24:39Z",
-    "updated_at": "2026-10-16T18:51:35Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gauthier (upper-body) will return vs. Boston on Friday."
-  },
-  "145412": {
-    "published_at": "2026-10-16T18:29:07Z",
-    "updated_at": "2026-10-16T18:52:15Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dubois (illness) will remain out for Saturday's game vs. New Jersey."
-  },
   "145413": {
     "published_at": "2026-10-16T19:23:26Z",
     "updated_at": "2026-10-16T20:03:19Z",
@@ -999,6 +863,14 @@
     "surgery": false,
     "headline": "Mintyukov is day-to-day with a lower-body injury."
   },
+  "145841": {
+    "published_at": "2026-10-22T22:48:12Z",
+    "updated_at": "2026-10-23T15:47:57Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chinakhov (lower-body) will not play on Thursday."
+  },
   "145844": {
     "published_at": "2026-10-22T23:08:06Z",
     "updated_at": "2026-10-22T23:08:06Z",
@@ -1030,5 +902,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Jarvis (shoulder) will make his season debut on Thursday."
+  },
+  "145861": {
+    "published_at": "2026-10-23T02:23:44Z",
+    "updated_at": "2026-10-23T02:23:44Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chernyshov (upper-body) left Thursday's game vs. Ottawa and will be out for a while."
+  },
+  "145862": {
+    "published_at": "2026-10-23T02:25:47Z",
+    "updated_at": "2026-10-23T02:28:44Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rifai is week-to-week with a lower-body injury."
+  },
+  "145865": {
+    "published_at": "2026-10-23T04:50:34Z",
+    "updated_at": "2026-10-23T04:50:34Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gibson (upper-body) left Thursday\u2019s game vs. Vancouver and did not return."
+  },
+  "145866": {
+    "published_at": "2026-10-23T04:55:22Z",
+    "updated_at": "2026-10-23T04:55:22Z",
+    "status": "Left game",
+    "timeline": "1 week",
+    "surgery": false,
+    "headline": "Ekholm (upper-body) left Thursday\u2019s game and is expected to miss a week."
   }
 }
