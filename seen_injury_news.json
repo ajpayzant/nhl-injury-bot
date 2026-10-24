@@ -1,60 +1,4 @@
 {
-  "145465": {
-    "published_at": "2026-10-17T16:40:28Z",
-    "updated_at": "2026-10-17T16:40:28Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Buchnevich (personal) will return to the lineup on Saturday."
-  },
-  "145466": {
-    "published_at": "2026-10-17T16:41:31Z",
-    "updated_at": "2026-10-17T16:41:31Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Johnston (undisclosed) is not expected to play on Saturday."
-  },
-  "145472": {
-    "published_at": "2026-10-17T17:20:46Z",
-    "updated_at": "2026-10-17T17:20:46Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Zuccarello (undisclosed) will not play on Saturday but will join LA on its upcoming road trip."
-  },
-  "145477": {
-    "published_at": "2026-10-17T17:48:49Z",
-    "updated_at": "2026-10-17T17:48:49Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Walman (undisclosed) will return to the lineup on Saturday."
-  },
-  "145478": {
-    "published_at": "2026-10-17T17:49:14Z",
-    "updated_at": "2026-10-17T17:49:14Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dach (undisclosed) will return to the lineup on Saturday."
-  },
-  "145479": {
-    "published_at": "2026-10-17T17:49:33Z",
-    "updated_at": "2026-10-17T17:49:33Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hyman (upper body) will return to the lineup on Saturday."
-  },
-  "145480": {
-    "published_at": "2026-10-17T17:52:10Z",
-    "updated_at": "2026-10-17T17:52:10Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Granlund (upper body) returned to practice on Saturday."
-  },
   "145491": {
     "published_at": "2026-10-17T19:43:48Z",
     "updated_at": "2026-10-17T19:45:27Z",
@@ -990,5 +934,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Levi (undisclosed) has been placed on IR."
+  },
+  "145968": {
+    "published_at": "2026-10-24T18:21:52Z",
+    "updated_at": "2026-10-24T18:21:52Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower-body) will travel but is questionable for Sunday's game vs. Nashville."
+  },
+  "145971": {
+    "published_at": "2026-10-24T18:40:30Z",
+    "updated_at": "2026-10-24T18:40:30Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marino (upper-body) is considered week-to-week."
   }
 }
