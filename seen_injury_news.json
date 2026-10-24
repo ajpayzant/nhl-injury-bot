@@ -990,5 +990,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Ekholm (concussion) will not play on Saturday."
+  },
+  "145900": {
+    "published_at": "2026-10-23T21:07:12Z",
+    "updated_at": "2026-10-23T21:08:38Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mintyukov has been placed on IR with a lower-body injury."
+  },
+  "145904": {
+    "published_at": "2026-10-23T22:36:15Z",
+    "updated_at": "2026-10-23T22:36:15Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Levi (undisclosed) has been placed on IR."
   }
 }
