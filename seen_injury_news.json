@@ -934,5 +934,61 @@
     "timeline": "",
     "surgery": false,
     "headline": "Thompson (lower-body) missed practice again on Friday and is considered day-to-day."
+  },
+  "145878": {
+    "published_at": "2026-10-23T16:29:59Z",
+    "updated_at": "2026-10-23T16:47:10Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ristolainen (upper-body) has a chance to return vs. Anaheim on Saturday."
+  },
+  "145881": {
+    "published_at": "2026-10-23T16:35:38Z",
+    "updated_at": "2026-10-23T16:53:45Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kulich (upper-body) left practice on Friday and is unsure if he will travel on Buffalo's road trip."
+  },
+  "145886": {
+    "published_at": "2026-10-23T17:02:59Z",
+    "updated_at": "2026-10-23T17:13:33Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Fabbro (hand) will remain out vs. Vegas on Saturday."
+  },
+  "145888": {
+    "published_at": "2026-10-23T17:12:41Z",
+    "updated_at": "2026-10-23T17:12:41Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Matheson (lower-body) will return in Chicago on Friday."
+  },
+  "145895": {
+    "published_at": "2026-10-23T18:14:19Z",
+    "updated_at": "2026-10-23T18:43:12Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cirelli (undisclosed) will play in Colorado on Friday."
+  },
+  "145897": {
+    "published_at": "2026-10-23T18:51:32Z",
+    "updated_at": "2026-10-23T18:59:18Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Levi (undisclosed) will not dress on Saturday."
+  },
+  "145898": {
+    "published_at": "2026-10-23T19:01:36Z",
+    "updated_at": "2026-10-23T19:01:36Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ekholm (concussion) will not play on Saturday."
   }
 }
