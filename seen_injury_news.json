@@ -1,20 +1,4 @@
 {
-  "145520": {
-    "published_at": "2026-10-18T00:40:53Z",
-    "updated_at": "2026-10-18T00:40:53Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Zacha is out vs. Los Angeles with an upper-bobdy injury."
-  },
-  "145524": {
-    "published_at": "2026-10-18T01:24:51Z",
-    "updated_at": "2026-10-18T04:17:10Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Chabot (upper-body) left Saturday's game vs. Philadelphia and will not return."
-  },
   "145527": {
     "published_at": "2026-10-18T04:16:39Z",
     "updated_at": "2026-10-18T04:16:39Z",
@@ -902,5 +886,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Thompson (lower-body) has been placed on IR retroactive to October 20th."
+  },
+  "146002": {
+    "published_at": "2026-10-25T00:30:59Z",
+    "updated_at": "2026-10-25T00:30:59Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hedman (lower-body) is out vs. Utah and is considered day-to-day."
   }
 }
