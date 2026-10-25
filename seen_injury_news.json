@@ -1,12 +1,4 @@
 {
-  "145551": {
-    "published_at": "2026-10-18T23:31:10Z",
-    "updated_at": "2026-10-18T23:31:10Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Jankowski (lower-body) will not play Sunday in Calgary."
-  },
   "145553": {
     "published_at": "2026-10-19T00:07:06Z",
     "updated_at": "2026-10-19T00:07:06Z",
@@ -934,5 +926,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Hedman (lower-body) is out vs. Utah and is considered day-to-day."
+  },
+  "146012": {
+    "published_at": "2026-10-25T11:15:23Z",
+    "updated_at": "2026-10-25T11:15:23Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Steel (undisclosed) will not play on Sunday."
+  },
+  "146013": {
+    "published_at": "2026-10-25T11:15:39Z",
+    "updated_at": "2026-10-25T11:15:39Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faksa (undisclosed) will skate on Sunday and could play vs. the Islanders."
   }
 }
