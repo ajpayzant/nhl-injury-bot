@@ -926,5 +926,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Faksa (undisclosed) will skate on Sunday and could play vs. the Islanders."
+  },
+  "146021": {
+    "published_at": "2026-10-25T16:24:03Z",
+    "updated_at": "2026-10-25T16:24:03Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Brazeau (lower body) was at practice on Sunday."
+  },
+  "146022": {
+    "published_at": "2026-10-25T16:24:43Z",
+    "updated_at": "2026-10-25T16:24:43Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chinakhov (lower body) was at practice on Sunday."
+  },
+  "146023": {
+    "published_at": "2026-10-25T16:26:09Z",
+    "updated_at": "2026-10-25T16:26:09Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Malkin (illness) was at practice on Sunday."
+  },
+  "146024": {
+    "published_at": "2026-10-25T16:30:36Z",
+    "updated_at": "2026-10-25T16:30:36Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Byfield (upper body) returned to practice on Sunday."
+  },
+  "146026": {
+    "published_at": "2026-10-25T17:07:00Z",
+    "updated_at": "2026-10-25T17:07:00Z",
+    "status": "IR",
+    "timeline": "10 weeks",
+    "surgery": false,
+    "headline": "McCann (lower body) has been placed on IR and will be out for 10 weeks."
   }
 }
