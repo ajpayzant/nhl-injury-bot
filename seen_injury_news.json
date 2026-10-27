@@ -1,36 +1,4 @@
 {
-  "145689": {
-    "published_at": "2026-10-20T20:38:18Z",
-    "updated_at": "2026-10-20T20:47:26Z",
-    "status": "Out indefinitely",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kindel (undisclosed) is out indefinitely."
-  },
-  "145691": {
-    "published_at": "2026-10-20T20:49:46Z",
-    "updated_at": "2026-10-20T20:53:07Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wennberg (upper-body) is out vs. Montreal on Tuesday and considered day-to-day."
-  },
-  "145696": {
-    "published_at": "2026-10-20T21:07:59Z",
-    "updated_at": "2026-10-20T21:30:27Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Carone (upper-body) has been placed on IR and remains week-to-week."
-  },
-  "145698": {
-    "published_at": "2026-10-20T22:35:41Z",
-    "updated_at": "2026-10-20T22:35:41Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Caulfield (personal) returned to Anaheim for the birth of his child and will not play Tuesday."
-  },
   "145705": {
     "published_at": "2026-10-21T00:06:01Z",
     "updated_at": "2026-10-21T00:06:01Z",
@@ -865,10 +833,18 @@
   },
   "146150": {
     "published_at": "2026-10-27T19:00:50Z",
-    "updated_at": "2026-10-27T19:00:50Z",
+    "updated_at": "2026-10-27T19:30:54Z",
     "status": "Game-time decision",
     "timeline": "",
     "surgery": false,
     "headline": "Ekholm (concussion) has a chance to return on Wednesday vs. Calgary."
+  },
+  "146152": {
+    "published_at": "2026-10-27T20:37:00Z",
+    "updated_at": "2026-10-27T20:37:00Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower body) was a full participant in Tuesday's practice."
   }
 }
