@@ -1,36 +1,4 @@
 {
-  "145705": {
-    "published_at": "2026-10-21T00:06:01Z",
-    "updated_at": "2026-10-21T00:06:01Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byfield left Tuesday's game in Washington with an upper-body injury and will not return."
-  },
-  "145707": {
-    "published_at": "2026-10-21T01:14:32Z",
-    "updated_at": "2026-10-21T01:14:32Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Montour (lower-body) is on the ice for warmups and is expected to play vs. Detroit."
-  },
-  "145708": {
-    "published_at": "2026-10-21T01:15:17Z",
-    "updated_at": "2026-10-21T01:15:17Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "McCabe left Tuesday's game with an undisclosed injury and will not return."
-  },
-  "145709": {
-    "published_at": "2026-10-21T01:15:49Z",
-    "updated_at": "2026-10-21T01:15:49Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Panthers placed Jacob Markstrom (upper-body) on IR."
-  },
   "145724": {
     "published_at": "2026-10-21T14:41:23Z",
     "updated_at": "2026-10-21T14:59:13Z",
@@ -846,5 +814,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Roy (lower body) was a full participant in Tuesday's practice."
+  },
+  "146157": {
+    "published_at": "2026-10-27T23:34:32Z",
+    "updated_at": "2026-10-27T23:34:32Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Jankowski (lower-body) is on the ice for warmups and will play Tuesday vs. Boston."
+  },
+  "146159": {
+    "published_at": "2026-10-27T23:46:35Z",
+    "updated_at": "2026-10-27T23:46:35Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Perry (undisclosed) will not play on Tuesday."
+  },
+  "146160": {
+    "published_at": "2026-10-27T23:46:56Z",
+    "updated_at": "2026-10-27T23:46:56Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Doughty (undisclosed) will not play Tuesday."
   }
 }
