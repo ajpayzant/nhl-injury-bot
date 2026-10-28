@@ -1,52 +1,4 @@
 {
-  "145731": {
-    "published_at": "2026-10-21T15:35:48Z",
-    "updated_at": "2026-10-21T16:00:49Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bourque (upper-body) practice in full on Wednesday."
-  },
-  "145741": {
-    "published_at": "2026-10-21T17:53:27Z",
-    "updated_at": "2026-10-21T17:58:21Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Fabbro (hand) has a chance to return on Saturday vs. Vegas."
-  },
-  "145742": {
-    "published_at": "2026-10-21T17:59:35Z",
-    "updated_at": "2026-10-21T20:00:38Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byfield (upper-body) is considered day-to-day."
-  },
-  "145745": {
-    "published_at": "2026-10-21T18:02:30Z",
-    "updated_at": "2026-10-21T20:05:03Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cirelli (undisclosed) left Tuesday's game vs. Vegas and did not return."
-  },
-  "145746": {
-    "published_at": "2026-10-21T18:35:03Z",
-    "updated_at": "2026-10-21T20:13:52Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Rossi (illness) returned to Canucks' practice on Wednesday."
-  },
-  "145747": {
-    "published_at": "2026-10-21T19:23:37Z",
-    "updated_at": "2026-10-21T19:23:37Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wotherspoon (upper body) has been placed on IR."
-  },
   "145748": {
     "published_at": "2026-10-21T20:33:04Z",
     "updated_at": "2026-10-21T20:34:45Z",
@@ -910,5 +862,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Doughty (undisclosed) will not play Tuesday."
+  },
+  "146174": {
+    "published_at": "2026-10-28T04:44:20Z",
+    "updated_at": "2026-10-28T15:45:56Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Capobianco (lower-body) left Tuesday\u2019s game vs. New Jersey and did not return."
   }
 }
