@@ -1,44 +1,4 @@
 {
-  "145724": {
-    "published_at": "2026-10-21T14:41:23Z",
-    "updated_at": "2026-10-21T14:59:13Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Thompson is day-to-day with a lower-body injury."
-  },
-  "145726": {
-    "published_at": "2026-10-21T14:54:19Z",
-    "updated_at": "2026-10-21T15:02:13Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Zucker (sports hernia) will make his season debut vs. Philadelphia on Wednesday."
-  },
-  "145727": {
-    "published_at": "2026-10-21T14:59:18Z",
-    "updated_at": "2026-10-21T15:56:40Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Danforth (lower-body) is out vs. Philadelphia and is considered day-to-day."
-  },
-  "145728": {
-    "published_at": "2026-10-21T14:59:54Z",
-    "updated_at": "2026-10-21T15:57:08Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Carrick (mid-body) is out vs. Philadelphia on Wednesday and considered day-to-day."
-  },
-  "145729": {
-    "published_at": "2026-10-21T15:13:46Z",
-    "updated_at": "2026-10-21T15:59:05Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sanderson (lower-body) will return vs. Florida on Wednesday."
-  },
   "145731": {
     "published_at": "2026-10-21T15:35:48Z",
     "updated_at": "2026-10-21T16:00:49Z",
@@ -918,6 +878,14 @@
     "timeline": "",
     "surgery": false,
     "headline": "Roy (lower body) was a full participant in Tuesday's practice."
+  },
+  "146156": {
+    "published_at": "2026-10-27T23:32:51Z",
+    "updated_at": "2026-10-27T23:32:51Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hall (undisclosed) will not play Tuesday vs. the Bruins."
   },
   "146157": {
     "published_at": "2026-10-27T23:34:32Z",
