@@ -1,36 +1,4 @@
 {
-  "145785": {
-    "published_at": "2026-10-22T15:48:00Z",
-    "updated_at": "2026-10-22T15:49:08Z",
-    "status": "Out",
-    "timeline": "6 weeks",
-    "surgery": false,
-    "headline": "Rust (lower-body) is out and will be evaluated in six weeks."
-  },
-  "145790": {
-    "published_at": "2026-10-22T16:17:33Z",
-    "updated_at": "2026-10-22T16:26:01Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byfield (upper-body) is a game-time decision on Long Island on Thursday."
-  },
-  "145792": {
-    "published_at": "2026-10-22T16:23:36Z",
-    "updated_at": "2026-10-22T16:30:48Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wennberg (upper-body) is considered week-to-week."
-  },
-  "145800": {
-    "published_at": "2026-10-22T17:12:30Z",
-    "updated_at": "2026-10-22T17:28:14Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Backlund (upper-body) is out vs. Minnesota on Thursday."
-  },
   "145804": {
     "published_at": "2026-10-22T17:44:16Z",
     "updated_at": "2026-10-22T17:47:48Z",
@@ -857,11 +825,11 @@
   },
   "146181": {
     "published_at": "2026-10-28T16:31:46Z",
-    "updated_at": "2026-10-28T16:55:34Z",
+    "updated_at": "2026-10-29T16:28:10Z",
     "status": "Returning",
     "timeline": "",
     "surgery": false,
-    "headline": "Steel (undisclosed) is expected to return vs. Montreal on Wednesday."
+    "headline": "Steel (undisclosed) is expected to return vs. Montreal on Thursday."
   },
   "146188": {
     "published_at": "2026-10-28T17:25:55Z",
@@ -934,5 +902,69 @@
     "timeline": "",
     "surgery": false,
     "headline": "Joshua (core) will be a game-time decision vs. Seattle on Wednesday."
+  },
+  "146212": {
+    "published_at": "2026-10-29T00:20:32Z",
+    "updated_at": "2026-10-29T00:20:32Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ekholm (concussion) will be back in the Oilers lineup on Wednesday."
+  },
+  "146214": {
+    "published_at": "2026-10-29T02:20:48Z",
+    "updated_at": "2026-10-29T02:26:50Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cooley (lower-body) left Wednesday's game vs. Edmonton and will not return."
+  },
+  "146215": {
+    "published_at": "2026-10-29T02:21:22Z",
+    "updated_at": "2026-10-29T02:23:48Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Othmann (upper-body) left Wednesday's game vs. Edmonton and will not return."
+  },
+  "146216": {
+    "published_at": "2026-10-29T03:02:52Z",
+    "updated_at": "2026-10-29T03:02:52Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Manson (lower-body) left Wednesday's game vs. New Jersey and will not return."
+  },
+  "146257": {
+    "published_at": "2026-10-29T16:28:32Z",
+    "updated_at": "2026-10-29T17:20:38Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Steel (undisclosed) will return vs. Montreal on Thursday."
+  },
+  "146260": {
+    "published_at": "2026-10-29T16:33:26Z",
+    "updated_at": "2026-10-29T17:25:12Z",
+    "status": "Out",
+    "timeline": "4 weeks",
+    "surgery": false,
+    "headline": "Capobianco (lower-body) is expected to be out for the next four weeks."
+  },
+  "146266": {
+    "published_at": "2026-10-29T17:26:55Z",
+    "updated_at": "2026-10-29T17:26:55Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Fiala (lower-body) returned to practice in a non-contact jersey on Thursday."
+  },
+  "146267": {
+    "published_at": "2026-10-29T17:34:06Z",
+    "updated_at": "2026-10-29T17:34:06Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchenko (lower-body) has been placed on IR and is still considered week-to-week."
   }
 }
