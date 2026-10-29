@@ -870,5 +870,69 @@
     "timeline": "",
     "surgery": false,
     "headline": "Roy (lower-body) will return vs. New Jersey on Wednesday."
+  },
+  "146190": {
+    "published_at": "2026-10-28T18:09:23Z",
+    "updated_at": "2026-10-28T19:21:20Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chabot (upper body) is expected to return on Thursday."
+  },
+  "146191": {
+    "published_at": "2026-10-28T18:12:18Z",
+    "updated_at": "2026-10-28T19:00:01Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mintyukov (lower body) returned to practice on Wednesday."
+  },
+  "146195": {
+    "published_at": "2026-10-28T18:25:02Z",
+    "updated_at": "2026-10-28T18:49:46Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchenko (lower body) is out week-to-week."
+  },
+  "146196": {
+    "published_at": "2026-10-28T18:25:47Z",
+    "updated_at": "2026-10-28T19:33:35Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tanev (upper body) returned to practice and has been upgraded to day-to-day."
+  },
+  "146197": {
+    "published_at": "2026-10-28T18:27:06Z",
+    "updated_at": "2026-10-28T18:52:24Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tavares (lower body) remains week-to-week."
+  },
+  "146203": {
+    "published_at": "2026-10-28T19:49:29Z",
+    "updated_at": "2026-10-28T20:41:56Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Brazeau (lower-body) has been activated from IR and assigned to Wilkes-Barre/Scranton (AHL) on a conditioning loan."
+  },
+  "146204": {
+    "published_at": "2026-10-28T19:50:51Z",
+    "updated_at": "2026-10-28T20:42:36Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Soderblom (upper-body) has been placed on IR."
+  },
+  "146208": {
+    "published_at": "2026-10-28T21:56:29Z",
+    "updated_at": "2026-10-28T21:58:59Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Joshua (core) will be a game-time decision vs. Seattle on Wednesday."
   }
 }
