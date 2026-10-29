@@ -1,12 +1,4 @@
 {
-  "145762": {
-    "published_at": "2026-10-22T03:35:53Z",
-    "updated_at": "2026-10-22T03:35:53Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ullmark left Wednesday's game with a lower-body \"strain\" and will be evaluated on Thursday."
-  },
   "145785": {
     "published_at": "2026-10-22T15:48:00Z",
     "updated_at": "2026-10-22T15:49:08Z",
@@ -838,5 +830,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Capobianco (lower-body) left Tuesday\u2019s game vs. New Jersey and did not return."
+  },
+  "146177": {
+    "published_at": "2026-10-28T16:06:02Z",
+    "updated_at": "2026-10-28T16:49:16Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johansson (undisclosed) will remain out on Thursday vs. Chicago."
+  },
+  "146178": {
+    "published_at": "2026-10-28T16:09:50Z",
+    "updated_at": "2026-10-28T16:51:19Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman (upper-body) has been placed on IR."
+  },
+  "146180": {
+    "published_at": "2026-10-28T16:30:48Z",
+    "updated_at": "2026-10-28T16:54:57Z",
+    "status": "Out",
+    "timeline": "at least 1 week",
+    "surgery": false,
+    "headline": "Capobianco (lower-body) will be out for at least a week."
+  },
+  "146181": {
+    "published_at": "2026-10-28T16:31:46Z",
+    "updated_at": "2026-10-28T16:55:34Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Steel (undisclosed) is expected to return vs. Montreal on Wednesday."
+  },
+  "146188": {
+    "published_at": "2026-10-28T17:25:55Z",
+    "updated_at": "2026-10-28T17:46:58Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roy (lower-body) will return vs. New Jersey on Wednesday."
   }
 }
