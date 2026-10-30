@@ -1,100 +1,4 @@
 {
-  "145868": {
-    "published_at": "2026-10-23T14:46:45Z",
-    "updated_at": "2026-10-23T15:59:05Z",
-    "status": "Out",
-    "timeline": "4-6 weeks",
-    "surgery": true,
-    "headline": "Desharnais underwent a successful appendectomy surgery and is expected to miss the next 4-6 weeks."
-  },
-  "145871": {
-    "published_at": "2026-10-23T15:22:56Z",
-    "updated_at": "2026-10-23T16:07:59Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Blankenburg (undisclosed) has been placed on IR and is considered week-to-week."
-  },
-  "145873": {
-    "published_at": "2026-10-23T15:38:53Z",
-    "updated_at": "2026-10-23T16:09:45Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Tanev (upper-body) will travel with the team, but is still considered week-to-week."
-  },
-  "145875": {
-    "published_at": "2026-10-23T15:47:48Z",
-    "updated_at": "2026-10-23T16:27:13Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Malkin (illness) missed Pittsburgh's practice on Friday."
-  },
-  "145876": {
-    "published_at": "2026-10-23T16:06:21Z",
-    "updated_at": "2026-10-23T16:40:28Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Thompson (lower-body) missed practice again on Friday and is considered day-to-day."
-  },
-  "145878": {
-    "published_at": "2026-10-23T16:29:59Z",
-    "updated_at": "2026-10-23T16:47:10Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ristolainen (upper-body) has a chance to return vs. Anaheim on Saturday."
-  },
-  "145881": {
-    "published_at": "2026-10-23T16:35:38Z",
-    "updated_at": "2026-10-23T16:53:45Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kulich (upper-body) left practice on Friday and is unsure if he will travel on Buffalo's road trip."
-  },
-  "145886": {
-    "published_at": "2026-10-23T17:02:59Z",
-    "updated_at": "2026-10-23T17:13:33Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Fabbro (hand) will remain out vs. Vegas on Saturday."
-  },
-  "145888": {
-    "published_at": "2026-10-23T17:12:41Z",
-    "updated_at": "2026-10-23T17:12:41Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Matheson (lower-body) will return in Chicago on Friday."
-  },
-  "145895": {
-    "published_at": "2026-10-23T18:14:19Z",
-    "updated_at": "2026-10-23T18:43:12Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cirelli (undisclosed) will play in Colorado on Friday."
-  },
-  "145897": {
-    "published_at": "2026-10-23T18:51:32Z",
-    "updated_at": "2026-10-23T18:59:18Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Levi (undisclosed) will not dress on Saturday."
-  },
-  "145898": {
-    "published_at": "2026-10-23T19:01:36Z",
-    "updated_at": "2026-10-23T19:01:36Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ekholm (concussion) will not play on Saturday."
-  },
   "145900": {
     "published_at": "2026-10-23T21:07:12Z",
     "updated_at": "2026-10-23T21:08:38Z",
@@ -918,5 +822,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Matheson (lower-body) will not play on Thursday and will be evaluated when the team returns to Montreal."
+  },
+  "146313": {
+    "published_at": "2026-10-30T04:17:43Z",
+    "updated_at": "2026-10-30T15:03:37Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Clarke (upper-body) left Thursday\u2019s game vs. Ottawa and will not return."
+  },
+  "146314": {
+    "published_at": "2026-10-30T06:20:29Z",
+    "updated_at": "2026-10-30T15:05:04Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Burakovsky (lower-body) left Thursday\u2019s game vs. Los Angeles and did not return."
+  },
+  "146342": {
+    "published_at": "2026-10-30T19:02:21Z",
+    "updated_at": "2026-10-30T19:02:21Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Clarke (upper-body) is on the ice for practice on Friday."
+  },
+  "146343": {
+    "published_at": "2026-10-30T19:17:06Z",
+    "updated_at": "2026-10-30T19:17:06Z",
+    "status": "Being evaluated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chytil (upper-body) missed practice on Friday and is being evaluated."
   }
 }
