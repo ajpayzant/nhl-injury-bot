@@ -1,20 +1,4 @@
 {
-  "145900": {
-    "published_at": "2026-10-23T21:07:12Z",
-    "updated_at": "2026-10-23T21:08:38Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Mintyukov has been placed on IR with a lower-body injury."
-  },
-  "145904": {
-    "published_at": "2026-10-23T22:36:15Z",
-    "updated_at": "2026-10-23T22:36:15Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Levi (undisclosed) has been placed on IR."
-  },
   "145921": {
     "published_at": "2026-10-24T14:51:02Z",
     "updated_at": "2026-10-24T14:51:02Z",
@@ -841,7 +825,7 @@
   },
   "146342": {
     "published_at": "2026-10-30T19:02:21Z",
-    "updated_at": "2026-10-30T19:02:21Z",
+    "updated_at": "2026-10-30T20:00:05Z",
     "status": "Practicing",
     "timeline": "",
     "surgery": false,
@@ -849,10 +833,34 @@
   },
   "146343": {
     "published_at": "2026-10-30T19:17:06Z",
-    "updated_at": "2026-10-30T19:17:06Z",
+    "updated_at": "2026-10-30T20:01:51Z",
     "status": "Being evaluated",
     "timeline": "",
     "surgery": false,
     "headline": "Chytil (upper-body) missed practice on Friday and is being evaluated."
+  },
+  "146344": {
+    "published_at": "2026-10-30T19:44:55Z",
+    "updated_at": "2026-10-30T20:07:53Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Fiala (lower-body) was a regular participant in Friday\u2019s practice."
+  },
+  "146350": {
+    "published_at": "2026-10-30T20:45:47Z",
+    "updated_at": "2026-10-30T20:45:47Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chytil (upper-body) will be out vs. Toronto on Saturday."
+  },
+  "146353": {
+    "published_at": "2026-10-30T21:35:48Z",
+    "updated_at": "2026-10-30T21:35:48Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chytil (upper-body) has been placed on IR."
   }
 }
