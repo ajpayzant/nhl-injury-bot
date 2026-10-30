@@ -1,12 +1,4 @@
 {
-  "145867": {
-    "published_at": "2026-10-23T14:04:52Z",
-    "updated_at": "2026-10-23T14:04:52Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Faksa (undisclosed) left Thursday's game and did not return."
-  },
   "145868": {
     "published_at": "2026-10-23T14:46:45Z",
     "updated_at": "2026-10-23T15:59:05Z",
@@ -910,5 +902,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Hart (lower-body) has a chance to return on Friday vs. New Jersey."
+  },
+  "146307": {
+    "published_at": "2026-10-29T23:02:42Z",
+    "updated_at": "2026-10-29T23:02:42Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Vlasic (illness) is on the ice for warmups and is expected to play Thursday in Detroit."
+  },
+  "146309": {
+    "published_at": "2026-10-29T23:34:41Z",
+    "updated_at": "2026-10-29T23:34:41Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Matheson (lower-body) will not play on Thursday and will be evaluated when the team returns to Montreal."
   }
 }
