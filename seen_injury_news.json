@@ -1,36 +1,4 @@
 {
-  "145861": {
-    "published_at": "2026-10-23T02:23:44Z",
-    "updated_at": "2026-10-23T02:23:44Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Chernyshov (upper-body) left Thursday's game vs. Ottawa and will be out for a while."
-  },
-  "145862": {
-    "published_at": "2026-10-23T02:25:47Z",
-    "updated_at": "2026-10-23T02:28:44Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Rifai is week-to-week with a lower-body injury."
-  },
-  "145865": {
-    "published_at": "2026-10-23T04:50:34Z",
-    "updated_at": "2026-10-23T04:50:34Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gibson (upper-body) left Thursday\u2019s game vs. Vancouver and did not return."
-  },
-  "145866": {
-    "published_at": "2026-10-23T04:55:22Z",
-    "updated_at": "2026-10-23T04:55:22Z",
-    "status": "Left game",
-    "timeline": "1 week",
-    "surgery": false,
-    "headline": "Ekholm (upper-body) left Thursday\u2019s game and is expected to miss a week."
-  },
   "145867": {
     "published_at": "2026-10-23T14:04:52Z",
     "updated_at": "2026-10-23T14:04:52Z",
@@ -815,6 +783,38 @@
     "surgery": false,
     "headline": "Manson (lower-body) left Wednesday's game vs. New Jersey and will not return."
   },
+  "146239": {
+    "published_at": "2026-10-29T15:30:50Z",
+    "updated_at": "2026-10-29T15:54:38Z",
+    "status": "Out",
+    "timeline": "3 weeks",
+    "surgery": false,
+    "headline": "Marchand (leg) has resumed skating and is expected to be out for three more weeks."
+  },
+  "146242": {
+    "published_at": "2026-10-29T15:38:01Z",
+    "updated_at": "2026-10-29T16:05:20Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Spurgeon (undisclosed) is considered week-to-week."
+  },
+  "146248": {
+    "published_at": "2026-10-29T15:54:57Z",
+    "updated_at": "2026-10-29T16:19:38Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faber's (upper-body) return-to-play protocol has been cleared, and should resume skating in the upcoming weeks."
+  },
+  "146255": {
+    "published_at": "2026-10-29T16:22:42Z",
+    "updated_at": "2026-10-29T16:44:03Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Vlasic (illness) is questionable to play in Detroit on Thursday."
+  },
   "146257": {
     "published_at": "2026-10-29T16:28:32Z",
     "updated_at": "2026-10-29T17:20:38Z",
@@ -846,6 +846,54 @@
     "timeline": "",
     "surgery": false,
     "headline": "Marchenko (lower-body) has been placed on IR and is still considered week-to-week."
+  },
+  "146276": {
+    "published_at": "2026-10-29T18:00:10Z",
+    "updated_at": "2026-10-29T18:42:27Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olofsson (undisclosed) returned to practice in a non-contact jersey on Thursday."
+  },
+  "146281": {
+    "published_at": "2026-10-29T18:20:33Z",
+    "updated_at": "2026-10-29T18:53:55Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chabot (upper-body) will return in Los Angeles on Thursday."
+  },
+  "146282": {
+    "published_at": "2026-10-29T18:21:12Z",
+    "updated_at": "2026-10-29T18:56:31Z",
+    "status": "Out indefinitely",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foegele (undisclosed) is out on Thursday and is expected to miss an extended period of time."
+  },
+  "146287": {
+    "published_at": "2026-10-29T18:32:47Z",
+    "updated_at": "2026-10-29T19:19:12Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Perry (undisclosed) will return vs. Ottawa on Thursday."
+  },
+  "146288": {
+    "published_at": "2026-10-29T18:33:15Z",
+    "updated_at": "2026-10-29T19:18:07Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Doughty (undisclosed) will return vs. Ottawa on Thursday."
+  },
+  "146291": {
+    "published_at": "2026-10-29T19:00:29Z",
+    "updated_at": "2026-10-29T19:22:30Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Helenius (upper-body) it out vs. Anaheim on Thursday."
   },
   "146292": {
     "published_at": "2026-10-29T19:01:27Z",
