@@ -831,6 +831,118 @@
     "surgery": false,
     "headline": "Pulock (upper-body) left Thursday's game vs. Minnesota and did not return."
   },
+  "146320": {
+    "published_at": "2026-10-30T15:23:17Z",
+    "updated_at": "2026-10-30T15:54:35Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Korpisalo (lower-body) returned to practice on Friday."
+  },
+  "146324": {
+    "published_at": "2026-10-30T16:02:37Z",
+    "updated_at": "2026-10-30T16:32:48Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Konecny (lower-body) returned to practice in a non-contact jersey on Friday."
+  },
+  "146325": {
+    "published_at": "2026-10-30T16:03:11Z",
+    "updated_at": "2026-10-30T16:34:17Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tippett (upper-body) returned to practice on Friday."
+  },
+  "146328": {
+    "published_at": "2026-10-30T16:21:02Z",
+    "updated_at": "2026-10-30T16:39:56Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Eriksson Ek (undisclosed) is at the doctor on Friday, and his status for Sunday vs. Washington is up in the air."
+  },
+  "146329": {
+    "published_at": "2026-10-30T16:24:55Z",
+    "updated_at": "2026-10-30T16:41:39Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cooley (lower-body) has been placed on IR and is considered week-to-week."
+  },
+  "146330": {
+    "published_at": "2026-10-30T16:36:31Z",
+    "updated_at": "2026-10-30T16:42:40Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Othmann (upper-body) is out on Friday and considered day-to-day."
+  },
+  "146332": {
+    "published_at": "2026-10-30T17:54:35Z",
+    "updated_at": "2026-10-30T18:07:32Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faksa (undisclosed) has a chance to return on Saturday vs. Columbus."
+  },
+  "146333": {
+    "published_at": "2026-10-30T17:55:06Z",
+    "updated_at": "2026-10-30T18:08:52Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Lindell (lower-body) has a chance to return vs. Columbus on Saturday."
+  },
+  "146334": {
+    "published_at": "2026-10-30T17:56:40Z",
+    "updated_at": "2026-10-30T18:09:44Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Parayko (upper-body) missed practice on Friday and is probable vs. Detroit on Saturday."
+  },
+  "146336": {
+    "published_at": "2026-10-30T18:08:35Z",
+    "updated_at": "2026-10-30T18:12:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johnston (lower-body) is travelling and expected to return during St. Louis' road trip."
+  },
+  "146337": {
+    "published_at": "2026-10-30T18:20:17Z",
+    "updated_at": "2026-10-30T19:55:04Z",
+    "status": "Out",
+    "timeline": "8 weeks",
+    "surgery": false,
+    "headline": "Manson is expected to be out for eight weeks with an ankle injury."
+  },
+  "146339": {
+    "published_at": "2026-10-30T18:25:09Z",
+    "updated_at": "2026-10-30T19:55:54Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tanev (upper-body) is a possibility to return vs. Vancouver on Saturday."
+  },
+  "146340": {
+    "published_at": "2026-10-30T18:41:31Z",
+    "updated_at": "2026-10-30T19:57:49Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Joshua (core) is expected to return vs. Vancouver on Saturday."
+  },
+  "146341": {
+    "published_at": "2026-10-30T18:45:53Z",
+    "updated_at": "2026-10-30T19:59:21Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": true,
+    "headline": "Zary underwent successful knee surgery and will be out week-to-week."
+  },
   "146342": {
     "published_at": "2026-10-30T19:02:21Z",
     "updated_at": "2026-10-30T20:00:05Z",
