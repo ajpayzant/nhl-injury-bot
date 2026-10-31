@@ -1,12 +1,4 @@
 {
-  "145981": {
-    "published_at": "2026-10-24T19:31:35Z",
-    "updated_at": "2026-10-24T19:31:35Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byram (upper-body) practiced in a non-contact jersey but will remain out on Sunday vs. Florida."
-  },
   "145987": {
     "published_at": "2026-10-24T22:06:53Z",
     "updated_at": "2026-10-24T22:06:53Z",
@@ -870,5 +862,21 @@
     "timeline": "3-4 weeks",
     "surgery": false,
     "headline": "Foegele (knee) will miss 3-4 weeks."
+  },
+  "146432": {
+    "published_at": "2026-10-31T19:17:34Z",
+    "updated_at": "2026-10-31T19:17:34Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olofsson (undisclosed) will travel with Vegas on its upcoming road trip."
+  },
+  "146435": {
+    "published_at": "2026-10-31T19:20:43Z",
+    "updated_at": "2026-10-31T19:20:43Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Howard (lower body) left Saturday's game and will not return."
   }
 }
