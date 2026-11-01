@@ -1,20 +1,4 @@
 {
-  "146012": {
-    "published_at": "2026-10-25T11:15:23Z",
-    "updated_at": "2026-10-25T11:15:23Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Steel (undisclosed) will not play on Sunday."
-  },
-  "146013": {
-    "published_at": "2026-10-25T11:15:39Z",
-    "updated_at": "2026-10-25T11:15:39Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Faksa (undisclosed) will skate on Sunday and could play vs. the Islanders."
-  },
   "146021": {
     "published_at": "2026-10-25T16:24:03Z",
     "updated_at": "2026-10-25T16:24:03Z",
@@ -966,6 +950,14 @@
     "timeline": "",
     "surgery": false,
     "headline": "Howard (lower body) left Saturday's game and will not return."
+  },
+  "146448": {
+    "published_at": "2026-10-31T22:50:12Z",
+    "updated_at": "2026-10-31T22:55:01Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dach (illness) will not play on Saturday."
   },
   "146452": {
     "published_at": "2026-10-31T23:41:07Z",
