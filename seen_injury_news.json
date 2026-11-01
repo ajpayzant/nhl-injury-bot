@@ -1,28 +1,4 @@
 {
-  "145987": {
-    "published_at": "2026-10-24T22:06:53Z",
-    "updated_at": "2026-10-24T22:06:53Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Thompson (lower-body) has been placed on IR retroactive to October 20th."
-  },
-  "146001": {
-    "published_at": "2026-10-25T00:26:43Z",
-    "updated_at": "2026-10-25T00:26:43Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "McCann (lower-body) has been placed on IR."
-  },
-  "146002": {
-    "published_at": "2026-10-25T00:30:59Z",
-    "updated_at": "2026-10-25T00:30:59Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hedman (lower-body) is out vs. Utah and is considered day-to-day."
-  },
   "146012": {
     "published_at": "2026-10-25T11:15:23Z",
     "updated_at": "2026-10-25T11:15:23Z",
@@ -878,5 +854,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Howard (lower body) left Saturday's game and will not return."
+  },
+  "146452": {
+    "published_at": "2026-10-31T23:41:07Z",
+    "updated_at": "2026-10-31T23:41:07Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Provorov (lower body) will make his season debut on Saturday."
   }
 }
