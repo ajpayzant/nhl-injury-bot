@@ -1,84 +1,4 @@
 {
-  "146051": {
-    "published_at": "2026-10-26T14:44:07Z",
-    "updated_at": "2026-10-26T15:20:07Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Thompson (lower-body) returned to practice on Monday."
-  },
-  "146052": {
-    "published_at": "2026-10-26T14:54:29Z",
-    "updated_at": "2026-10-26T15:29:48Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall (upper-body) returned to Carolina's practice in a regular jersey on Monday."
-  },
-  "146054": {
-    "published_at": "2026-10-26T15:11:25Z",
-    "updated_at": "2026-10-26T15:31:04Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Provorov (lower-body) returned to practice on Monday."
-  },
-  "146055": {
-    "published_at": "2026-10-26T15:17:53Z",
-    "updated_at": "2026-10-26T15:33:12Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Zuccarello (upper-body) will be out vs. New York on Monday."
-  },
-  "146056": {
-    "published_at": "2026-10-26T15:18:43Z",
-    "updated_at": "2026-10-26T15:35:33Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byfield (upper-body) is a game-time decision in New York on Monday."
-  },
-  "146060": {
-    "published_at": "2026-10-26T16:17:13Z",
-    "updated_at": "2026-10-26T16:20:31Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall (upper-body) is expected to return vs. Boston on Tuesday."
-  },
-  "146064": {
-    "published_at": "2026-10-26T16:42:18Z",
-    "updated_at": "2026-10-26T16:57:54Z",
-    "status": "Out",
-    "timeline": "2 weeks",
-    "surgery": false,
-    "headline": "Ristolainen (upper-body) is expected to be out for approximately two weeks."
-  },
-  "146065": {
-    "published_at": "2026-10-26T16:55:50Z",
-    "updated_at": "2026-10-26T16:59:17Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Backlund (upper-body) will be a game-time decision vs. Toronto on Monday."
-  },
-  "146066": {
-    "published_at": "2026-10-26T17:27:49Z",
-    "updated_at": "2026-10-26T17:35:33Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Maccelli (lower-body) has been placed on IR retroactive to October 17th."
-  },
-  "146067": {
-    "published_at": "2026-10-26T17:28:22Z",
-    "updated_at": "2026-10-26T17:37:30Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ritchie (lower-body) has been placed on IR retroactive to October 17th."
-  },
   "146076": {
     "published_at": "2026-10-26T18:54:17Z",
     "updated_at": "2026-10-26T19:26:40Z",
@@ -950,5 +870,85 @@
     "timeline": "",
     "surgery": false,
     "headline": "Tippett (upper-body) has been activated from IR and is expected to play on Sunday."
+  },
+  "146471": {
+    "published_at": "2026-11-01T20:32:06Z",
+    "updated_at": "2026-11-01T20:32:06Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Yamamoto (upper-body) is day-to-day and will not play on Sunday."
+  },
+  "146472": {
+    "published_at": "2026-11-01T20:32:32Z",
+    "updated_at": "2026-11-01T20:32:32Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carcone (upper-body) has been activated from IR and will play on Sunday."
+  },
+  "146473": {
+    "published_at": "2026-11-01T20:33:06Z",
+    "updated_at": "2026-11-01T20:33:06Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marino (upper-body) has been placed on IR retroactive to October 17th."
+  },
+  "146478": {
+    "published_at": "2026-11-01T22:36:24Z",
+    "updated_at": "2026-11-01T22:36:24Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Durzi (undisclosed) will not play Sunday vs. the Oilers."
+  },
+  "146481": {
+    "published_at": "2026-11-01T22:40:48Z",
+    "updated_at": "2026-11-01T22:40:48Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Islanders assigned Isaiah George to Hamilton (AHL)."
+  },
+  "146485": {
+    "published_at": "2026-11-02T00:23:10Z",
+    "updated_at": "2026-11-02T00:23:10Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mintyukov (lower-body) has been activated from IR and will play on Sunday."
+  },
+  "146519": {
+    "published_at": "2026-11-02T18:20:20Z",
+    "updated_at": "2026-11-02T18:25:17Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mercer (upper-body) missed practice on Monday."
+  },
+  "146520": {
+    "published_at": "2026-11-02T18:20:45Z",
+    "updated_at": "2026-11-02T18:26:00Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Morrissey (upper-body) is hopeful to return by the weekend."
+  },
+  "146521": {
+    "published_at": "2026-11-02T18:21:59Z",
+    "updated_at": "2026-11-02T18:26:59Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Koepke (undisclosed) returned to practice on Monday and is expected to be ready for the next game."
+  },
+  "146527": {
+    "published_at": "2026-11-02T18:42:14Z",
+    "updated_at": "2026-11-02T18:42:14Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Greer has been placed on IR with an upper-body injury."
   }
 }
