@@ -1,76 +1,4 @@
 {
-  "146115": {
-    "published_at": "2026-10-27T16:06:00Z",
-    "updated_at": "2026-10-27T16:23:02Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Reimer (upper-body) missed practice on Tuesday and is considered day-to-day."
-  },
-  "146116": {
-    "published_at": "2026-10-27T16:14:37Z",
-    "updated_at": "2026-10-27T16:24:27Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Fabbro (hand) will be a game-time decision in Philadelphia on Tuesday."
-  },
-  "146121": {
-    "published_at": "2026-10-27T16:23:33Z",
-    "updated_at": "2026-10-27T16:36:17Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Toropchenko (upper-body) will return vs. Montreal on Tuesday."
-  },
-  "146123": {
-    "published_at": "2026-10-27T16:30:27Z",
-    "updated_at": "2026-10-27T16:53:30Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Thompson (lower-body) took full part in practice on Tuesday."
-  },
-  "146130": {
-    "published_at": "2026-10-27T17:01:34Z",
-    "updated_at": "2026-10-27T17:31:10Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Morrissey (upper-body) will travel on Winnipeg's upcoming road trip."
-  },
-  "146137": {
-    "published_at": "2026-10-27T17:36:52Z",
-    "updated_at": "2026-10-27T17:50:12Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Fabbro (hand) has been activated from IR and will make his season debut on Tuesday vs. Philadelphia."
-  },
-  "146148": {
-    "published_at": "2026-10-27T18:47:21Z",
-    "updated_at": "2026-10-27T18:51:05Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hart (lower-body) left Vegas' morning skate on Tuesday and did not return."
-  },
-  "146150": {
-    "published_at": "2026-10-27T19:00:50Z",
-    "updated_at": "2026-10-27T19:30:54Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ekholm (concussion) has a chance to return on Wednesday vs. Calgary."
-  },
-  "146152": {
-    "published_at": "2026-10-27T20:37:00Z",
-    "updated_at": "2026-10-27T20:37:00Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Roy (lower body) was a full participant in Tuesday's practice."
-  },
   "146156": {
     "published_at": "2026-10-27T23:32:51Z",
     "updated_at": "2026-10-27T23:32:51Z",
@@ -966,5 +894,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Kane (undisclosed) left Monday\u2019s game vs. Colorado and will not return."
+  },
+  "146595": {
+    "published_at": "2026-11-03T18:42:18Z",
+    "updated_at": "2026-11-03T18:56:41Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Beniers (undisclosed) returned to practice on Tuesday."
+  },
+  "146597": {
+    "published_at": "2026-11-03T18:57:09Z",
+    "updated_at": "2026-11-03T19:04:25Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hall (upper-body) is unlikely to return in Nashville on Tuesday."
+  },
+  "146600": {
+    "published_at": "2026-11-03T20:55:58Z",
+    "updated_at": "2026-11-03T20:59:27Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Clarke (upper-body) returned to practice and will play vs. San Jose on Wednesday."
   }
 }
