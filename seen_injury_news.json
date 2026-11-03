@@ -1,44 +1,4 @@
 {
-  "146076": {
-    "published_at": "2026-10-26T18:54:17Z",
-    "updated_at": "2026-10-26T19:26:40Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Chabot (upper-body) returned to Ottawa's practice in a regular jersey on Monday."
-  },
-  "146078": {
-    "published_at": "2026-10-26T19:45:01Z",
-    "updated_at": "2026-10-26T20:40:54Z",
-    "status": "Being evaluated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kulich is in concussion protocol and remains in Buffalo."
-  },
-  "146080": {
-    "published_at": "2026-10-26T22:26:51Z",
-    "updated_at": "2026-10-26T22:26:51Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Zuccarello (upper-body) has been placed on IR."
-  },
-  "146082": {
-    "published_at": "2026-10-26T22:32:45Z",
-    "updated_at": "2026-10-26T22:32:45Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byfield (upper-body) is on the ice for warmups; he's expected to play in New York."
-  },
-  "146084": {
-    "published_at": "2026-10-27T00:06:14Z",
-    "updated_at": "2026-10-27T00:06:14Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Backlund (upper-body) is on the ice for warmups and is expected to play Monday."
-  },
   "146087": {
     "published_at": "2026-10-27T02:49:49Z",
     "updated_at": "2026-10-27T02:51:44Z",
@@ -945,10 +905,18 @@
   },
   "146527": {
     "published_at": "2026-11-02T18:42:14Z",
-    "updated_at": "2026-11-02T18:42:14Z",
+    "updated_at": "2026-11-02T19:08:13Z",
     "status": "IR",
     "timeline": "",
     "surgery": false,
     "headline": "Greer has been placed on IR with an upper-body injury."
+  },
+  "146532": {
+    "published_at": "2026-11-02T20:57:43Z",
+    "updated_at": "2026-11-02T22:08:48Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Clarke (upper-body) left practice on Monday and did not return."
   }
 }
