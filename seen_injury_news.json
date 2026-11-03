@@ -1,52 +1,4 @@
 {
-  "146097": {
-    "published_at": "2026-10-27T14:38:36Z",
-    "updated_at": "2026-10-27T15:10:34Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Soderblom is day-to-day with an upper-body injury and will not practice on Tuesday."
-  },
-  "146098": {
-    "published_at": "2026-10-27T15:02:52Z",
-    "updated_at": "2026-10-27T15:14:06Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kindel (medical) returned to Pittsburgh's practice on Tuesday."
-  },
-  "146100": {
-    "published_at": "2026-10-27T15:20:08Z",
-    "updated_at": "2026-10-27T15:31:53Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Terry (hip) is hopeful to join the Ducks for on-ice workouts in early November."
-  },
-  "146106": {
-    "published_at": "2026-10-27T15:39:53Z",
-    "updated_at": "2026-10-27T15:39:53Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Jankowski (lower-body) will be a game-time decision vs. Boston on Tuesday."
-  },
-  "146107": {
-    "published_at": "2026-10-27T15:40:31Z",
-    "updated_at": "2026-10-27T16:02:42Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall (upper-body) will be a game-time decision vs. Boston on Tuesday."
-  },
-  "146108": {
-    "published_at": "2026-10-27T15:43:14Z",
-    "updated_at": "2026-10-27T16:09:39Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Steel (undisclosed) could be an option to play on Thursday vs. Montreal."
-  },
   "146115": {
     "published_at": "2026-10-27T16:06:00Z",
     "updated_at": "2026-10-27T16:23:02Z",
@@ -1006,5 +958,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Clarke (upper-body) left practice on Monday and did not return."
+  },
+  "146542": {
+    "published_at": "2026-11-03T03:31:03Z",
+    "updated_at": "2026-11-03T03:31:03Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kane (undisclosed) left Monday\u2019s game vs. Colorado and will not return."
   }
 }
