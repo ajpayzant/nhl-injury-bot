@@ -1,28 +1,4 @@
 {
-  "146087": {
-    "published_at": "2026-10-27T02:49:49Z",
-    "updated_at": "2026-10-27T02:51:44Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Marchenko (lower-body) left Monday's game vs. Calgary and will not return."
-  },
-  "146088": {
-    "published_at": "2026-10-27T05:06:42Z",
-    "updated_at": "2026-10-27T05:06:42Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Dickinson (lower body) will return vs. Calgary on Wednesday."
-  },
-  "146089": {
-    "published_at": "2026-10-27T05:07:30Z",
-    "updated_at": "2026-10-27T05:07:30Z",
-    "status": "Left game",
-    "timeline": "at least 1 week",
-    "surgery": false,
-    "headline": "Hyman (concussion) left Monday\u2019s game and is expected to miss at least a week."
-  },
   "146097": {
     "published_at": "2026-10-27T14:38:36Z",
     "updated_at": "2026-10-27T15:10:34Z",
@@ -878,6 +854,118 @@
     "timeline": "",
     "surgery": false,
     "headline": "Mintyukov (lower-body) has been activated from IR and will play on Sunday."
+  },
+  "146491": {
+    "published_at": "2026-11-02T15:47:35Z",
+    "updated_at": "2026-11-02T16:01:49Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Malkin (lower-body) will miss practice on Monday and is considered day-to-day."
+  },
+  "146492": {
+    "published_at": "2026-11-02T15:48:01Z",
+    "updated_at": "2026-11-02T16:04:14Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Korczak (lower-body) missed practice on Monday and is considered day-to-day."
+  },
+  "146493": {
+    "published_at": "2026-11-02T15:48:27Z",
+    "updated_at": "2026-11-02T16:05:26Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Soderblom (upper-body) is now considered week-to-week."
+  },
+  "146498": {
+    "published_at": "2026-11-02T16:10:06Z",
+    "updated_at": "2026-11-02T16:19:56Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Lyon (upper-body) returned to practice on Monday."
+  },
+  "146499": {
+    "published_at": "2026-11-02T16:10:35Z",
+    "updated_at": "2026-11-02T16:21:04Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kulich (concussion) returned to practice on Monday."
+  },
+  "146500": {
+    "published_at": "2026-11-02T16:11:42Z",
+    "updated_at": "2026-11-02T16:22:16Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Timmins (lower-body) returned to practice on Monday."
+  },
+  "146503": {
+    "published_at": "2026-11-02T16:49:59Z",
+    "updated_at": "2026-11-02T17:21:52Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Morrissey (upper-body) practiced in a non-contact jersey on Monday."
+  },
+  "146507": {
+    "published_at": "2026-11-02T17:03:38Z",
+    "updated_at": "2026-11-02T17:27:57Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Zegras (lower-body) is practicing on Monday after leaving last game due to injury."
+  },
+  "146508": {
+    "published_at": "2026-11-02T17:04:22Z",
+    "updated_at": "2026-11-02T17:28:34Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faksa (undisclosed) is expected to return in Washington on Tuesday."
+  },
+  "146509": {
+    "published_at": "2026-11-02T17:08:44Z",
+    "updated_at": "2026-11-02T17:29:30Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Girgensons (lower-body) will remain out vs. Detroit on Tuesday and is considered day-to-day."
+  },
+  "146511": {
+    "published_at": "2026-11-02T17:18:36Z",
+    "updated_at": "2026-11-02T17:31:16Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Helenius (upper-body) is considered week-to-week."
+  },
+  "146513": {
+    "published_at": "2026-11-02T17:33:38Z",
+    "updated_at": "2026-11-02T18:11:12Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Byram (upper-body) has yet to be cleared to return to Chicago's practices."
+  },
+  "146514": {
+    "published_at": "2026-11-02T17:37:36Z",
+    "updated_at": "2026-11-02T18:12:54Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Benson (undisclosed) missed practice on Monday and is considered day-to-day."
+  },
+  "146515": {
+    "published_at": "2026-11-02T17:47:08Z",
+    "updated_at": "2026-11-02T18:14:33Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rodrigues (illness) missed practice on Monday."
   },
   "146519": {
     "published_at": "2026-11-02T18:20:20Z",
