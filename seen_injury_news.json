@@ -1,12 +1,4 @@
 {
-  "146174": {
-    "published_at": "2026-10-28T04:44:20Z",
-    "updated_at": "2026-10-28T15:45:56Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Capobianco (lower-body) left Tuesday\u2019s game vs. New Jersey and did not return."
-  },
   "146177": {
     "published_at": "2026-10-28T16:06:02Z",
     "updated_at": "2026-10-28T16:49:16Z",
@@ -862,6 +854,118 @@
     "timeline": "",
     "surgery": false,
     "headline": "Kane (undisclosed) left Monday\u2019s game vs. Colorado and will not return."
+  },
+  "146553": {
+    "published_at": "2026-11-03T16:07:12Z",
+    "updated_at": "2026-11-03T16:14:32Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Suzuki (upper-body) will remain out vs. Winnipeg on Tuesday."
+  },
+  "146555": {
+    "published_at": "2026-11-03T16:09:59Z",
+    "updated_at": "2026-11-03T16:15:57Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Malkin (lower-body) will be out vs. Vegas and is considered day-to-day."
+  },
+  "146556": {
+    "published_at": "2026-11-03T16:10:38Z",
+    "updated_at": "2026-11-03T16:16:30Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Korczak (lower-body) will be a game-time decision vs. Vegas on Tuesday."
+  },
+  "146562": {
+    "published_at": "2026-11-03T16:27:16Z",
+    "updated_at": "2026-11-03T16:35:10Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Poitras (upper-body) missed practice on Tuesday."
+  },
+  "146573": {
+    "published_at": "2026-11-03T16:39:41Z",
+    "updated_at": "2026-11-03T17:13:46Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cernak (undisclosed) will return vs. Detroit on Tuesday."
+  },
+  "146577": {
+    "published_at": "2026-11-03T16:53:23Z",
+    "updated_at": "2026-11-03T17:18:25Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faksa (undisclosed) will return in Washington on Tuesday."
+  },
+  "146583": {
+    "published_at": "2026-11-03T17:05:34Z",
+    "updated_at": "2026-11-03T17:54:40Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Byram (upper-body) has been placed on IR retroactive to October 15th."
+  },
+  "146585": {
+    "published_at": "2026-11-03T17:12:35Z",
+    "updated_at": "2026-11-03T17:58:15Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Benson (undisclosed) practiced on Tuesday and is expected to play vs. Ottawa on Wednesday."
+  },
+  "146587": {
+    "published_at": "2026-11-03T17:15:19Z",
+    "updated_at": "2026-11-03T18:04:19Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Howard (lower-body) is considered week-to-week."
+  },
+  "146588": {
+    "published_at": "2026-11-03T17:16:14Z",
+    "updated_at": "2026-11-03T18:04:40Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Lyon (upper-body) is days away from return to Buffalo's lineup."
+  },
+  "146589": {
+    "published_at": "2026-11-03T17:22:32Z",
+    "updated_at": "2026-11-03T18:06:19Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mercer (upper-body) will play in Montreal on Tuesday."
+  },
+  "146591": {
+    "published_at": "2026-11-03T18:14:29Z",
+    "updated_at": "2026-11-03T18:49:07Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faber (head) has begun working out and is close to returning to practice with Minnesota."
+  },
+  "146592": {
+    "published_at": "2026-11-03T18:17:44Z",
+    "updated_at": "2026-11-03T18:50:44Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Douglas (upper-body) missed practice on Tuesday and is day-to-day."
+  },
+  "146594": {
+    "published_at": "2026-11-03T18:41:27Z",
+    "updated_at": "2026-11-03T18:55:19Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ullmark (lower-body) returned to the ice on Tuesday."
   },
   "146595": {
     "published_at": "2026-11-03T18:42:18Z",
