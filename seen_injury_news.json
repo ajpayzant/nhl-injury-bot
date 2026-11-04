@@ -1,36 +1,4 @@
 {
-  "146156": {
-    "published_at": "2026-10-27T23:32:51Z",
-    "updated_at": "2026-10-27T23:32:51Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall (undisclosed) will not play Tuesday vs. the Bruins."
-  },
-  "146157": {
-    "published_at": "2026-10-27T23:34:32Z",
-    "updated_at": "2026-10-27T23:34:32Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Jankowski (lower-body) is on the ice for warmups and will play Tuesday vs. Boston."
-  },
-  "146159": {
-    "published_at": "2026-10-27T23:46:35Z",
-    "updated_at": "2026-10-27T23:46:35Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Perry (undisclosed) will not play on Tuesday."
-  },
-  "146160": {
-    "published_at": "2026-10-27T23:46:56Z",
-    "updated_at": "2026-10-27T23:46:56Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Doughty (undisclosed) will not play Tuesday."
-  },
   "146174": {
     "published_at": "2026-10-28T04:44:20Z",
     "updated_at": "2026-10-28T15:45:56Z",
@@ -913,10 +881,26 @@
   },
   "146600": {
     "published_at": "2026-11-03T20:55:58Z",
-    "updated_at": "2026-11-03T20:59:27Z",
+    "updated_at": "2026-11-03T22:00:36Z",
     "status": "Returning",
     "timeline": "",
     "surgery": false,
     "headline": "Clarke (upper-body) returned to practice and will play vs. San Jose on Wednesday."
+  },
+  "146613": {
+    "published_at": "2026-11-04T00:32:33Z",
+    "updated_at": "2026-11-04T00:33:03Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchessault (lower-body) will not play Tuesday vs. the Hurricanes."
+  },
+  "146615": {
+    "published_at": "2026-11-04T01:15:29Z",
+    "updated_at": "2026-11-04T01:15:29Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gibson (lower-body) left Tuesday's game vs. Tampa Bay and will not return."
   }
 }
