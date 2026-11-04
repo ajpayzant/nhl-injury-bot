@@ -1,20 +1,4 @@
 {
-  "146177": {
-    "published_at": "2026-10-28T16:06:02Z",
-    "updated_at": "2026-10-28T16:49:16Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Johansson (undisclosed) will remain out on Thursday vs. Chicago."
-  },
-  "146178": {
-    "published_at": "2026-10-28T16:09:50Z",
-    "updated_at": "2026-10-28T16:51:19Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hyman (upper-body) has been placed on IR."
-  },
   "146180": {
     "published_at": "2026-10-28T16:30:48Z",
     "updated_at": "2026-10-28T16:54:57Z",
@@ -1006,5 +990,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Gibson (lower-body) left Tuesday's game vs. Tampa Bay and will not return."
+  },
+  "146619": {
+    "published_at": "2026-11-04T01:49:32Z",
+    "updated_at": "2026-11-04T01:49:32Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Heiskanen left Tuesday's game with an upper-body injury and will not return."
   }
 }
