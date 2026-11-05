@@ -1,20 +1,4 @@
 {
-  "146208": {
-    "published_at": "2026-10-28T21:56:29Z",
-    "updated_at": "2026-10-28T21:58:59Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Joshua (core) will be a game-time decision vs. Seattle on Wednesday."
-  },
-  "146212": {
-    "published_at": "2026-10-29T00:20:32Z",
-    "updated_at": "2026-10-29T00:20:32Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ekholm (concussion) will be back in the Oilers lineup on Wednesday."
-  },
   "146214": {
     "published_at": "2026-10-29T02:20:48Z",
     "updated_at": "2026-10-29T02:26:50Z",
@@ -918,5 +902,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Heiskanen left Tuesday's game with an upper-body injury and will not return."
+  },
+  "146662": {
+    "published_at": "2026-11-04T22:12:04Z",
+    "updated_at": "2026-11-04T22:12:04Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johansson (undisclosed) has been placed on IR retroactive to October 24th."
+  },
+  "146667": {
+    "published_at": "2026-11-05T00:22:16Z",
+    "updated_at": "2026-11-05T00:22:16Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Greig (undisclosed) will not play on Wednesday."
   }
 }
