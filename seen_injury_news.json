@@ -1,52 +1,4 @@
 {
-  "146239": {
-    "published_at": "2026-10-29T15:30:50Z",
-    "updated_at": "2026-10-29T15:54:38Z",
-    "status": "Out",
-    "timeline": "3 weeks",
-    "surgery": false,
-    "headline": "Marchand (leg) has resumed skating and is expected to be out for three more weeks."
-  },
-  "146242": {
-    "published_at": "2026-10-29T15:38:01Z",
-    "updated_at": "2026-10-29T16:05:20Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Spurgeon (undisclosed) is considered week-to-week."
-  },
-  "146248": {
-    "published_at": "2026-10-29T15:54:57Z",
-    "updated_at": "2026-10-29T16:19:38Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Faber's (upper-body) return-to-play protocol has been cleared, and should resume skating in the upcoming weeks."
-  },
-  "146255": {
-    "published_at": "2026-10-29T16:22:42Z",
-    "updated_at": "2026-10-29T16:44:03Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Vlasic (illness) is questionable to play in Detroit on Thursday."
-  },
-  "146257": {
-    "published_at": "2026-10-29T16:28:32Z",
-    "updated_at": "2026-10-29T17:20:38Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Steel (undisclosed) will return vs. Montreal on Thursday."
-  },
-  "146260": {
-    "published_at": "2026-10-29T16:33:26Z",
-    "updated_at": "2026-10-29T17:25:12Z",
-    "status": "Out",
-    "timeline": "4 weeks",
-    "surgery": false,
-    "headline": "Capobianco (lower-body) is expected to be out for the next four weeks."
-  },
   "146266": {
     "published_at": "2026-10-29T17:26:55Z",
     "updated_at": "2026-10-29T18:45:34Z",
@@ -1014,5 +966,13 @@
     "timeline": "",
     "surgery": false,
     "headline": "Greig (undisclosed) will not play on Wednesday."
+  },
+  "146668": {
+    "published_at": "2026-11-05T02:23:47Z",
+    "updated_at": "2026-11-05T02:23:47Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Demidov (fractured ankle) is still considered week-to-week."
   }
 }
