@@ -1,20 +1,4 @@
 {
-  "146307": {
-    "published_at": "2026-10-29T23:02:42Z",
-    "updated_at": "2026-10-29T23:02:42Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Vlasic (illness) is on the ice for warmups and is expected to play Thursday in Detroit."
-  },
-  "146309": {
-    "published_at": "2026-10-29T23:34:41Z",
-    "updated_at": "2026-10-29T23:34:41Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Matheson (lower-body) will not play on Thursday and will be evaluated when the team returns to Montreal."
-  },
   "146313": {
     "published_at": "2026-10-30T04:17:43Z",
     "updated_at": "2026-10-30T15:03:37Z",
@@ -894,5 +878,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Demidov (fractured ankle) is still considered week-to-week."
+  },
+  "146741": {
+    "published_at": "2026-11-05T23:53:57Z",
+    "updated_at": "2026-11-05T23:53:57Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hall (upper-body) will be back in the Hurricanes lineup on Thursday,"
+  },
+  "146744": {
+    "published_at": "2026-11-05T23:54:56Z",
+    "updated_at": "2026-11-05T23:54:56Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Salomonsson (illness) will not play Thursday vs. the Canucks."
   }
 }
