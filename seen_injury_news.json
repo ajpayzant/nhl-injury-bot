@@ -1,20 +1,4 @@
 {
-  "146313": {
-    "published_at": "2026-10-30T04:17:43Z",
-    "updated_at": "2026-10-30T15:03:37Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Clarke (upper-body) left Thursday\u2019s game vs. Ottawa and will not return."
-  },
-  "146314": {
-    "published_at": "2026-10-30T06:20:29Z",
-    "updated_at": "2026-10-30T15:05:04Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Burakovsky (lower-body) left Thursday\u2019s game vs. Los Angeles and did not return."
-  },
   "146315": {
     "published_at": "2026-10-30T14:13:34Z",
     "updated_at": "2026-10-30T15:05:54Z",
@@ -878,6 +862,110 @@
     "timeline": "",
     "surgery": false,
     "headline": "Demidov (fractured ankle) is still considered week-to-week."
+  },
+  "146685": {
+    "published_at": "2026-11-05T16:08:42Z",
+    "updated_at": "2026-11-05T16:27:04Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Malkin (lower-body) will return to the lineup vs. Boston on Thursday."
+  },
+  "146688": {
+    "published_at": "2026-11-05T16:11:04Z",
+    "updated_at": "2026-11-05T16:35:56Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Suzuki (upper-body) will return vs. Utah on Thursday."
+  },
+  "146693": {
+    "published_at": "2026-11-05T16:19:47Z",
+    "updated_at": "2026-11-05T16:47:00Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gibson is day-to-day with a lower-body injury."
+  },
+  "146696": {
+    "published_at": "2026-11-05T16:59:46Z",
+    "updated_at": "2026-11-05T17:51:29Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faber (skull fracture) returned to practice on Thursday."
+  },
+  "146697": {
+    "published_at": "2026-11-05T17:05:48Z",
+    "updated_at": "2026-11-05T17:10:17Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Korpisalo (lower-body) is expected to join the Rangers on their upcoming road trip."
+  },
+  "146698": {
+    "published_at": "2026-11-05T17:07:19Z",
+    "updated_at": "2026-11-05T19:19:29Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Durzi (undisclosed) will remain out on Thursday and is not expected to travel to start the Rangers' upcoming road trip."
+  },
+  "146700": {
+    "published_at": "2026-11-05T17:19:24Z",
+    "updated_at": "2026-11-05T17:30:58Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Parayko (upper-body) will return vs. New Jersey on Thursday."
+  },
+  "146706": {
+    "published_at": "2026-11-05T17:28:02Z",
+    "updated_at": "2026-11-05T17:49:58Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Heiskanen (upper-body) will be out vs. Columbus on Thursday and is considered day-to-day."
+  },
+  "146713": {
+    "published_at": "2026-11-05T18:25:11Z",
+    "updated_at": "2026-11-05T19:08:35Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cooley (lower-body) has been activated off IR."
+  },
+  "146716": {
+    "published_at": "2026-11-05T19:07:03Z",
+    "updated_at": "2026-11-05T19:13:50Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Douglas (upper-body) has been placed on IR retroactive to October 30th."
+  },
+  "146717": {
+    "published_at": "2026-11-05T19:12:09Z",
+    "updated_at": "2026-11-05T19:14:45Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olofsson (undisclosed) will return in Detroit on Thursday."
+  },
+  "146721": {
+    "published_at": "2026-11-05T20:15:56Z",
+    "updated_at": "2026-11-05T20:58:18Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Jarry (illness) is expected to back up vs. Anaheim on Thursday."
+  },
+  "146724": {
+    "published_at": "2026-11-05T21:45:00Z",
+    "updated_at": "2026-11-05T22:05:47Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hall (upper-body) is hopeful to return on Thursday in New York."
   },
   "146741": {
     "published_at": "2026-11-05T23:53:57Z",
