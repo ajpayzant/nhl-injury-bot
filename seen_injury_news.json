@@ -934,5 +934,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Heiskanen (upper body) is doubtful for Saturday vs. San Jose."
+  },
+  "146781": {
+    "published_at": "2026-11-06T23:39:10Z",
+    "updated_at": "2026-11-06T23:39:10Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kulich (concussion) will return vs. Columbus on Friday."
+  },
+  "146785": {
+    "published_at": "2026-11-07T00:42:52Z",
+    "updated_at": "2026-11-07T00:56:47Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bahl (lower-body) is out vs. Anaheim on Friday."
   }
 }
