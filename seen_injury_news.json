@@ -894,5 +894,61 @@
     "timeline": "",
     "surgery": false,
     "headline": "Vilmanis (undisclosed) left Saturday's game vs. Washington and will not return."
+  },
+  "146853": {
+    "published_at": "2026-11-07T22:09:40Z",
+    "updated_at": "2026-11-07T22:09:40Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Smits (upper-body) is a late scratch vs. Seattle."
+  },
+  "146861": {
+    "published_at": "2026-11-07T23:35:55Z",
+    "updated_at": "2026-11-07T23:35:55Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Schmidt (upper-body) is out vs. Ottawa and considered day-to-day."
+  },
+  "146863": {
+    "published_at": "2026-11-07T23:38:58Z",
+    "updated_at": "2026-11-07T23:38:58Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Greig (undisclosed) will be out vs. Utah on Saturday."
+  },
+  "146865": {
+    "published_at": "2026-11-07T23:55:08Z",
+    "updated_at": "2026-11-07T23:55:08Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foligno (lower-body) will return vs. Tampa Bay on Saturday."
+  },
+  "146866": {
+    "published_at": "2026-11-07T23:55:31Z",
+    "updated_at": "2026-11-07T23:55:31Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Foligno (upper-body) will return vs. Tampa Bay on Saturday."
+  },
+  "146867": {
+    "published_at": "2026-11-07T23:56:01Z",
+    "updated_at": "2026-11-07T23:56:01Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "McCarron (undisclosed) is out vs. Tampa Bay on Saturday."
+  },
+  "146878": {
+    "published_at": "2026-11-08T02:42:03Z",
+    "updated_at": "2026-11-08T02:42:03Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman (concussion) will return vs. Vancouver on Saturday."
   }
 }
