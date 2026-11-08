@@ -1,44 +1,4 @@
 {
-  "146471": {
-    "published_at": "2026-11-01T20:32:06Z",
-    "updated_at": "2026-11-01T20:32:06Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Yamamoto (upper-body) is day-to-day and will not play on Sunday."
-  },
-  "146472": {
-    "published_at": "2026-11-01T20:32:32Z",
-    "updated_at": "2026-11-01T20:32:32Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Carcone (upper-body) has been activated from IR and will play on Sunday."
-  },
-  "146473": {
-    "published_at": "2026-11-01T20:33:06Z",
-    "updated_at": "2026-11-01T20:33:06Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Marino (upper-body) has been placed on IR retroactive to October 17th."
-  },
-  "146478": {
-    "published_at": "2026-11-01T22:36:24Z",
-    "updated_at": "2026-11-01T22:36:24Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Durzi (undisclosed) will not play Sunday vs. the Oilers."
-  },
-  "146481": {
-    "published_at": "2026-11-01T22:40:48Z",
-    "updated_at": "2026-11-01T22:40:48Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Islanders assigned Isaiah George to Hamilton (AHL)."
-  },
   "146485": {
     "published_at": "2026-11-02T00:23:10Z",
     "updated_at": "2026-11-02T00:23:10Z",
@@ -918,5 +878,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Hyman (concussion) will return vs. Vancouver on Saturday."
+  },
+  "146920": {
+    "published_at": "2026-11-08T21:45:40Z",
+    "updated_at": "2026-11-08T21:45:40Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tanev (planned maintenance) will not play on Sunday."
+  },
+  "146925": {
+    "published_at": "2026-11-08T21:50:32Z",
+    "updated_at": "2026-11-08T21:50:32Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mantha (throat) will not play on Sunday and will \"miss some time.\""
+  },
+  "146935": {
+    "published_at": "2026-11-08T23:13:04Z",
+    "updated_at": "2026-11-08T23:13:04Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Koivunen (lower body) is day-to-day and will not play on Sunday."
   }
 }
