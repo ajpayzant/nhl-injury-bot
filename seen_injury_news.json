@@ -1,12 +1,4 @@
 {
-  "146485": {
-    "published_at": "2026-11-02T00:23:10Z",
-    "updated_at": "2026-11-02T00:23:10Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Mintyukov (lower-body) has been activated from IR and will play on Sunday."
-  },
   "146491": {
     "published_at": "2026-11-02T15:47:35Z",
     "updated_at": "2026-11-02T16:01:49Z",
@@ -902,5 +894,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Koivunen (lower body) is day-to-day and will not play on Sunday."
+  },
+  "146940": {
+    "published_at": "2026-11-09T00:13:59Z",
+    "updated_at": "2026-11-09T00:13:59Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roslovic (lower body) is out day-to-day."
+  },
+  "146946": {
+    "published_at": "2026-11-09T02:12:05Z",
+    "updated_at": "2026-11-09T02:12:40Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Point (undisclosed) left Sunday's game and did not return."
   }
 }
