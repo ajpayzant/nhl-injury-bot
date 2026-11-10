@@ -1,12 +1,4 @@
 {
-  "146542": {
-    "published_at": "2026-11-03T03:31:03Z",
-    "updated_at": "2026-11-03T03:31:03Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kane (undisclosed) left Monday\u2019s game vs. Colorado and will not return."
-  },
   "146553": {
     "published_at": "2026-11-03T16:07:12Z",
     "updated_at": "2026-11-03T16:14:32Z",
@@ -878,5 +870,101 @@
     "timeline": "",
     "surgery": false,
     "headline": "Point (undisclosed) left Sunday's game and did not return."
+  },
+  "146949": {
+    "published_at": "2026-11-09T16:22:40Z",
+    "updated_at": "2026-11-09T16:27:19Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchessault (lower-body) returned to practice on Monday."
+  },
+  "146953": {
+    "published_at": "2026-11-09T17:02:58Z",
+    "updated_at": "2026-11-09T18:03:06Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Smits is week-to-week with an upper-body injury."
+  },
+  "146955": {
+    "published_at": "2026-11-09T17:10:06Z",
+    "updated_at": "2026-11-09T18:07:25Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Morrissey (upper-body) practiced in a regular jersey on Monday."
+  },
+  "146956": {
+    "published_at": "2026-11-09T17:18:30Z",
+    "updated_at": "2026-11-09T18:08:20Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Evans (hand) left practice on Monday and is being evaluated."
+  },
+  "146958": {
+    "published_at": "2026-11-09T17:29:57Z",
+    "updated_at": "2026-11-09T18:17:32Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Durzi (undisclosed) skated in a non-contact jersey at Monday's practice."
+  },
+  "146960": {
+    "published_at": "2026-11-09T17:34:50Z",
+    "updated_at": "2026-11-09T18:20:18Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Greig (undisclosed) is expected to return on Tuesday."
+  },
+  "146963": {
+    "published_at": "2026-11-09T17:50:38Z",
+    "updated_at": "2026-11-09T18:27:48Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Garland (upper-body) is out vs. Florida on Tuesday."
+  },
+  "146970": {
+    "published_at": "2026-11-09T19:04:51Z",
+    "updated_at": "2026-11-09T19:18:10Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wennberg (upper-body) will return vs. New York on Monday."
+  },
+  "146973": {
+    "published_at": "2026-11-09T19:29:08Z",
+    "updated_at": "2026-11-09T19:46:34Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mailloux (hand) has been activated from IR."
+  },
+  "146978": {
+    "published_at": "2026-11-09T20:02:01Z",
+    "updated_at": "2026-11-09T20:27:52Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Guenther (maintenance) missed practice on Monday and is questionable for Wednesday vs. Vegas."
+  },
+  "146979": {
+    "published_at": "2026-11-09T20:48:40Z",
+    "updated_at": "2026-11-09T20:51:40Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Fiala (lower-body) has a chance to return vs. Nashville on Tuesday."
+  },
+  "146980": {
+    "published_at": "2026-11-09T22:40:43Z",
+    "updated_at": "2026-11-09T22:40:43Z",
+    "status": "LTIR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Manson (ankle) has been placed on LTIR."
   }
 }
