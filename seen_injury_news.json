@@ -807,6 +807,62 @@
     "surgery": false,
     "headline": "Manson (ankle) has been placed on LTIR."
   },
+  "147010": {
+    "published_at": "2026-11-10T16:34:45Z",
+    "updated_at": "2026-11-10T16:54:34Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Spurgeon (undisclosed) will be activated off IR and return in Montreal on Tuesday."
+  },
+  "147011": {
+    "published_at": "2026-11-10T16:37:16Z",
+    "updated_at": "2026-11-10T16:55:58Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "McCarron (undisclosed) will be a game-time decision vs. Montreal on Tuesday."
+  },
+  "147016": {
+    "published_at": "2026-11-10T17:05:53Z",
+    "updated_at": "2026-11-10T17:26:41Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Makar (undisclosed) is expected to play vs. Toronto on Tuesday."
+  },
+  "147018": {
+    "published_at": "2026-11-10T17:13:20Z",
+    "updated_at": "2026-11-10T17:43:48Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kasper (upper-body) has been activated from IR and will return in St. Louis."
+  },
+  "147019": {
+    "published_at": "2026-11-10T17:13:54Z",
+    "updated_at": "2026-11-10T17:44:02Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Appleton (undisclosed) has been activated from IR and will return vs. St. Louis."
+  },
+  "147021": {
+    "published_at": "2026-11-10T17:17:03Z",
+    "updated_at": "2026-11-10T17:36:07Z",
+    "status": "Returning",
+    "timeline": "2 weeks",
+    "surgery": false,
+    "headline": "Marchand (leg) is expected back within the next two weeks."
+  },
+  "147022": {
+    "published_at": "2026-11-10T17:17:55Z",
+    "updated_at": "2026-11-10T17:37:15Z",
+    "status": "Out",
+    "timeline": "2 weeks",
+    "surgery": false,
+    "headline": "Barkov (lower-body) is within two weeks of returning to the lineup."
+  },
   "147023": {
     "published_at": "2026-11-10T17:37:10Z",
     "updated_at": "2026-11-10T17:53:30Z",
@@ -846,5 +902,53 @@
     "timeline": "",
     "surgery": false,
     "headline": "Zuccarello (upper-body) will return vs. Nashville on Tuesday."
+  },
+  "147032": {
+    "published_at": "2026-11-10T18:50:30Z",
+    "updated_at": "2026-11-10T20:18:40Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Terry (hip) is likely to return vs. Nashville on Wednesday."
+  },
+  "147036": {
+    "published_at": "2026-11-10T19:05:16Z",
+    "updated_at": "2026-11-10T19:44:19Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gustafsson (undisclosed) missed Tuesday's morning skate."
+  },
+  "147037": {
+    "published_at": "2026-11-10T19:07:04Z",
+    "updated_at": "2026-11-10T19:46:00Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wotherspoon (lower-body) was a full participant in practice on Tuesday."
+  },
+  "147041": {
+    "published_at": "2026-11-10T20:28:22Z",
+    "updated_at": "2026-11-10T20:37:03Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hanifin (undisclosed) is considered week-to-week."
+  },
+  "147042": {
+    "published_at": "2026-11-10T20:31:48Z",
+    "updated_at": "2026-11-10T20:35:06Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gustafsson (undisclosed) is out vs. Nashville and considered day-to-day."
+  },
+  "147048": {
+    "published_at": "2026-11-10T21:55:15Z",
+    "updated_at": "2026-11-10T21:55:15Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "van Riemsdyk (lower-body) was a full participant in practice on Tuesday."
   }
 }
