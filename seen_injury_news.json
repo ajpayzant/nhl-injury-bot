@@ -1,84 +1,4 @@
 {
-  "146696": {
-    "published_at": "2026-11-05T16:59:46Z",
-    "updated_at": "2026-11-05T17:51:29Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Faber (skull fracture) returned to practice on Thursday."
-  },
-  "146697": {
-    "published_at": "2026-11-05T17:05:48Z",
-    "updated_at": "2026-11-05T17:10:17Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Korpisalo (lower-body) is expected to join the Rangers on their upcoming road trip."
-  },
-  "146698": {
-    "published_at": "2026-11-05T17:07:19Z",
-    "updated_at": "2026-11-05T19:19:29Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Durzi (undisclosed) will remain out on Thursday and is not expected to travel to start the Rangers' upcoming road trip."
-  },
-  "146700": {
-    "published_at": "2026-11-05T17:19:24Z",
-    "updated_at": "2026-11-05T17:30:58Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Parayko (upper-body) will return vs. New Jersey on Thursday."
-  },
-  "146706": {
-    "published_at": "2026-11-05T17:28:02Z",
-    "updated_at": "2026-11-05T17:49:58Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Heiskanen (upper-body) will be out vs. Columbus on Thursday and is considered day-to-day."
-  },
-  "146713": {
-    "published_at": "2026-11-05T18:25:11Z",
-    "updated_at": "2026-11-05T19:08:35Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cooley (lower-body) has been activated off IR."
-  },
-  "146716": {
-    "published_at": "2026-11-05T19:07:03Z",
-    "updated_at": "2026-11-05T19:13:50Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Douglas (upper-body) has been placed on IR retroactive to October 30th."
-  },
-  "146717": {
-    "published_at": "2026-11-05T19:12:09Z",
-    "updated_at": "2026-11-05T19:14:45Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Olofsson (undisclosed) will return in Detroit on Thursday."
-  },
-  "146721": {
-    "published_at": "2026-11-05T20:15:56Z",
-    "updated_at": "2026-11-05T20:58:18Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Jarry (illness) is expected to back up vs. Anaheim on Thursday."
-  },
-  "146724": {
-    "published_at": "2026-11-05T21:45:00Z",
-    "updated_at": "2026-11-05T22:05:47Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall (upper-body) is hopeful to return on Thursday in New York."
-  },
   "146727": {
     "published_at": "2026-11-05T22:54:04Z",
     "updated_at": "2026-11-05T23:02:52Z",
@@ -950,5 +870,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "The Mammoth have placed Nate Schmidt (upper-body) on IR."
+  },
+  "147157": {
+    "published_at": "2026-11-12T19:50:42Z",
+    "updated_at": "2026-11-12T20:34:42Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Doughty (lower-body) is expected to play vs. the Islanders on Thursday."
+  },
+  "147159": {
+    "published_at": "2026-11-12T20:52:15Z",
+    "updated_at": "2026-11-12T21:31:06Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Helenius (upper-body) has been placed on IR."
+  },
+  "147160": {
+    "published_at": "2026-11-12T21:58:26Z",
+    "updated_at": "2026-11-12T22:03:57Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kane (upper-body) has been activated from IR and is expected to return vs. Buffalo."
   }
 }
