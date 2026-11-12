@@ -1,28 +1,4 @@
 {
-  "146685": {
-    "published_at": "2026-11-05T16:08:42Z",
-    "updated_at": "2026-11-05T16:27:04Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Malkin (lower-body) will return to the lineup vs. Boston on Thursday."
-  },
-  "146688": {
-    "published_at": "2026-11-05T16:11:04Z",
-    "updated_at": "2026-11-05T16:35:56Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Suzuki (upper-body) will return vs. Utah on Thursday."
-  },
-  "146693": {
-    "published_at": "2026-11-05T16:19:47Z",
-    "updated_at": "2026-11-05T16:47:00Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gibson is day-to-day with a lower-body injury."
-  },
   "146696": {
     "published_at": "2026-11-05T16:59:46Z",
     "updated_at": "2026-11-05T17:51:29Z",
@@ -926,5 +902,53 @@
     "timeline": "",
     "surgery": false,
     "headline": "Guenther (maintenance) will be a game-time decision in Vegas on Wednesday."
+  },
+  "147088": {
+    "published_at": "2026-11-11T20:27:32Z",
+    "updated_at": "2026-11-11T20:30:12Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Doughty (lower-body) missed practice on Wednesday."
+  },
+  "147092": {
+    "published_at": "2026-11-11T22:34:10Z",
+    "updated_at": "2026-11-11T23:06:40Z",
+    "status": "LTIR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mantha (throat) has been placed on LTIR."
+  },
+  "147098": {
+    "published_at": "2026-11-12T02:12:18Z",
+    "updated_at": "2026-11-12T02:12:18Z",
+    "status": "IR",
+    "timeline": "2-4 weeks",
+    "surgery": false,
+    "headline": "Guenther (upper-body) has been placed on IR and is expected to miss 2-to-4 weeks."
+  },
+  "147099": {
+    "published_at": "2026-11-12T02:12:47Z",
+    "updated_at": "2026-11-12T02:12:47Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cooley (upper-body) will not play on Wednesday and is considered day-to-day."
+  },
+  "147100": {
+    "published_at": "2026-11-12T02:13:16Z",
+    "updated_at": "2026-11-12T02:13:16Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Yamamoto (upper-body) has been activated from IR and will play Wednesday."
+  },
+  "147101": {
+    "published_at": "2026-11-12T02:13:42Z",
+    "updated_at": "2026-11-12T02:13:42Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Mammoth have placed Nate Schmidt (upper-body) on IR."
   }
 }
