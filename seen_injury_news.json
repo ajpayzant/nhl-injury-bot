@@ -1,12 +1,4 @@
 {
-  "146668": {
-    "published_at": "2026-11-05T02:23:47Z",
-    "updated_at": "2026-11-05T02:23:47Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Demidov (fractured ankle) is still considered week-to-week."
-  },
   "146685": {
     "published_at": "2026-11-05T16:08:42Z",
     "updated_at": "2026-11-05T16:27:04Z",
@@ -830,5 +822,109 @@
     "timeline": "",
     "surgery": false,
     "headline": "McCarron (upper-body) will be in the Wild lineup on Tuesday."
+  },
+  "147055": {
+    "published_at": "2026-11-11T14:02:21Z",
+    "updated_at": "2026-11-11T14:02:21Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kovacevic (undisclosed) left Tuesday's game and did not return."
+  },
+  "147057": {
+    "published_at": "2026-11-11T15:26:43Z",
+    "updated_at": "2026-11-11T16:22:06Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Huburdeau (hip) practiced in a regular jersey on Wednesday."
+  },
+  "147058": {
+    "published_at": "2026-11-11T15:28:12Z",
+    "updated_at": "2026-11-11T16:23:14Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faber (fractured skull) has a chance to return on Saturday vs. Boston."
+  },
+  "147060": {
+    "published_at": "2026-11-11T15:58:17Z",
+    "updated_at": "2026-11-11T16:27:41Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Crevier (undisclosed) will be a game-time decision vs. Tampa Bay on Wednesday."
+  },
+  "147063": {
+    "published_at": "2026-11-11T16:37:52Z",
+    "updated_at": "2026-11-11T16:59:33Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "MacEwen (wrist) missed practice on Wednesday."
+  },
+  "147065": {
+    "published_at": "2026-11-11T16:56:38Z",
+    "updated_at": "2026-11-11T17:00:45Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Byram (upper-body) is practicing in a non-contact jersey on Wednesday."
+  },
+  "147067": {
+    "published_at": "2026-11-11T17:11:04Z",
+    "updated_at": "2026-11-11T17:24:32Z",
+    "status": "Out",
+    "timeline": "at least 7-10 days",
+    "surgery": false,
+    "headline": "Cousins (undisclosed) will be out for at least the next 7-10 days."
+  },
+  "147073": {
+    "published_at": "2026-11-11T17:40:48Z",
+    "updated_at": "2026-11-11T18:01:34Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Matheson (lower-body) will travel with Montreal on their upcoming road trip."
+  },
+  "147074": {
+    "published_at": "2026-11-11T18:26:41Z",
+    "updated_at": "2026-11-11T19:31:05Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Heiskanen (upper-body) will remain out vs. Winnipeg on Thursday."
+  },
+  "147076": {
+    "published_at": "2026-11-11T18:42:55Z",
+    "updated_at": "2026-11-11T18:44:58Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ristolainen (upper body) will be a game-time decision on Wednesday."
+  },
+  "147078": {
+    "published_at": "2026-11-11T18:53:25Z",
+    "updated_at": "2026-11-11T19:28:44Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Moore (lower body) could return by the end of the week."
+  },
+  "147081": {
+    "published_at": "2026-11-11T19:08:41Z",
+    "updated_at": "2026-11-11T19:17:59Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Terry (hip) will make his season debut on Wednesday."
+  },
+  "147084": {
+    "published_at": "2026-11-11T19:36:11Z",
+    "updated_at": "2026-11-11T19:55:29Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Guenther (maintenance) will be a game-time decision in Vegas on Wednesday."
   }
 }
