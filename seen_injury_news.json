@@ -1,92 +1,4 @@
 {
-  "146751": {
-    "published_at": "2026-11-06T15:46:48Z",
-    "updated_at": "2026-11-06T16:18:03Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kleven (illness) returned to practice on Friday."
-  },
-  "146754": {
-    "published_at": "2026-11-06T16:19:33Z",
-    "updated_at": "2026-11-06T16:30:15Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gibson (lower-body) returned to practice on Friday."
-  },
-  "146755": {
-    "published_at": "2026-11-06T16:28:23Z",
-    "updated_at": "2026-11-06T16:32:11Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kulich (concussion) is expected to return vs. Columbus on Friday."
-  },
-  "146759": {
-    "published_at": "2026-11-06T16:41:29Z",
-    "updated_at": "2026-11-06T16:56:11Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Marcus Foligno (lower-body) will remain out on Friday but has a chance to return vs. Tampa Bay on Saturday."
-  },
-  "146760": {
-    "published_at": "2026-11-06T16:43:24Z",
-    "updated_at": "2026-11-06T16:57:02Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Nick Foligno (upper-body) will remain out on Friday but has a chance to return on Saturday vs. Tampa Bay."
-  },
-  "146761": {
-    "published_at": "2026-11-06T16:43:56Z",
-    "updated_at": "2026-11-06T17:06:16Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gustavsson (hip) will travel with Minnesota on their upcoming road trip."
-  },
-  "146762": {
-    "published_at": "2026-11-06T16:44:44Z",
-    "updated_at": "2026-11-06T17:07:09Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Timmins (lower-body) will make his season debut vs. Columbus on Friday."
-  },
-  "146767": {
-    "published_at": "2026-11-06T17:16:50Z",
-    "updated_at": "2026-11-06T17:48:58Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Greig (undisclosed) missed practice on Friday and is doubtful vs. Utah on Saturday."
-  },
-  "146768": {
-    "published_at": "2026-11-06T17:17:30Z",
-    "updated_at": "2026-11-06T17:49:56Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kessel (upper-body) left Friday's practice and did not return."
-  },
-  "146769": {
-    "published_at": "2026-11-06T17:19:49Z",
-    "updated_at": "2026-11-06T17:50:36Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Ullmark (lower-body) has a chance to return vs. Utah on Saturday."
-  },
-  "146770": {
-    "published_at": "2026-11-06T17:20:37Z",
-    "updated_at": "2026-11-06T17:52:46Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Tavares (lower-body) has a good chance to return vs. Montreal on Saturday."
-  },
   "146774": {
     "published_at": "2026-11-06T18:40:07Z",
     "updated_at": "2026-11-06T19:33:39Z",
@@ -950,6 +862,38 @@
     "timeline": "",
     "surgery": false,
     "headline": "Kane (upper-body) has been activated from IR and is expected to return vs. Buffalo."
+  },
+  "147165": {
+    "published_at": "2026-11-12T23:33:48Z",
+    "updated_at": "2026-11-12T23:33:48Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "MacEwen (wrist) is on the ice for warmups and is expected to play on Thursday."
+  },
+  "147166": {
+    "published_at": "2026-11-12T23:35:11Z",
+    "updated_at": "2026-11-12T23:35:11Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cernak (undisclosed) will not play Thursday in Columbus."
+  },
+  "147167": {
+    "published_at": "2026-11-12T23:35:39Z",
+    "updated_at": "2026-11-12T23:35:39Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cirelli (undisclosed) will not play on Thursday and is considered day-to-day."
+  },
+  "147168": {
+    "published_at": "2026-11-12T23:41:56Z",
+    "updated_at": "2026-11-12T23:41:56Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gourde (undisclosed) is not on the ice for warmups; will not play Thursday in Columbus."
   },
   "147171": {
     "published_at": "2026-11-12T23:59:21Z",
