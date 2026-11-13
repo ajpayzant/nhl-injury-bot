@@ -1,36 +1,4 @@
 {
-  "146727": {
-    "published_at": "2026-11-05T22:54:04Z",
-    "updated_at": "2026-11-05T23:02:52Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Poitras (upper-body) is out vs. Pittsburgh on Thursday."
-  },
-  "146738": {
-    "published_at": "2026-11-05T23:52:54Z",
-    "updated_at": "2026-11-05T23:52:54Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Girgensons (lower-body) will return to the Lightning lineup on Thursday."
-  },
-  "146741": {
-    "published_at": "2026-11-05T23:53:57Z",
-    "updated_at": "2026-11-05T23:53:57Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hall (upper-body) will be back in the Hurricanes lineup on Thursday,"
-  },
-  "146744": {
-    "published_at": "2026-11-05T23:54:56Z",
-    "updated_at": "2026-11-05T23:54:56Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Salomonsson (illness) will not play Thursday vs. the Canucks."
-  },
   "146751": {
     "published_at": "2026-11-06T15:46:48Z",
     "updated_at": "2026-11-06T16:18:03Z",
@@ -894,5 +862,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Kane (upper-body) has been activated from IR and is expected to return vs. Buffalo."
+  },
+  "147171": {
+    "published_at": "2026-11-12T23:59:21Z",
+    "updated_at": "2026-11-12T23:59:21Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Blackhawks have activated Patrick Kane (upper-body) from IR; he's expected to play on Thursday."
+  },
+  "147175": {
+    "published_at": "2026-11-13T01:28:59Z",
+    "updated_at": "2026-11-13T01:28:59Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Schmaltz (lower-body) will not play Thursday and is considered day-to-day."
   }
 }
