@@ -1,12 +1,4 @@
 {
-  "146774": {
-    "published_at": "2026-11-06T18:40:07Z",
-    "updated_at": "2026-11-06T19:33:39Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Heiskanen (upper body) is doubtful for Saturday vs. San Jose."
-  },
   "146781": {
     "published_at": "2026-11-06T23:39:10Z",
     "updated_at": "2026-11-06T23:39:10Z",
@@ -910,5 +902,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Schmaltz (lower-body) will not play Thursday and is considered day-to-day."
+  },
+  "147210": {
+    "published_at": "2026-11-13T19:43:33Z",
+    "updated_at": "2026-11-13T20:12:50Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Garland (upper-body) has been placed on IR retroactive to November 6th."
+  },
+  "147211": {
+    "published_at": "2026-11-13T19:56:48Z",
+    "updated_at": "2026-11-13T20:13:56Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gustafsson (undisclosed) returned to practice on Friday."
+  },
+  "147212": {
+    "published_at": "2026-11-13T20:27:02Z",
+    "updated_at": "2026-11-13T20:30:58Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wennberg (upper-body) will be a game-time decision in Utah on Saturday."
   }
 }
