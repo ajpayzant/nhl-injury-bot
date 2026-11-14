@@ -1,20 +1,4 @@
 {
-  "146781": {
-    "published_at": "2026-11-06T23:39:10Z",
-    "updated_at": "2026-11-06T23:39:10Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kulich (concussion) will return vs. Columbus on Friday."
-  },
-  "146785": {
-    "published_at": "2026-11-07T00:42:52Z",
-    "updated_at": "2026-11-07T00:56:47Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bahl (lower-body) is out vs. Anaheim on Friday."
-  },
   "146806": {
     "published_at": "2026-11-07T16:16:49Z",
     "updated_at": "2026-11-07T16:16:49Z",
@@ -902,6 +886,62 @@
     "timeline": "",
     "surgery": false,
     "headline": "Schmaltz (lower-body) will not play Thursday and is considered day-to-day."
+  },
+  "147182": {
+    "published_at": "2026-11-13T12:37:50Z",
+    "updated_at": "2026-11-13T12:37:50Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "MacKinnon left Thursday's game with a lower-body injury and is questionable to play Saturday."
+  },
+  "147183": {
+    "published_at": "2026-11-13T12:38:02Z",
+    "updated_at": "2026-11-13T15:47:40Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Makar left Thursday's game with a lower-body injury and is questionable to play Saturday."
+  },
+  "147184": {
+    "published_at": "2026-11-13T12:38:22Z",
+    "updated_at": "2026-11-13T15:49:51Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Eriksson Ek left Thursday's game with an upper-body injury and did not return."
+  },
+  "147185": {
+    "published_at": "2026-11-13T12:38:36Z",
+    "updated_at": "2026-11-13T15:52:41Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Monahan left Thursday's game with an upper-body injury and did not return."
+  },
+  "147186": {
+    "published_at": "2026-11-13T12:38:52Z",
+    "updated_at": "2026-11-13T15:54:26Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kreider left Thursday's game with a lower-body injury and did not return."
+  },
+  "147187": {
+    "published_at": "2026-11-13T12:39:05Z",
+    "updated_at": "2026-11-13T15:55:33Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "DeMelo left Thursday's game with a lower-body injury and will be out week-to-week."
+  },
+  "147188": {
+    "published_at": "2026-11-13T12:39:19Z",
+    "updated_at": "2026-11-13T15:57:12Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bichsel left Thursday's game with a lower-body injury and did not return."
   },
   "147210": {
     "published_at": "2026-11-13T19:43:33Z",
