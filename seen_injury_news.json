@@ -1,12 +1,4 @@
 {
-  "146878": {
-    "published_at": "2026-11-08T02:42:03Z",
-    "updated_at": "2026-11-08T02:42:03Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hyman (concussion) will return vs. Vancouver on Saturday."
-  },
   "146889": {
     "published_at": "2026-11-08T15:58:58Z",
     "updated_at": "2026-11-08T15:58:58Z",
@@ -878,6 +870,70 @@
     "timeline": "",
     "surgery": false,
     "headline": "Chytil (upper-body) is on the ice for warmups and will play Friday vs. the Rangers."
+  },
+  "147233": {
+    "published_at": "2026-11-14T15:56:29Z",
+    "updated_at": "2026-11-14T15:56:29Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Monahan (upper-body) will not play on Saturday; he's considered day-to-day."
+  },
+  "147241": {
+    "published_at": "2026-11-14T16:17:45Z",
+    "updated_at": "2026-11-14T16:17:45Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Matheson (lower-body) will be a game-time decision on Saturday."
+  },
+  "147248": {
+    "published_at": "2026-11-14T16:45:43Z",
+    "updated_at": "2026-11-14T16:45:43Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Faber (skull) has been activated from IR and will make his season debut on Saturday."
+  },
+  "147249": {
+    "published_at": "2026-11-14T16:46:13Z",
+    "updated_at": "2026-11-14T16:46:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Eriksson Ek (upper-body) will play Saturday in Boston."
+  },
+  "147252": {
+    "published_at": "2026-11-14T16:49:45Z",
+    "updated_at": "2026-11-14T16:49:45Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "MacKinnon (lower-body) will not play Saturday in Montreal."
+  },
+  "147253": {
+    "published_at": "2026-11-14T16:50:08Z",
+    "updated_at": "2026-11-14T16:50:08Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Makar (lower-body) will not play Saturday in Montreal."
+  },
+  "147271": {
+    "published_at": "2026-11-14T17:46:42Z",
+    "updated_at": "2026-11-14T17:46:42Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Heiskanen (upper-body) is doubtful to play Sunday vs. the Panthers."
+  },
+  "147272": {
+    "published_at": "2026-11-14T17:46:59Z",
+    "updated_at": "2026-11-14T17:46:59Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Suter (illness) will be a game-time decision on Saturday."
   },
   "147281": {
     "published_at": "2026-11-14T19:10:12Z",
