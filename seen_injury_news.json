@@ -870,5 +870,77 @@
     "timeline": "",
     "surgery": false,
     "headline": "Horvat (undisclosed) left Saturday's game vs. Anaheim and did not return."
+  },
+  "147319": {
+    "published_at": "2026-11-15T16:40:59Z",
+    "updated_at": "2026-11-15T16:40:59Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "van Riemsdyk (lower-body) has been activated from IR."
+  },
+  "147320": {
+    "published_at": "2026-11-15T16:43:24Z",
+    "updated_at": "2026-11-15T16:43:24Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Shesterkin (lower-body) has been placed on Season Ending Injury Reserve."
+  },
+  "147322": {
+    "published_at": "2026-11-15T17:13:39Z",
+    "updated_at": "2026-11-15T18:16:15Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Broberg (lower-body) is not practicing on Sunday and is considered day-to-day."
+  },
+  "147323": {
+    "published_at": "2026-11-15T18:16:04Z",
+    "updated_at": "2026-11-15T18:16:04Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Neighbours (upper-body) is considered day-to-day."
+  },
+  "147324": {
+    "published_at": "2026-11-15T18:31:35Z",
+    "updated_at": "2026-11-15T18:31:35Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Anderson (undisclosed) has been placed on IR."
+  },
+  "147325": {
+    "published_at": "2026-11-15T18:32:15Z",
+    "updated_at": "2026-11-15T18:32:15Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Matheson (lower-body) will not make Montreal's upcoming road trip."
+  },
+  "147330": {
+    "published_at": "2026-11-15T22:07:09Z",
+    "updated_at": "2026-11-15T22:07:22Z",
+    "status": "Out",
+    "timeline": "3-4 weeks",
+    "surgery": false,
+    "headline": "Anderson (lower-body) will be out for approximately 3-4 weeks."
+  },
+  "147331": {
+    "published_at": "2026-11-15T22:07:55Z",
+    "updated_at": "2026-11-15T22:07:55Z",
+    "status": "Out",
+    "timeline": "2-3 weeks",
+    "surgery": false,
+    "headline": "Matheson (lower-body) is expected to be out for 2-3 weeks."
+  },
+  "147332": {
+    "published_at": "2026-11-15T22:20:45Z",
+    "updated_at": "2026-11-15T22:20:45Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Barkey (illness) is out vs. Edmonton on Sunday."
   }
 }
