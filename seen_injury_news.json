@@ -1,12 +1,4 @@
 {
-  "146980": {
-    "published_at": "2026-11-09T22:40:43Z",
-    "updated_at": "2026-11-09T22:40:43Z",
-    "status": "LTIR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Manson (ankle) has been placed on LTIR."
-  },
   "147010": {
     "published_at": "2026-11-10T16:34:45Z",
     "updated_at": "2026-11-10T16:54:34Z",
@@ -905,10 +897,26 @@
   },
   "147387": {
     "published_at": "2026-11-16T20:23:48Z",
-    "updated_at": "2026-11-16T20:23:48Z",
-    "status": "Out",
+    "updated_at": "2026-11-16T21:54:36Z",
+    "status": "IR",
     "timeline": "1 week",
     "surgery": false,
-    "headline": "Maatta is expected to miss a week with an upper-body injury."
+    "headline": "Maatta (upper-body) has been placed on IR and is expected to miss a week."
+  },
+  "147392": {
+    "published_at": "2026-11-17T02:06:42Z",
+    "updated_at": "2026-11-17T02:06:42Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Duda (lower-body) will not play Monday vs. the Canucks."
+  },
+  "147393": {
+    "published_at": "2026-11-17T02:11:15Z",
+    "updated_at": "2026-11-17T02:11:15Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cooley (upper-body) is expected to play Monday vs. the Canucks."
   }
 }
