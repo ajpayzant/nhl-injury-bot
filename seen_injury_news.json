@@ -1,124 +1,4 @@
 {
-  "147145": {
-    "published_at": "2026-11-12T18:56:24Z",
-    "updated_at": "2026-11-12T19:10:30Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Fiala (lower-body) will make his season debut vs. New York on Thursday."
-  },
-  "147151": {
-    "published_at": "2026-11-12T19:18:45Z",
-    "updated_at": "2026-11-12T19:31:42Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Schmaltz (lower-body) will be a game-time decision vs. St. Louis on Thursday."
-  },
-  "147152": {
-    "published_at": "2026-11-12T19:19:17Z",
-    "updated_at": "2026-11-12T19:33:30Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cooley (upper-body) will remain out vs. St. Louis and is considered day-to-day."
-  },
-  "147153": {
-    "published_at": "2026-11-12T19:19:50Z",
-    "updated_at": "2026-11-12T19:34:25Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Schmidt (upper-body) is considered week-to-week."
-  },
-  "147154": {
-    "published_at": "2026-11-12T19:27:00Z",
-    "updated_at": "2026-11-12T19:35:09Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Maccelli (lower-body) will return in Los Angeles on Thursday."
-  },
-  "147155": {
-    "published_at": "2026-11-12T19:27:24Z",
-    "updated_at": "2026-11-12T19:35:39Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Pulock (upper-body) will return in Los Angeles on Thursday."
-  },
-  "147156": {
-    "published_at": "2026-11-12T19:27:52Z",
-    "updated_at": "2026-11-12T19:39:08Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Pageau (lower-body) is out vs. Los Angeles on Thursday and is considered day-to-day."
-  },
-  "147157": {
-    "published_at": "2026-11-12T19:50:42Z",
-    "updated_at": "2026-11-12T20:34:42Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Doughty (lower-body) is expected to play vs. the Islanders on Thursday."
-  },
-  "147158": {
-    "published_at": "2026-11-12T20:51:51Z",
-    "updated_at": "2026-11-12T23:34:11Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Lyon (upper-body) has been activated from IR."
-  },
-  "147159": {
-    "published_at": "2026-11-12T20:52:15Z",
-    "updated_at": "2026-11-12T21:31:06Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Helenius (upper-body) has been placed on IR."
-  },
-  "147160": {
-    "published_at": "2026-11-12T21:58:26Z",
-    "updated_at": "2026-11-12T22:03:57Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kane (upper-body) has been activated from IR and is expected to return vs. Buffalo."
-  },
-  "147165": {
-    "published_at": "2026-11-12T23:33:48Z",
-    "updated_at": "2026-11-12T23:33:48Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "MacEwen (wrist) is on the ice for warmups and is expected to play on Thursday."
-  },
-  "147166": {
-    "published_at": "2026-11-12T23:35:11Z",
-    "updated_at": "2026-11-12T23:35:11Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cernak (undisclosed) will not play Thursday in Columbus."
-  },
-  "147167": {
-    "published_at": "2026-11-12T23:35:39Z",
-    "updated_at": "2026-11-12T23:35:39Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cirelli (undisclosed) will not play on Thursday and is considered day-to-day."
-  },
-  "147168": {
-    "published_at": "2026-11-12T23:41:56Z",
-    "updated_at": "2026-11-12T23:41:56Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gourde (undisclosed) is not on the ice for warmups; will not play Thursday in Columbus."
-  },
   "147171": {
     "published_at": "2026-11-12T23:59:21Z",
     "updated_at": "2026-11-12T23:59:21Z",
@@ -1094,5 +974,37 @@
     "timeline": "",
     "surgery": false,
     "headline": "Brindley (upper body) left Wednesday\u2019s game vs. Utah and will not return."
+  },
+  "147573": {
+    "published_at": "2026-11-19T19:11:21Z",
+    "updated_at": "2026-11-19T19:32:50Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sennecke (illness) will return in Colorado on Thursday."
+  },
+  "147589": {
+    "published_at": "2026-11-19T21:17:02Z",
+    "updated_at": "2026-11-19T21:17:02Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Brindley (upper-body) is out vs. Anaheim on Thursday."
+  },
+  "147595": {
+    "published_at": "2026-11-19T23:33:13Z",
+    "updated_at": "2026-11-19T23:33:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Pageau (lower-body) is on the ice for warmups and is expected to play in Winnipeg."
+  },
+  "147598": {
+    "published_at": "2026-11-19T23:42:42Z",
+    "updated_at": "2026-11-19T23:42:42Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Robertson (undisclosed) will not play Thursday."
   }
 }
