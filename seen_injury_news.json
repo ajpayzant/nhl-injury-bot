@@ -1,28 +1,4 @@
 {
-  "147084": {
-    "published_at": "2026-11-11T19:36:11Z",
-    "updated_at": "2026-11-11T19:55:29Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Guenther (maintenance) will be a game-time decision in Vegas on Wednesday."
-  },
-  "147088": {
-    "published_at": "2026-11-11T20:27:32Z",
-    "updated_at": "2026-11-11T20:30:12Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Doughty (lower-body) missed practice on Wednesday."
-  },
-  "147092": {
-    "published_at": "2026-11-11T22:34:10Z",
-    "updated_at": "2026-11-11T23:06:40Z",
-    "status": "LTIR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Mantha (throat) has been placed on LTIR."
-  },
   "147098": {
     "published_at": "2026-11-12T02:12:18Z",
     "updated_at": "2026-11-12T02:12:18Z",
@@ -998,5 +974,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "Wennberg (undisclosed) will play Tuesday vs. the Flames."
+  },
+  "147489": {
+    "published_at": "2026-11-18T11:44:39Z",
+    "updated_at": "2026-11-18T11:44:39Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Honzek is week-to-week with a wrist injury."
+  },
+  "147490": {
+    "published_at": "2026-11-18T11:58:23Z",
+    "updated_at": "2026-11-18T11:58:23Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Girgensons left Tuesday's game with an undisclosed injury and did not return."
+  },
+  "147491": {
+    "published_at": "2026-11-18T12:03:39Z",
+    "updated_at": "2026-11-18T16:06:16Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bedard left Tuesday's game with an upper-body injury and will undergo further evaluation on Wednesday."
   }
 }
