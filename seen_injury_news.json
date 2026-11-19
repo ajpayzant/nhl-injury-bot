@@ -1,36 +1,4 @@
 {
-  "147098": {
-    "published_at": "2026-11-12T02:12:18Z",
-    "updated_at": "2026-11-12T02:12:18Z",
-    "status": "IR",
-    "timeline": "2-4 weeks",
-    "surgery": false,
-    "headline": "Guenther (upper-body) has been placed on IR and is expected to miss 2-to-4 weeks."
-  },
-  "147099": {
-    "published_at": "2026-11-12T02:12:47Z",
-    "updated_at": "2026-11-12T02:12:47Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cooley (upper-body) will not play on Wednesday and is considered day-to-day."
-  },
-  "147100": {
-    "published_at": "2026-11-12T02:13:16Z",
-    "updated_at": "2026-11-12T02:13:16Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Yamamoto (upper-body) has been activated from IR and will play Wednesday."
-  },
-  "147101": {
-    "published_at": "2026-11-12T02:13:42Z",
-    "updated_at": "2026-11-12T02:13:42Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Mammoth have placed Nate Schmidt (upper-body) on IR."
-  },
   "147132": {
     "published_at": "2026-11-12T16:47:34Z",
     "updated_at": "2026-11-12T16:56:26Z",
@@ -998,5 +966,109 @@
     "timeline": "",
     "surgery": false,
     "headline": "Bedard left Tuesday's game with an upper-body injury and will undergo further evaluation on Wednesday."
+  },
+  "147495": {
+    "published_at": "2026-11-18T16:04:31Z",
+    "updated_at": "2026-11-18T16:12:48Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kochetkov (illness) returned to practice on Wednesday."
+  },
+  "147498": {
+    "published_at": "2026-11-18T16:13:50Z",
+    "updated_at": "2026-11-18T16:17:13Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johansson (undisclosed) is hopeful to return on Saturday vs. the Islanders."
+  },
+  "147499": {
+    "published_at": "2026-11-18T16:14:32Z",
+    "updated_at": "2026-11-18T16:17:39Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wallinder (upper-body) is hopeful to return vs. New York on Saturday."
+  },
+  "147500": {
+    "published_at": "2026-11-18T16:46:54Z",
+    "updated_at": "2026-11-18T17:08:16Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bedard is expected to miss some time, as he determines the severity of his shoulder injury."
+  },
+  "147505": {
+    "published_at": "2026-11-18T17:02:42Z",
+    "updated_at": "2026-11-18T17:18:07Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Schmaltz (lower-body) has been placed on IR and is considered week-to-week."
+  },
+  "147506": {
+    "published_at": "2026-11-18T17:45:28Z",
+    "updated_at": "2026-11-18T18:06:53Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Siegenthaler (illness) will be a game-time decision vs. Montreal on Wednesday."
+  },
+  "147507": {
+    "published_at": "2026-11-18T18:05:57Z",
+    "updated_at": "2026-11-18T18:16:22Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hagel is considered day-to-day with a lower-body injury."
+  },
+  "147508": {
+    "published_at": "2026-11-18T18:06:18Z",
+    "updated_at": "2026-11-18T18:18:19Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Girgensons is day-to-day with an upper-body injury."
+  },
+  "147510": {
+    "published_at": "2026-11-18T18:18:27Z",
+    "updated_at": "2026-11-18T18:20:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marino (upper-body) returned to practice in a full-contact jersey on Wednesday."
+  },
+  "147512": {
+    "published_at": "2026-11-18T18:57:25Z",
+    "updated_at": "2026-11-18T19:11:39Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sergachev (undisclosed) will be a game-time decision vs. Colorado on Wednesday."
+  },
+  "147514": {
+    "published_at": "2026-11-18T19:35:34Z",
+    "updated_at": "2026-11-18T20:29:55Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Samuelsson (maintenance) missed practice on Wednesday."
+  },
+  "147516": {
+    "published_at": "2026-11-18T20:39:16Z",
+    "updated_at": "2026-11-18T21:09:25Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Myers (upper-body) is doubtful to return vs. Vegas on Thursday."
+  },
+  "147517": {
+    "published_at": "2026-11-18T20:40:22Z",
+    "updated_at": "2026-11-18T21:10:18Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Back (broken finger) is skating but doubtful to return vs. Vegas on Thursday."
   }
 }
