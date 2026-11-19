@@ -1,28 +1,4 @@
 {
-  "147132": {
-    "published_at": "2026-11-12T16:47:34Z",
-    "updated_at": "2026-11-12T16:56:26Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kovacevic (undisclosed) is out vs. Washington and expected to miss some time."
-  },
-  "147133": {
-    "published_at": "2026-11-12T16:48:59Z",
-    "updated_at": "2026-11-12T16:57:22Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kane (upper-body) will be a game-time decision vs. Buffalo on Thursday."
-  },
-  "147134": {
-    "published_at": "2026-11-12T16:50:21Z",
-    "updated_at": "2026-11-12T16:57:52Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Matheson (lower-body) will return in Boston on Thursday."
-  },
   "147145": {
     "published_at": "2026-11-12T18:56:24Z",
     "updated_at": "2026-11-12T19:10:30Z",
@@ -1070,5 +1046,53 @@
     "timeline": "",
     "surgery": false,
     "headline": "Back (broken finger) is skating but doubtful to return vs. Vegas on Thursday."
+  },
+  "147518": {
+    "published_at": "2026-11-18T22:35:21Z",
+    "updated_at": "2026-11-18T22:35:21Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Lundestrom (achilies) has been activated from IR and is available vs. Chicago on Thursday."
+  },
+  "147523": {
+    "published_at": "2026-11-19T00:18:06Z",
+    "updated_at": "2026-11-19T00:18:06Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Siegenthaler (illness) is on the ice for warmups and expected to play Wednesday."
+  },
+  "147524": {
+    "published_at": "2026-11-19T02:40:31Z",
+    "updated_at": "2026-11-19T02:40:31Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sergachev (undisclosed) is on the ice for warmups and will play on Wednesday."
+  },
+  "147525": {
+    "published_at": "2026-11-19T02:56:07Z",
+    "updated_at": "2026-11-19T02:56:07Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Wedgewood (illness) will serve as the backup on Wednesday."
+  },
+  "147527": {
+    "published_at": "2026-11-19T03:23:24Z",
+    "updated_at": "2026-11-19T03:23:24Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bolduc (undisclosed) left Wednesday game vs. New Jersey and did not return."
+  },
+  "147528": {
+    "published_at": "2026-11-19T04:44:20Z",
+    "updated_at": "2026-11-19T04:44:20Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Brindley (upper body) left Wednesday\u2019s game vs. Utah and will not return."
   }
 }
