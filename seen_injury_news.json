@@ -1,20 +1,4 @@
 {
-  "147171": {
-    "published_at": "2026-11-12T23:59:21Z",
-    "updated_at": "2026-11-12T23:59:21Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "The Blackhawks have activated Patrick Kane (upper-body) from IR; he's expected to play on Thursday."
-  },
-  "147175": {
-    "published_at": "2026-11-13T01:28:59Z",
-    "updated_at": "2026-11-13T01:28:59Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Schmaltz (lower-body) will not play Thursday and is considered day-to-day."
-  },
   "147182": {
     "published_at": "2026-11-13T12:37:50Z",
     "updated_at": "2026-11-13T12:37:50Z",
@@ -974,6 +958,70 @@
     "timeline": "",
     "surgery": false,
     "headline": "Brindley (upper body) left Wednesday\u2019s game vs. Utah and will not return."
+  },
+  "147532": {
+    "published_at": "2026-11-19T15:30:49Z",
+    "updated_at": "2026-11-19T15:55:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Blankenburg (undisclosed) has returned to morning skate in a non-contact jersey."
+  },
+  "147534": {
+    "published_at": "2026-11-19T15:46:03Z",
+    "updated_at": "2026-11-19T15:56:10Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hagel (lower-body) has been placed on IR retroactive to November 15th."
+  },
+  "147542": {
+    "published_at": "2026-11-19T16:31:26Z",
+    "updated_at": "2026-11-19T16:44:11Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Robertson (undisclosed) left morning skate early and will be a game-time decision vs. St. Louis."
+  },
+  "147544": {
+    "published_at": "2026-11-19T16:35:35Z",
+    "updated_at": "2026-11-19T16:49:43Z",
+    "status": "Out",
+    "timeline": "4-6 weeks",
+    "surgery": false,
+    "headline": "DeMelo (lower-body) is expected to be out for 4-6 weeks."
+  },
+  "147547": {
+    "published_at": "2026-11-19T16:40:37Z",
+    "updated_at": "2026-11-19T16:58:32Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bedard (shoulder) will not travel on the upcoming road trip and is without a timeline to return."
+  },
+  "147548": {
+    "published_at": "2026-11-19T17:04:53Z",
+    "updated_at": "2026-11-19T17:22:01Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Pageau (lower-body) is a game-time decision in Winnipeg on Thursday."
+  },
+  "147552": {
+    "published_at": "2026-11-19T17:23:27Z",
+    "updated_at": "2026-11-19T17:27:28Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Moore (undisclosed) is out vs. Toronto on Thursday and is considered day-to-day."
+  },
+  "147554": {
+    "published_at": "2026-11-19T17:33:29Z",
+    "updated_at": "2026-11-19T18:02:57Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bolduc (upper-body) will be out vs. Carolina on Thursday."
   },
   "147573": {
     "published_at": "2026-11-19T19:11:21Z",
