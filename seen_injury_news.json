@@ -1,60 +1,4 @@
 {
-  "147271": {
-    "published_at": "2026-11-14T17:46:42Z",
-    "updated_at": "2026-11-14T17:46:42Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Heiskanen (upper-body) is doubtful to play Sunday vs. the Panthers."
-  },
-  "147272": {
-    "published_at": "2026-11-14T17:46:59Z",
-    "updated_at": "2026-11-14T17:46:59Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Suter (illness) will be a game-time decision on Saturday."
-  },
-  "147277": {
-    "published_at": "2026-11-14T18:49:14Z",
-    "updated_at": "2026-11-14T18:49:14Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Schmaltz (lower-body) will not play on Saturday and is still being evaluated."
-  },
-  "147278": {
-    "published_at": "2026-11-14T18:49:50Z",
-    "updated_at": "2026-11-14T18:49:50Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cooley (upper-body) remains day-to-day and will not play on Saturday."
-  },
-  "147281": {
-    "published_at": "2026-11-14T19:10:12Z",
-    "updated_at": "2026-11-14T19:10:12Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Barzal (knee) has been activated and is expected to make his season debut on Saturday."
-  },
-  "147283": {
-    "published_at": "2026-11-14T19:32:30Z",
-    "updated_at": "2026-11-14T19:32:30Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Panarin (personal) will not play Saturday vs. the Flames."
-  },
-  "147295": {
-    "published_at": "2026-11-14T20:32:08Z",
-    "updated_at": "2026-11-14T20:32:08Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wennberg (undisclosed) will not play Saturday in Utah."
-  },
   "147297": {
     "published_at": "2026-11-14T23:02:20Z",
     "updated_at": "2026-11-14T23:02:20Z",
@@ -1006,5 +950,53 @@
     "timeline": "",
     "surgery": false,
     "headline": "Brindley (concussion) is expected to be out for a while."
+  },
+  "147678": {
+    "published_at": "2026-11-21T18:38:32Z",
+    "updated_at": "2026-11-21T18:38:32Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Ducks have placed Beckett Sennecke (upper-body) on IR."
+  },
+  "147680": {
+    "published_at": "2026-11-21T18:39:21Z",
+    "updated_at": "2026-11-21T18:39:21Z",
+    "status": "Out indefinitely",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Geekie is out indefinitely with an upper-body injury."
+  },
+  "147695": {
+    "published_at": "2026-11-21T19:17:16Z",
+    "updated_at": "2026-11-21T19:17:16Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Trenin (personal) will be back in the Wild lineup on Saturday."
+  },
+  "147699": {
+    "published_at": "2026-11-21T20:43:18Z",
+    "updated_at": "2026-11-21T20:43:18Z",
+    "status": "Out",
+    "timeline": "12 weeks",
+    "surgery": false,
+    "headline": "MacKinnon (lower-body) is expected to be out for 12 weeks."
+  },
+  "147703": {
+    "published_at": "2026-11-21T20:48:31Z",
+    "updated_at": "2026-11-21T20:48:31Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Kraken have activated Curtis Douglas (upper-body) from IR."
+  },
+  "147706": {
+    "published_at": "2026-11-21T21:14:53Z",
+    "updated_at": "2026-11-21T21:14:53Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "O'Reilly (undisclosed) will be a game-time decision Saturday vs. the Penguins."
   }
 }
