@@ -966,5 +966,93 @@
     "timeline": "",
     "surgery": false,
     "headline": "Robertson (undisclosed) will not play Thursday."
+  },
+  "147607": {
+    "published_at": "2026-11-20T16:29:22Z",
+    "updated_at": "2026-11-20T16:45:13Z",
+    "status": "IR",
+    "timeline": "re-evaluated in 2 weeks",
+    "surgery": false,
+    "headline": "Robertson (lower-body) has been placed on IR and will be re-evaluated in two weeks."
+  },
+  "147608": {
+    "published_at": "2026-11-20T16:30:00Z",
+    "updated_at": "2026-11-20T16:46:38Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Malkin (upper-body) is considered day-to-day and will not travel with the team this weekend."
+  },
+  "147609": {
+    "published_at": "2026-11-20T16:30:51Z",
+    "updated_at": "2026-11-20T16:47:33Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olivier (undisclosed) left Thursday's game vs. Chicago and did not return."
+  },
+  "147611": {
+    "published_at": "2026-11-20T16:32:05Z",
+    "updated_at": "2026-11-20T16:49:02Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": true,
+    "headline": "Desharnais (appendectomy surgery) returned to practice in a full contact jersey on Friday."
+  },
+  "147612": {
+    "published_at": "2026-11-20T16:32:44Z",
+    "updated_at": "2026-11-20T16:50:27Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bjorkstrand missed practice on Friday and is out with an upper-body injury."
+  },
+  "147614": {
+    "published_at": "2026-11-20T17:14:09Z",
+    "updated_at": "2026-11-20T18:02:16Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Johansson (undisclosed) will return vs. the Islanders on Saturday."
+  },
+  "147616": {
+    "published_at": "2026-11-20T17:41:42Z",
+    "updated_at": "2026-11-20T17:41:42Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hutson (maintenance) missed practice on Friday."
+  },
+  "147619": {
+    "published_at": "2026-11-20T18:22:52Z",
+    "updated_at": "2026-11-20T18:27:18Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "McMichael (undisclosed) is out vs. New Jersey on Saturday and considered day-to-day."
+  },
+  "147620": {
+    "published_at": "2026-11-20T18:27:04Z",
+    "updated_at": "2026-11-20T18:28:52Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Guenther (upper-body) returned to practice in a full-contact jersey on Friday."
+  },
+  "147625": {
+    "published_at": "2026-11-20T19:20:50Z",
+    "updated_at": "2026-11-20T19:20:50Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Rust (lower-body) returned to practice in a non-contact jersey on Friday."
+  },
+  "147626": {
+    "published_at": "2026-11-20T21:26:14Z",
+    "updated_at": "2026-11-20T21:26:14Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Brindley (concussion) is expected to be out for a while."
   }
 }
