@@ -1,20 +1,4 @@
 {
-  "147316": {
-    "published_at": "2026-11-15T06:07:42Z",
-    "updated_at": "2026-11-15T06:07:42Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Stanley (lower-body) left Saturday's game vs. Anaheim and did not return."
-  },
-  "147317": {
-    "published_at": "2026-11-15T06:08:25Z",
-    "updated_at": "2026-11-15T06:08:25Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Horvat (undisclosed) left Saturday's game vs. Anaheim and did not return."
-  },
   "147319": {
     "published_at": "2026-11-15T16:40:59Z",
     "updated_at": "2026-11-15T16:40:59Z",
@@ -910,6 +894,94 @@
     "timeline": "",
     "surgery": false,
     "headline": "Brindley (concussion) is expected to be out for a while."
+  },
+  "147641": {
+    "published_at": "2026-11-21T15:59:37Z",
+    "updated_at": "2026-11-21T15:59:37Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Canucks have placed Brendan Gallagher (lower-body) on IR."
+  },
+  "147644": {
+    "published_at": "2026-11-21T16:08:42Z",
+    "updated_at": "2026-11-21T16:08:42Z",
+    "status": "Out",
+    "timeline": "2-3 months",
+    "surgery": false,
+    "headline": "Bjorkstrand (upper-body) will miss 2-to-3 months."
+  },
+  "147645": {
+    "published_at": "2026-11-21T16:08:53Z",
+    "updated_at": "2026-11-21T16:08:53Z",
+    "status": "Out",
+    "timeline": "2-3 months",
+    "surgery": false,
+    "headline": "\u0160mits (upper-body) will miss 2-to-3 months."
+  },
+  "147646": {
+    "published_at": "2026-11-21T16:10:13Z",
+    "updated_at": "2026-11-21T16:10:13Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bolduc (upper-body) will return to the Canadiens lineup on Saturday."
+  },
+  "147652": {
+    "published_at": "2026-11-21T16:13:53Z",
+    "updated_at": "2026-11-21T16:13:53Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cousins (upper-body) will be back in the Senators lineup on Saturday."
+  },
+  "147661": {
+    "published_at": "2026-11-21T16:42:39Z",
+    "updated_at": "2026-11-21T16:42:39Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Salomonsson (personal) will be a game-time decision on Saturday."
+  },
+  "147664": {
+    "published_at": "2026-11-21T17:02:30Z",
+    "updated_at": "2026-11-21T17:02:30Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Pulock (upper-body) will not play Saturday in Detroit."
+  },
+  "147671": {
+    "published_at": "2026-11-21T17:55:28Z",
+    "updated_at": "2026-11-21T17:55:28Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Pettersson (upper-body) will not play on Saturday."
+  },
+  "147673": {
+    "published_at": "2026-11-21T18:05:55Z",
+    "updated_at": "2026-11-21T18:05:55Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Panarin (personal) skated on Saturday but is not expected to play in Ottawa."
+  },
+  "147674": {
+    "published_at": "2026-11-21T18:06:17Z",
+    "updated_at": "2026-11-21T18:06:17Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Moore (undisclosed) skated on Saturday but is not expected to play in Ottawa."
+  },
+  "147675": {
+    "published_at": "2026-11-21T18:37:12Z",
+    "updated_at": "2026-11-21T18:37:12Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hughes (upper-body) will miss the final two games of the Wild's road-trip."
   },
   "147678": {
     "published_at": "2026-11-21T18:38:32Z",
