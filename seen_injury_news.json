@@ -1,28 +1,4 @@
 {
-  "147319": {
-    "published_at": "2026-11-15T16:40:59Z",
-    "updated_at": "2026-11-15T16:40:59Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "van Riemsdyk (lower-body) has been activated from IR."
-  },
-  "147320": {
-    "published_at": "2026-11-15T16:43:24Z",
-    "updated_at": "2026-11-15T16:43:24Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Shesterkin (lower-body) has been placed on Season Ending Injury Reserve."
-  },
-  "147322": {
-    "published_at": "2026-11-15T17:13:39Z",
-    "updated_at": "2026-11-15T18:16:15Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Broberg (lower-body) is not practicing on Sunday and is considered day-to-day."
-  },
   "147323": {
     "published_at": "2026-11-15T18:16:04Z",
     "updated_at": "2026-11-15T18:16:04Z",
@@ -1030,5 +1006,29 @@
     "timeline": "",
     "surgery": false,
     "headline": "O'Reilly (undisclosed) will be a game-time decision Saturday vs. the Penguins."
+  },
+  "147709": {
+    "published_at": "2026-11-21T22:37:14Z",
+    "updated_at": "2026-11-21T22:37:14Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "O'Reilly (undisclosed) is on the ice for warmups and is expected to play Saturday."
+  },
+  "147715": {
+    "published_at": "2026-11-22T01:30:19Z",
+    "updated_at": "2026-11-22T01:30:19Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Keller (illness) will not play Saturday vs. the Ducks."
+  },
+  "147717": {
+    "published_at": "2026-11-22T01:39:44Z",
+    "updated_at": "2026-11-22T01:39:44Z",
+    "status": "Out indefinitely",
+    "timeline": "",
+    "surgery": true,
+    "headline": "Bedard will undergo shoulder surgery and is out indefinitely."
   }
 }
