@@ -1,36 +1,4 @@
 {
-  "147342": {
-    "published_at": "2026-11-15T23:15:44Z",
-    "updated_at": "2026-11-15T23:15:44Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Nugent-Hopkins (undisclosed) is out vs. Philadelphia on Sunday."
-  },
-  "147345": {
-    "published_at": "2026-11-15T23:35:43Z",
-    "updated_at": "2026-11-15T23:35:43Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wennberg (undisclosed) is out vs. Nashville on Sunday and is considered day-to-day."
-  },
-  "147350": {
-    "published_at": "2026-11-16T00:33:28Z",
-    "updated_at": "2026-11-16T00:33:28Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Moore (lower-body) was activated off IR and is expected to return vs. Calgary on Sunday."
-  },
-  "147356": {
-    "published_at": "2026-11-16T05:50:14Z",
-    "updated_at": "2026-11-16T05:50:14Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sherwood (upper-body) left Sunday's game vs. Nashville and did not return."
-  },
   "147359": {
     "published_at": "2026-11-16T15:47:18Z",
     "updated_at": "2026-11-16T16:00:12Z",
@@ -982,5 +950,109 @@
     "timeline": "",
     "surgery": true,
     "headline": "Bedard will undergo shoulder surgery and is out indefinitely."
+  },
+  "147721": {
+    "published_at": "2026-11-22T12:50:13Z",
+    "updated_at": "2026-11-22T12:50:13Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carlsson (upper-body) left Saturday\u2019s game vs. Utah and did not return."
+  },
+  "147722": {
+    "published_at": "2026-11-22T12:51:32Z",
+    "updated_at": "2026-11-22T12:51:32Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gustafsson (upper-body) left Saturday\u2019s game vs. Ottawa and did not return."
+  },
+  "147724": {
+    "published_at": "2026-11-22T14:12:48Z",
+    "updated_at": "2026-11-22T14:12:48Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman left Saturday's game with a migraine and is questionable to play Sunday."
+  },
+  "147725": {
+    "published_at": "2026-11-22T14:13:25Z",
+    "updated_at": "2026-11-22T14:13:25Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Pospisil left Saturday's game with an upper-body injury and did not return."
+  },
+  "147726": {
+    "published_at": "2026-11-22T14:13:58Z",
+    "updated_at": "2026-11-22T14:13:58Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frondell left Saturday's game with an undisclosed injury and is questionable to play Sunday."
+  },
+  "147727": {
+    "published_at": "2026-11-22T14:14:55Z",
+    "updated_at": "2026-11-22T14:14:55Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ehlers suffered a lower-body injury on Saturday and will not play on Sunday."
+  },
+  "147731": {
+    "published_at": "2026-11-22T15:18:46Z",
+    "updated_at": "2026-11-22T15:18:46Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": true,
+    "headline": "The Blackhawks have placed Connor Bedard (shoulder surgery) on IR."
+  },
+  "147736": {
+    "published_at": "2026-11-22T17:21:26Z",
+    "updated_at": "2026-11-22T17:21:26Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Durzi (lower-body) will be back in the Rangers lineup on Sunday."
+  },
+  "147738": {
+    "published_at": "2026-11-22T17:32:14Z",
+    "updated_at": "2026-11-22T17:32:14Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roslovic missed Sunday's practice and is considered day-to-day with an upper-body injury."
+  },
+  "147743": {
+    "published_at": "2026-11-22T19:38:45Z",
+    "updated_at": "2026-11-22T19:38:45Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Panarin (personal) will \"most likely\" play Monday in Montreal."
+  },
+  "147753": {
+    "published_at": "2026-11-22T22:04:31Z",
+    "updated_at": "2026-11-22T22:04:31Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carlile (lower-body) is day-to-day and will not play Sunday in Dallas."
+  },
+  "147755": {
+    "published_at": "2026-11-22T22:41:23Z",
+    "updated_at": "2026-11-22T22:41:23Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hyman (migraine) will not play Sunday in St. Louis."
+  },
+  "147760": {
+    "published_at": "2026-11-23T00:30:00Z",
+    "updated_at": "2026-11-23T00:30:00Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frondell (undisclosed) will not play Sunday in Vancouver."
   }
 }
