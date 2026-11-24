@@ -1,156 +1,4 @@
 {
-  "147417": {
-    "published_at": "2026-11-17T15:53:46Z",
-    "updated_at": "2026-11-17T16:19:25Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Byram (upper-body) will miss Chicago's next two games."
-  },
-  "147422": {
-    "published_at": "2026-11-17T16:06:17Z",
-    "updated_at": "2026-11-17T16:25:10Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wallinder (undisclosed) missed practice on Tuesday."
-  },
-  "147423": {
-    "published_at": "2026-11-17T16:06:55Z",
-    "updated_at": "2026-11-17T16:26:38Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Johansson (undisclosed) returned to practice in a non-contact jersey on Tuesday."
-  },
-  "147435": {
-    "published_at": "2026-11-17T16:48:32Z",
-    "updated_at": "2026-11-17T16:57:08Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Gustafsson (undisclosed) will return to the lineup in Boston on Tuesday."
-  },
-  "147436": {
-    "published_at": "2026-11-17T16:56:02Z",
-    "updated_at": "2026-11-17T16:58:00Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hodgson (lower-body) is out vs. Winnipeg on Tuesday."
-  },
-  "147442": {
-    "published_at": "2026-11-17T17:15:31Z",
-    "updated_at": "2026-11-17T17:46:57Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Rielly (lower-body) is expected to return in Chicago on Tuesday."
-  },
-  "147443": {
-    "published_at": "2026-11-17T17:18:46Z",
-    "updated_at": "2026-11-17T17:49:27Z",
-    "status": "Out",
-    "timeline": "1 month",
-    "surgery": true,
-    "headline": "Mantha had surgery on Monday to repair a fracture in his throat and is expected out for a month."
-  },
-  "147444": {
-    "published_at": "2026-11-17T17:19:44Z",
-    "updated_at": "2026-11-17T17:50:48Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kochetkov (illness) missed practice on Tuesday."
-  },
-  "147445": {
-    "published_at": "2026-11-17T17:20:36Z",
-    "updated_at": "2026-11-17T17:51:28Z",
-    "status": "Out",
-    "timeline": "4-6 weeks",
-    "surgery": false,
-    "headline": "Kovacevic (ankle sprain) is expected to miss the next 4-6 weeks."
-  },
-  "147447": {
-    "published_at": "2026-11-17T17:27:05Z",
-    "updated_at": "2026-11-17T17:53:21Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wallinder is day-to-day with an upper-body injury."
-  },
-  "147450": {
-    "published_at": "2026-11-17T17:37:43Z",
-    "updated_at": "2026-11-17T17:55:27Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Geekie (undisclosed) has been placed on IR."
-  },
-  "147451": {
-    "published_at": "2026-11-17T17:38:18Z",
-    "updated_at": "2026-11-17T17:56:36Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Point (undisclosed) is expected to return vs. Washington on Tuesday."
-  },
-  "147452": {
-    "published_at": "2026-11-17T17:39:11Z",
-    "updated_at": "2026-11-17T17:57:31Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Marchessault (lower-body) will return in Minnesota on Tuesday."
-  },
-  "147456": {
-    "published_at": "2026-11-17T18:28:43Z",
-    "updated_at": "2026-11-17T19:04:32Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Texier (illness) missed practice on Tuesday."
-  },
-  "147459": {
-    "published_at": "2026-11-17T18:30:38Z",
-    "updated_at": "2026-11-17T19:14:00Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Guenther (upper-body) practiced in a non-contact jersey on Tuesday."
-  },
-  "147462": {
-    "published_at": "2026-11-17T19:25:26Z",
-    "updated_at": "2026-11-17T19:43:07Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wedgewood (illness) left Colorado's practice on Tuesday and did not return."
-  },
-  "147464": {
-    "published_at": "2026-11-17T19:32:01Z",
-    "updated_at": "2026-11-17T20:16:17Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sherwood is considered week-to-week with an upper-body injury."
-  },
-  "147466": {
-    "published_at": "2026-11-17T19:59:04Z",
-    "updated_at": "2026-11-17T20:19:17Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Heiskanen (upper-body) will return in Vegas on Tuesday."
-  },
-  "147467": {
-    "published_at": "2026-11-17T19:59:25Z",
-    "updated_at": "2026-11-17T20:20:47Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Myers (upper-body) is out vs. Vegas on Tuesday."
-  },
   "147470": {
     "published_at": "2026-11-17T23:15:22Z",
     "updated_at": "2026-11-17T23:15:22Z",
@@ -1014,5 +862,149 @@
     "timeline": "",
     "surgery": false,
     "headline": "Guenther will be back in the Mammoth lineup on Monday."
+  },
+  "147831": {
+    "published_at": "2026-11-24T02:11:26Z",
+    "updated_at": "2026-11-24T02:11:26Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carlsson (upper-body) is out vs. Seattle on Monday."
+  },
+  "147832": {
+    "published_at": "2026-11-24T02:12:35Z",
+    "updated_at": "2026-11-24T02:12:35Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olivier (upper-body) left Monday's game vs. New Jersey and will not return."
+  },
+  "147836": {
+    "published_at": "2026-11-24T02:41:48Z",
+    "updated_at": "2026-11-24T02:41:48Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Palmieri (lower-body) left Monday's game vs. Toronto and will not return."
+  },
+  "147837": {
+    "published_at": "2026-11-24T02:42:22Z",
+    "updated_at": "2026-11-24T16:03:37Z",
+    "status": "Out",
+    "timeline": "4 months",
+    "surgery": true,
+    "headline": "Bedard (shoulder) underwent successful surgery and is expected to miss the next four months."
+  },
+  "147838": {
+    "published_at": "2026-11-24T02:52:26Z",
+    "updated_at": "2026-11-24T16:06:23Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frost (undisclosed) left Monday's game vs. Ottawa and will not return."
+  },
+  "147863": {
+    "published_at": "2026-11-24T17:36:34Z",
+    "updated_at": "2026-11-24T18:18:23Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Brindley (concussion) returned to practice in a non-contact jersey on Tuesday."
+  },
+  "147864": {
+    "published_at": "2026-11-24T17:44:16Z",
+    "updated_at": "2026-11-24T18:20:13Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Malkin (upper-body) was a full participant in practice on Tuesday."
+  },
+  "147865": {
+    "published_at": "2026-11-24T17:46:32Z",
+    "updated_at": "2026-11-24T18:21:55Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cernak (illness) missed practice on Tuesday."
+  },
+  "147866": {
+    "published_at": "2026-11-24T17:46:53Z",
+    "updated_at": "2026-11-24T18:23:05Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hedman (illness) missed practice on Tuesday."
+  },
+  "147867": {
+    "published_at": "2026-11-24T17:50:37Z",
+    "updated_at": "2026-11-24T18:24:31Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ehlers (lower-body) will remain out on Wednesday vs. Tampa Bay."
+  },
+  "147868": {
+    "published_at": "2026-11-24T18:13:15Z",
+    "updated_at": "2026-11-24T18:25:51Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Myers (upper-body) is a possibility to return vs. Nashville on Wednesday."
+  },
+  "147869": {
+    "published_at": "2026-11-24T18:14:04Z",
+    "updated_at": "2026-11-24T18:26:27Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Back (broken finger) is a possibility to return vs. Nashville on Wednesday."
+  },
+  "147870": {
+    "published_at": "2026-11-24T18:15:45Z",
+    "updated_at": "2026-11-24T18:28:11Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Makar (lower-body) returned to practice in a full contact jersey on Tuesday."
+  },
+  "147871": {
+    "published_at": "2026-11-24T18:18:44Z",
+    "updated_at": "2026-11-24T18:30:25Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Snuggerud (undisclosed) missed practice on Tuesday and is questionable vs. New York on Wednesday."
+  },
+  "147872": {
+    "published_at": "2026-11-24T18:19:26Z",
+    "updated_at": "2026-11-24T18:32:42Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carlo (undisclosed) missed practice on Tuesday and is questionable vs. New York on Wednesday."
+  },
+  "147873": {
+    "published_at": "2026-11-24T18:20:10Z",
+    "updated_at": "2026-11-24T18:34:06Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Buchnevich (undisclosed) missed practice on Tuesday and is questionable vs. New York on Wednesday."
+  },
+  "147879": {
+    "published_at": "2026-11-24T19:51:10Z",
+    "updated_at": "2026-11-24T19:56:01Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Palmieri (lower-body) has been placed on IR."
+  },
+  "147880": {
+    "published_at": "2026-11-24T20:38:16Z",
+    "updated_at": "2026-11-24T20:38:16Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Makar (lower-body) has potential to return vs. Montreal on Wednesday."
   }
 }
