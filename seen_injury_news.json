@@ -1,20 +1,4 @@
 {
-  "147392": {
-    "published_at": "2026-11-17T02:06:42Z",
-    "updated_at": "2026-11-17T02:06:42Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Duda (lower-body) will not play Monday vs. the Canucks."
-  },
-  "147393": {
-    "published_at": "2026-11-17T02:11:15Z",
-    "updated_at": "2026-11-17T02:11:15Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cooley (upper-body) is expected to play Monday vs. the Canucks."
-  },
   "147417": {
     "published_at": "2026-11-17T15:53:46Z",
     "updated_at": "2026-11-17T16:19:25Z",
@@ -910,6 +894,94 @@
     "timeline": "",
     "surgery": false,
     "headline": "Frondell (undisclosed) will not play Sunday in Vancouver."
+  },
+  "147803": {
+    "published_at": "2026-11-23T17:49:06Z",
+    "updated_at": "2026-11-23T18:29:04Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marino (upper-body) is day-to-day and unsure if he will play on the current road trip."
+  },
+  "147804": {
+    "published_at": "2026-11-23T17:49:47Z",
+    "updated_at": "2026-11-23T22:46:21Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Guenther (upper-body) is likely out vs. Winnipeg on Monday and is still considered day-to-day."
+  },
+  "147806": {
+    "published_at": "2026-11-23T17:58:44Z",
+    "updated_at": "2026-11-23T18:43:33Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Keller (illness) is expected to return in Winnipeg on Monday."
+  },
+  "147807": {
+    "published_at": "2026-11-23T18:00:37Z",
+    "updated_at": "2026-11-23T18:45:06Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Roslovic (upper-body) is a game-time decision vs. the Islanders on Monday."
+  },
+  "147809": {
+    "published_at": "2026-11-23T18:15:29Z",
+    "updated_at": "2026-11-23T18:46:37Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Moore (undisclosed) is a game-time decision in Montreal on Monday."
+  },
+  "147810": {
+    "published_at": "2026-11-23T18:16:11Z",
+    "updated_at": "2026-11-23T18:47:28Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Gustafsson (upper-body) is a game-time decision in Montreal on Monday."
+  },
+  "147811": {
+    "published_at": "2026-11-23T18:17:16Z",
+    "updated_at": "2026-11-23T18:48:32Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Edmundson (undisclosed) will be a game-time decision in Montreal on Monday."
+  },
+  "147816": {
+    "published_at": "2026-11-23T19:44:29Z",
+    "updated_at": "2026-11-23T20:01:42Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hughes (upper-body) has been placed on IR."
+  },
+  "147817": {
+    "published_at": "2026-11-23T19:45:14Z",
+    "updated_at": "2026-11-23T20:03:03Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Trouba (lower-body) is out vs. Minnesota on Monday and will miss the remainder of the week."
+  },
+  "147819": {
+    "published_at": "2026-11-23T21:14:38Z",
+    "updated_at": "2026-11-23T21:31:26Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carlsson (upper-body) will be a game-time decision in Seattle on Monday."
+  },
+  "147820": {
+    "published_at": "2026-11-23T22:03:55Z",
+    "updated_at": "2026-11-23T22:05:50Z",
+    "status": "IR",
+    "timeline": "2-4 weeks",
+    "surgery": false,
+    "headline": "Gustafsson (hand) has been placed on IR and will be out for the 2-4 weeks."
   },
   "147821": {
     "published_at": "2026-11-23T22:16:46Z",
