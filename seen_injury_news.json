@@ -1,28 +1,4 @@
 {
-  "147489": {
-    "published_at": "2026-11-18T11:44:39Z",
-    "updated_at": "2026-11-18T11:44:39Z",
-    "status": "Week-to-week",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Honzek is week-to-week with a wrist injury."
-  },
-  "147490": {
-    "published_at": "2026-11-18T11:58:23Z",
-    "updated_at": "2026-11-18T11:58:23Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Girgensons left Tuesday's game with an undisclosed injury and did not return."
-  },
-  "147491": {
-    "published_at": "2026-11-18T12:03:39Z",
-    "updated_at": "2026-11-18T16:06:16Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bedard left Tuesday's game with an upper-body injury and will undergo further evaluation on Wednesday."
-  },
   "147495": {
     "published_at": "2026-11-18T16:04:31Z",
     "updated_at": "2026-11-18T16:12:48Z",
@@ -839,6 +815,46 @@
     "surgery": false,
     "headline": "Frost (undisclosed) left Monday's game vs. Ottawa and will not return."
   },
+  "147857": {
+    "published_at": "2026-11-24T17:02:06Z",
+    "updated_at": "2026-11-24T17:52:01Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Stanley (maintenance) missed practice on Tuesday."
+  },
+  "147858": {
+    "published_at": "2026-11-24T17:19:49Z",
+    "updated_at": "2026-11-24T17:52:49Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Girgensons (upper-body) returned to practice on Tuesday."
+  },
+  "147859": {
+    "published_at": "2026-11-24T17:20:56Z",
+    "updated_at": "2026-11-24T17:53:37Z",
+    "status": "Out",
+    "timeline": "1-2 weeks",
+    "surgery": false,
+    "headline": "Pulock (upper-body) is expected to miss the next 1-2 weeks."
+  },
+  "147860": {
+    "published_at": "2026-11-24T17:22:48Z",
+    "updated_at": "2026-11-24T17:54:39Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kozak (undisclosed) missed practice on Tuesday and is considered day-to-day."
+  },
+  "147862": {
+    "published_at": "2026-11-24T17:33:45Z",
+    "updated_at": "2026-11-24T18:17:03Z",
+    "status": "Other",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Demidov (lower-body) has a chance to join the team on their upcoming road trip."
+  },
   "147863": {
     "published_at": "2026-11-24T17:36:34Z",
     "updated_at": "2026-11-24T18:18:23Z",
@@ -942,5 +958,21 @@
     "timeline": "",
     "surgery": false,
     "headline": "Makar (lower-body) has potential to return vs. Montreal on Wednesday."
+  },
+  "147882": {
+    "published_at": "2026-11-24T21:16:01Z",
+    "updated_at": "2026-11-24T21:23:11Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frondell (undisclosed) returned to practice on Tuesday."
+  },
+  "147884": {
+    "published_at": "2026-11-24T22:20:48Z",
+    "updated_at": "2026-11-24T22:28:47Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olivier (upper-body) has been placed on IR."
   }
 }
