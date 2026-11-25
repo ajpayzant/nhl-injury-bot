@@ -1,68 +1,4 @@
 {
-  "147470": {
-    "published_at": "2026-11-17T23:15:22Z",
-    "updated_at": "2026-11-17T23:15:22Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hagel (upper-body) will not play on Tuesday; he's considered day-to-day."
-  },
-  "147471": {
-    "published_at": "2026-11-17T23:15:50Z",
-    "updated_at": "2026-11-17T23:15:50Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Point (undisclosed) will play on Tuesday."
-  },
-  "147472": {
-    "published_at": "2026-11-17T23:16:14Z",
-    "updated_at": "2026-11-17T23:16:14Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cirelli (lower-body) will play on Tuesday."
-  },
-  "147473": {
-    "published_at": "2026-11-17T23:16:40Z",
-    "updated_at": "2026-11-17T23:16:40Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Cernak (upper-body) will play on Tuesday."
-  },
-  "147477": {
-    "published_at": "2026-11-17T23:57:17Z",
-    "updated_at": "2026-11-17T23:57:17Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Lomberg (undisclosed) will not play on Tuesday."
-  },
-  "147480": {
-    "published_at": "2026-11-18T00:09:52Z",
-    "updated_at": "2026-11-18T00:09:52Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Rielly (lower-body) will play Tuesday in Chicago."
-  },
-  "147486": {
-    "published_at": "2026-11-18T00:56:51Z",
-    "updated_at": "2026-11-18T00:56:51Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sennecke (illness) will not play on Tuesday."
-  },
-  "147488": {
-    "published_at": "2026-11-18T02:52:56Z",
-    "updated_at": "2026-11-18T02:52:56Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wennberg (undisclosed) will play Tuesday vs. the Flames."
-  },
   "147489": {
     "published_at": "2026-11-18T11:44:39Z",
     "updated_at": "2026-11-18T11:44:39Z",
@@ -1001,7 +937,7 @@
   },
   "147880": {
     "published_at": "2026-11-24T20:38:16Z",
-    "updated_at": "2026-11-24T20:38:16Z",
+    "updated_at": "2026-11-24T21:20:35Z",
     "status": "Other",
     "timeline": "",
     "surgery": false,
