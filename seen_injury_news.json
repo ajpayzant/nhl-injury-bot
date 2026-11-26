@@ -1,12 +1,4 @@
 {
-  "147528": {
-    "published_at": "2026-11-19T04:44:20Z",
-    "updated_at": "2026-11-19T04:44:20Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Brindley (upper body) left Wednesday\u2019s game vs. Utah and will not return."
-  },
   "147532": {
     "published_at": "2026-11-19T15:30:49Z",
     "updated_at": "2026-11-19T15:55:13Z",
@@ -950,6 +942,126 @@
     "timeline": "",
     "surgery": false,
     "headline": "Frost (undisclosed) skated on Wednesday but will remain out vs. Pittsburgh."
+  },
+  "147933": {
+    "published_at": "2026-11-25T17:22:46Z",
+    "updated_at": "2026-11-25T17:49:41Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Myers (upper-body) will return vs. Nashville on Wednesday."
+  },
+  "147935": {
+    "published_at": "2026-11-25T17:28:05Z",
+    "updated_at": "2026-11-25T17:52:42Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Miller (illness) will be a game-time decision in Tampa Bay on Wednesday."
+  },
+  "147938": {
+    "published_at": "2026-11-25T18:05:13Z",
+    "updated_at": "2026-11-25T18:23:46Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Makar (lower-body) will return vs. Montreal on Wednesday."
+  },
+  "147944": {
+    "published_at": "2026-11-25T18:21:24Z",
+    "updated_at": "2026-11-25T18:36:57Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchenko (lower-body) returned to practice as a full participant on Wednesday."
+  },
+  "147948": {
+    "published_at": "2026-11-25T19:01:40Z",
+    "updated_at": "2026-11-25T19:48:48Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sennecke (upper-body) is considered day-to-day."
+  },
+  "147949": {
+    "published_at": "2026-11-25T19:02:35Z",
+    "updated_at": "2026-11-25T19:50:47Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Poehling (sprained ACL) is hopeful to return this weekend."
+  },
+  "147950": {
+    "published_at": "2026-11-25T19:03:05Z",
+    "updated_at": "2026-11-25T19:51:19Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carlsson (upper-body) will remain out on Wednesday and is considered day-to-day."
+  },
+  "147955": {
+    "published_at": "2026-11-25T20:10:59Z",
+    "updated_at": "2026-11-25T20:17:32Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchenko (lower-body) is expected to return vs. Boston on Friday."
+  },
+  "147956": {
+    "published_at": "2026-11-25T20:37:36Z",
+    "updated_at": "2026-11-25T21:18:41Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Snuggerud (upper-body) is out vs. New York on Wednesday."
+  },
+  "147957": {
+    "published_at": "2026-11-25T20:39:14Z",
+    "updated_at": "2026-11-25T21:19:29Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Buchnevich (upper-body) is out vs. New York on Wednesday."
+  },
+  "147963": {
+    "published_at": "2026-11-25T23:33:02Z",
+    "updated_at": "2026-11-25T23:33:02Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hedman (illness) is out vs. Carolina on Wednesday."
+  },
+  "147964": {
+    "published_at": "2026-11-25T23:33:25Z",
+    "updated_at": "2026-11-25T23:33:25Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cernak (illness) is out vs. Carolina on Wednesday."
+  },
+  "147965": {
+    "published_at": "2026-11-25T23:33:55Z",
+    "updated_at": "2026-11-25T23:33:55Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Miller (illness) is out vs. Tampa Bay on Wednesday."
+  },
+  "147966": {
+    "published_at": "2026-11-25T23:36:17Z",
+    "updated_at": "2026-11-25T23:36:17Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Samuelsson (maintenance) is expected to play vs. New York on Wednesday."
+  },
+  "147973": {
+    "published_at": "2026-11-25T23:43:07Z",
+    "updated_at": "2026-11-25T23:43:07Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ritchie (lower-body) will return vs. St. Louis on Wednesday."
   },
   "147978": {
     "published_at": "2026-11-26T01:19:08Z",
