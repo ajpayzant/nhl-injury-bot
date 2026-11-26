@@ -1,148 +1,4 @@
 {
-  "147495": {
-    "published_at": "2026-11-18T16:04:31Z",
-    "updated_at": "2026-11-18T16:12:48Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Kochetkov (illness) returned to practice on Wednesday."
-  },
-  "147498": {
-    "published_at": "2026-11-18T16:13:50Z",
-    "updated_at": "2026-11-18T16:17:13Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Johansson (undisclosed) is hopeful to return on Saturday vs. the Islanders."
-  },
-  "147499": {
-    "published_at": "2026-11-18T16:14:32Z",
-    "updated_at": "2026-11-18T16:17:39Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wallinder (upper-body) is hopeful to return vs. New York on Saturday."
-  },
-  "147500": {
-    "published_at": "2026-11-18T16:46:54Z",
-    "updated_at": "2026-11-18T17:08:16Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bedard is expected to miss some time, as he determines the severity of his shoulder injury."
-  },
-  "147505": {
-    "published_at": "2026-11-18T17:02:42Z",
-    "updated_at": "2026-11-18T17:18:07Z",
-    "status": "IR",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Schmaltz (lower-body) has been placed on IR and is considered week-to-week."
-  },
-  "147506": {
-    "published_at": "2026-11-18T17:45:28Z",
-    "updated_at": "2026-11-18T18:06:53Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Siegenthaler (illness) will be a game-time decision vs. Montreal on Wednesday."
-  },
-  "147507": {
-    "published_at": "2026-11-18T18:05:57Z",
-    "updated_at": "2026-11-18T18:16:22Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hagel is considered day-to-day with a lower-body injury."
-  },
-  "147508": {
-    "published_at": "2026-11-18T18:06:18Z",
-    "updated_at": "2026-11-18T18:18:19Z",
-    "status": "Day-to-day",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Girgensons is day-to-day with an upper-body injury."
-  },
-  "147510": {
-    "published_at": "2026-11-18T18:18:27Z",
-    "updated_at": "2026-11-18T18:20:13Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Marino (upper-body) returned to practice in a full-contact jersey on Wednesday."
-  },
-  "147512": {
-    "published_at": "2026-11-18T18:57:25Z",
-    "updated_at": "2026-11-18T19:11:39Z",
-    "status": "Game-time decision",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sergachev (undisclosed) will be a game-time decision vs. Colorado on Wednesday."
-  },
-  "147514": {
-    "published_at": "2026-11-18T19:35:34Z",
-    "updated_at": "2026-11-18T20:29:55Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Samuelsson (maintenance) missed practice on Wednesday."
-  },
-  "147516": {
-    "published_at": "2026-11-18T20:39:16Z",
-    "updated_at": "2026-11-18T21:09:25Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Myers (upper-body) is doubtful to return vs. Vegas on Thursday."
-  },
-  "147517": {
-    "published_at": "2026-11-18T20:40:22Z",
-    "updated_at": "2026-11-18T21:10:18Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Back (broken finger) is skating but doubtful to return vs. Vegas on Thursday."
-  },
-  "147518": {
-    "published_at": "2026-11-18T22:35:21Z",
-    "updated_at": "2026-11-18T22:35:21Z",
-    "status": "Activated",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Lundestrom (achilies) has been activated from IR and is available vs. Chicago on Thursday."
-  },
-  "147523": {
-    "published_at": "2026-11-19T00:18:06Z",
-    "updated_at": "2026-11-19T00:18:06Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Siegenthaler (illness) is on the ice for warmups and expected to play Wednesday."
-  },
-  "147524": {
-    "published_at": "2026-11-19T02:40:31Z",
-    "updated_at": "2026-11-19T02:40:31Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Sergachev (undisclosed) is on the ice for warmups and will play on Wednesday."
-  },
-  "147525": {
-    "published_at": "2026-11-19T02:56:07Z",
-    "updated_at": "2026-11-19T02:56:07Z",
-    "status": "Other",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Wedgewood (illness) will serve as the backup on Wednesday."
-  },
-  "147527": {
-    "published_at": "2026-11-19T03:23:24Z",
-    "updated_at": "2026-11-19T03:23:24Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bolduc (undisclosed) left Wednesday game vs. New Jersey and did not return."
-  },
   "147528": {
     "published_at": "2026-11-19T04:44:20Z",
     "updated_at": "2026-11-19T04:44:20Z",
@@ -974,5 +830,141 @@
     "timeline": "",
     "surgery": false,
     "headline": "Olivier (upper-body) has been placed on IR."
+  },
+  "147894": {
+    "published_at": "2026-11-25T15:31:38Z",
+    "updated_at": "2026-11-25T15:49:34Z",
+    "status": "Practicing",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hagens (back) is a full participant in Wednesday\u2019s morning skate."
+  },
+  "147895": {
+    "published_at": "2026-11-25T15:33:40Z",
+    "updated_at": "2026-11-25T16:28:06Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hagel (lower-body) was activated off IR and will be a game-time decision vs. Carolina on Wednesday."
+  },
+  "147896": {
+    "published_at": "2026-11-25T15:34:11Z",
+    "updated_at": "2026-11-25T16:28:26Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Girgensons (upper-body) will be a game-time decision vs. Carolina on Wednesday."
+  },
+  "147899": {
+    "published_at": "2026-11-25T15:39:42Z",
+    "updated_at": "2026-11-25T15:57:48Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Barkov (knee) will return vs. Ottawa on Wednesday."
+  },
+  "147900": {
+    "published_at": "2026-11-25T15:40:04Z",
+    "updated_at": "2026-11-25T15:58:18Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Marchand (knee) will return vs. Ottawa on Wednesday."
+  },
+  "147902": {
+    "published_at": "2026-11-25T15:49:53Z",
+    "updated_at": "2026-11-25T16:04:10Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Samuelsson (maintenance) will be a game-time decision vs. New York on Wednesday."
+  },
+  "147907": {
+    "published_at": "2026-11-25T16:04:39Z",
+    "updated_at": "2026-11-25T16:24:56Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frost (undisclosed) will be a game-time decision in Pittsburgh on Wednesday."
+  },
+  "147911": {
+    "published_at": "2026-11-25T16:20:31Z",
+    "updated_at": "2026-11-25T16:34:27Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Malkin (upper-body) is available and expected to return vs. Calgary on Wednesday."
+  },
+  "147912": {
+    "published_at": "2026-11-25T16:21:24Z",
+    "updated_at": "2026-11-25T16:35:21Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Carlile (lower-body) is available and expected to return vs. Calgary on Wednesday."
+  },
+  "147913": {
+    "published_at": "2026-11-25T16:23:13Z",
+    "updated_at": "2026-11-25T16:37:01Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chinakhov (undisclosed) is out vs. Calgary on Wednesday."
+  },
+  "147914": {
+    "published_at": "2026-11-25T16:24:30Z",
+    "updated_at": "2026-11-25T16:39:22Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Pettersson (upper-body) has returned to Vancouver and is expected to miss the remainder of their road trip."
+  },
+  "147915": {
+    "published_at": "2026-11-25T16:29:19Z",
+    "updated_at": "2026-11-25T16:39:39Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Cernak (illness) will be a game-time decision vs. Carolina on Wednesday."
+  },
+  "147916": {
+    "published_at": "2026-11-25T16:29:43Z",
+    "updated_at": "2026-11-25T16:39:54Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hedman (illness) is a game-time decision vs. Carolina on Wednesday."
+  },
+  "147918": {
+    "published_at": "2026-11-25T16:32:14Z",
+    "updated_at": "2026-11-25T17:05:08Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Monahan (undisclosed) will return vs. New Jersey on Wednesday."
+  },
+  "147919": {
+    "published_at": "2026-11-25T16:33:10Z",
+    "updated_at": "2026-11-25T17:06:53Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frost (undisclosed) skated on Wednesday but will remain out vs. Pittsburgh."
+  },
+  "147978": {
+    "published_at": "2026-11-26T01:19:08Z",
+    "updated_at": "2026-11-26T01:19:08Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frondell (lower-body) will play on Wednesday."
+  },
+  "147979": {
+    "published_at": "2026-11-26T01:19:31Z",
+    "updated_at": "2026-11-26T01:19:31Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bertuzzi (illness) will not play on Wednesday."
   }
 }
