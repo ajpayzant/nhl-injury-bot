@@ -926,5 +926,45 @@
     "timeline": "",
     "surgery": false,
     "headline": "Bertuzzi (illness) will not play on Wednesday."
+  },
+  "147983": {
+    "published_at": "2026-11-26T19:04:31Z",
+    "updated_at": "2026-11-26T21:34:32Z",
+    "status": "Out",
+    "timeline": "4-6 weeks",
+    "surgery": false,
+    "headline": "Perreault (lower-body) is expected to be out for the next 4-6 weeks."
+  },
+  "147992": {
+    "published_at": "2026-11-26T19:13:52Z",
+    "updated_at": "2026-11-26T21:36:34Z",
+    "status": "Week-to-week",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Olivier is considered week-to-week with an upper-body injury."
+  },
+  "147994": {
+    "published_at": "2026-11-26T19:22:07Z",
+    "updated_at": "2026-11-26T21:37:05Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Sennecke (upper-body) will return vs. Los Angeles on Friday."
+  },
+  "147997": {
+    "published_at": "2026-11-26T21:50:12Z",
+    "updated_at": "2026-11-26T21:50:12Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Mateychuk (upper-body) is expected to be out vs. Detroit on Friday."
+  },
+  "147999": {
+    "published_at": "2026-11-26T22:05:19Z",
+    "updated_at": "2026-11-26T22:05:19Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hughes (upper-body) is doubtful to return vs. Colorado on Friday."
   }
 }
