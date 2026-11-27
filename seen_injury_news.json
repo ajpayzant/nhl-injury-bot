@@ -1,92 +1,4 @@
 {
-  "147607": {
-    "published_at": "2026-11-20T16:29:22Z",
-    "updated_at": "2026-11-20T16:45:13Z",
-    "status": "IR",
-    "timeline": "re-evaluated in 2 weeks",
-    "surgery": false,
-    "headline": "Robertson (lower-body) has been placed on IR and will be re-evaluated in two weeks."
-  },
-  "147608": {
-    "published_at": "2026-11-20T16:30:00Z",
-    "updated_at": "2026-11-20T16:46:38Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Malkin (upper-body) is considered day-to-day and will not travel with the team this weekend."
-  },
-  "147609": {
-    "published_at": "2026-11-20T16:30:51Z",
-    "updated_at": "2026-11-20T16:47:33Z",
-    "status": "Left game",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Olivier (undisclosed) left Thursday's game vs. Chicago and did not return."
-  },
-  "147611": {
-    "published_at": "2026-11-20T16:32:05Z",
-    "updated_at": "2026-11-20T16:49:02Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": true,
-    "headline": "Desharnais (appendectomy surgery) returned to practice in a full contact jersey on Friday."
-  },
-  "147612": {
-    "published_at": "2026-11-20T16:32:44Z",
-    "updated_at": "2026-11-20T16:50:27Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Bjorkstrand missed practice on Friday and is out with an upper-body injury."
-  },
-  "147614": {
-    "published_at": "2026-11-20T17:14:09Z",
-    "updated_at": "2026-11-20T18:02:16Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Johansson (undisclosed) will return vs. the Islanders on Saturday."
-  },
-  "147616": {
-    "published_at": "2026-11-20T17:41:42Z",
-    "updated_at": "2026-11-20T17:41:42Z",
-    "status": "Practicing",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Hutson (maintenance) missed practice on Friday."
-  },
-  "147619": {
-    "published_at": "2026-11-20T18:22:52Z",
-    "updated_at": "2026-11-20T18:27:18Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "McMichael (undisclosed) is out vs. New Jersey on Saturday and considered day-to-day."
-  },
-  "147620": {
-    "published_at": "2026-11-20T18:27:04Z",
-    "updated_at": "2026-11-20T18:28:52Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Guenther (upper-body) returned to practice in a full-contact jersey on Friday."
-  },
-  "147625": {
-    "published_at": "2026-11-20T19:20:50Z",
-    "updated_at": "2026-11-20T19:20:50Z",
-    "status": "Returning",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Rust (lower-body) returned to practice in a non-contact jersey on Friday."
-  },
-  "147626": {
-    "published_at": "2026-11-20T21:26:14Z",
-    "updated_at": "2026-11-20T21:26:14Z",
-    "status": "Out",
-    "timeline": "",
-    "surgery": false,
-    "headline": "Brindley (concussion) is expected to be out for a while."
-  },
   "147641": {
     "published_at": "2026-11-21T15:59:37Z",
     "updated_at": "2026-11-21T15:59:37Z",
@@ -966,5 +878,173 @@
     "timeline": "",
     "surgery": false,
     "headline": "Hughes (upper-body) is doubtful to return vs. Colorado on Friday."
+  },
+  "148053": {
+    "published_at": "2026-11-27T17:39:35Z",
+    "updated_at": "2026-11-27T17:39:35Z",
+    "status": "Activated",
+    "timeline": "",
+    "surgery": false,
+    "headline": "McMichael (lower-body) has been activated from IR."
+  },
+  "148054": {
+    "published_at": "2026-11-27T17:39:59Z",
+    "updated_at": "2026-11-27T18:25:49Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Snuggerud (upper-body) has been placed on IR."
+  },
+  "148055": {
+    "published_at": "2026-11-27T17:40:47Z",
+    "updated_at": "2026-11-27T18:20:12Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Frost (undisclosed) will return in New Jersey on Friday."
+  },
+  "148059": {
+    "published_at": "2026-11-27T17:53:25Z",
+    "updated_at": "2026-11-27T18:10:20Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Buchnevich (upper-body) will return vs. Dallas on Friday."
+  },
+  "148060": {
+    "published_at": "2026-11-27T17:53:52Z",
+    "updated_at": "2026-11-27T18:10:57Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "McMichael (lower-body) will return vs. Dallas on Friday."
+  },
+  "148063": {
+    "published_at": "2026-11-27T17:56:54Z",
+    "updated_at": "2026-11-27T18:13:02Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": true,
+    "headline": "Desharnais (appendectomy surgery) will return to the lineup vs. Florida on Friday."
+  },
+  "148074": {
+    "published_at": "2026-11-27T18:54:01Z",
+    "updated_at": "2026-11-27T18:57:55Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "The Blackhawks have placed Patrick Kane (undisclosed) on IR."
+  },
+  "148075": {
+    "published_at": "2026-11-27T18:56:10Z",
+    "updated_at": "2026-11-27T19:11:39Z",
+    "status": "Game-time decision",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Pastrnak (lower-body) is unlikely to return to Friday's game vs. Toronto."
+  },
+  "148077": {
+    "published_at": "2026-11-27T19:17:43Z",
+    "updated_at": "2026-11-27T19:25:28Z",
+    "status": "Day-to-day",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Guhle is day-to-day with an upper-body injury."
+  },
+  "148078": {
+    "published_at": "2026-11-27T19:21:21Z",
+    "updated_at": "2026-11-27T19:36:40Z",
+    "status": "IR",
+    "timeline": "4 weeks",
+    "surgery": false,
+    "headline": "Holmberg (undisclosed) has been placed on IR and will be out for 4 weeks."
+  },
+  "148082": {
+    "published_at": "2026-11-27T19:34:41Z",
+    "updated_at": "2026-11-27T19:39:01Z",
+    "status": "Returning",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hedman (illness) will return vs. Ottawa on Friday."
+  },
+  "148084": {
+    "published_at": "2026-11-27T19:41:39Z",
+    "updated_at": "2026-11-27T19:45:28Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Ostlund (undisclosed) has been placed on IR."
+  },
+  "148087": {
+    "published_at": "2026-11-27T19:50:15Z",
+    "updated_at": "2026-11-27T19:55:27Z",
+    "status": "IR",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Kozak (undisclosed) has been placed on IR."
+  },
+  "148090": {
+    "published_at": "2026-11-27T20:03:37Z",
+    "updated_at": "2026-11-27T20:19:45Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tanev (lower-body) will not return vs. Boston on Friday."
+  },
+  "148091": {
+    "published_at": "2026-11-27T20:10:18Z",
+    "updated_at": "2026-11-27T20:58:04Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Tippett (lower-body) is a late scratch vs. Vancouver on Friday."
+  },
+  "148095": {
+    "published_at": "2026-11-27T20:23:08Z",
+    "updated_at": "2026-11-27T20:23:08Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Guhle (lower-body) is out vs. Vegas on Saturday and is considered day-to-day."
+  },
+  "148100": {
+    "published_at": "2026-11-27T20:37:09Z",
+    "updated_at": "2026-11-27T20:40:42Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Dorofeyev (lower-body) will remain out vs. Chicago on Friday but is close to returning."
+  },
+  "148101": {
+    "published_at": "2026-11-27T21:00:22Z",
+    "updated_at": "2026-11-27T21:38:36Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Necas (upper-body) is a late scratch vs. Minnesota on Friday."
+  },
+  "148103": {
+    "published_at": "2026-11-27T21:06:08Z",
+    "updated_at": "2026-11-27T21:41:16Z",
+    "status": "Out",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Bertuzzi (illness) will remain out vs. New York on Friday."
+  },
+  "148104": {
+    "published_at": "2026-11-27T21:08:32Z",
+    "updated_at": "2026-11-27T21:39:52Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Hedman (undisclosed) left Friday's game vs. Ottawa and is not expected to return."
+  },
+  "148108": {
+    "published_at": "2026-11-27T22:07:46Z",
+    "updated_at": "2026-11-27T22:15:39Z",
+    "status": "Left game",
+    "timeline": "",
+    "surgery": false,
+    "headline": "Chytil (undisclosed) left Friday's game in Philadelphia and will not return."
   }
 }
